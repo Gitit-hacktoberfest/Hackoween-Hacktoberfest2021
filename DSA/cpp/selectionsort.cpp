@@ -1,6 +1,8 @@
+
+
 #include <bits/stdc++.h>
 using namespace std;
- 
+
 void swap(int *xp, int *yp)
 {
     int temp = *xp;
@@ -18,7 +20,11 @@ void selectionSort(int arr[], int n)
         // Find the minimum element in unsorted array
         min_idx = i;
         for (j = i+1; j < n; j++)
+
+          if (arr[j] < arr[min_idx])
+=======
         if (arr[j] < arr[min_idx])
+
             min_idx = j;
  
         // Swap the found minimum element with the first element
@@ -31,8 +37,13 @@ void printArray(int arr[], int size)
 {
     int i;
     for (i=0; i < size; i++)
+
+        printf("%d ", arr[i]);
+    printf("\n");
+=======
         cout << arr[i] << " ";
     cout << endl;
+
 }
  
 // Driver program to test above functions
@@ -41,7 +52,11 @@ int main()
     int arr[] = {64, 25, 12, 22, 11};
     int n = sizeof(arr)/sizeof(arr[0]);
     selectionSort(arr, n);
+
+    printf("Sorted array: \n");
+
     cout << "Sorted array: \n";
+
     printArray(arr, n);
     return 0;
 }
