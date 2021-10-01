@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main(){
-  printf("Welcome to Hackoween!");
+  printf("Welcome to Halloween!");
 }
