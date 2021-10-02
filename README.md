@@ -6,4 +6,4 @@
 - Do not push spam codes (They should be proper codes and not just one liners or space fixes).
 
 # See you on 9th!
-- We are also hosting a event on 9th october 2021 on discord: https://discord.gg/e7bX59rT join the server for some fun events and meet up with new hackers and collaborate to grow the community.
+- We are also hosting an event on 9th October 2021 on discord: https://discord.gg/e7bX59rT join the server for some fun events and meet up with new hackers and collaborate to grow the community.
