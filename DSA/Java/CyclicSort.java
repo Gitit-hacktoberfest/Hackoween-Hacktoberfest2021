@@ -1,6 +1,19 @@
 // Cyclic Sort in JAVA
 // Import Package in case you used IDE 
 
+/* What is Cyclic Sort and When to use it : If the given array to be sorted is from [ 1 to N ] or [0 to N ] 
+where N is the total elements of the array , Then we can perform cyclic sort. 
+For example arr = { 5,4,1,2,3 } Since arr is unsorted array and starts from numbers 1 to 5 the
+we can perform Cyclic sort to sort the array.
+
+Time Complexities :
+Here N = No.of.elements present in the array.
+Best case : If the array is already sorted , then we will have N number of comparisons.
+there fore Best case is O(N).
+Worst Case : It will be O(N) again. Lets see worst case example arr={3,5,2,1,4} here we wil
+make 4 swaps + 5 swaps which is (n-1)+(n) = 2n-1 it will be O(N).*/  
+
+
 // Code Starts
 
 import java.util.Arrays;
