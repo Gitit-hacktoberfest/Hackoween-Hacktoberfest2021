@@ -11,11 +11,11 @@ Here N = No.of.elements present in the array.
 Best case : If the array is already sorted , then we will have N number of comparisons.
 there fore Best case is O(N).
 Worst Case : It will be O(N) again. Lets see worst case example arr={3,5,2,1,4} here we wil
-make 4 swaps + 5 swaps which is (n-1)+(n) = 2n-1 it will be O(N).*/  
+make 4 swaps + 5 swaps which is (n-1)+(n) = 2n-1 it will be O(N).  
 
 Space Complexity :
 Since we dont have any extra variable or array time complexity will be constant.
-therefore O(1)
+therefore it will be O(1) */
 
 
 // Code Starts
