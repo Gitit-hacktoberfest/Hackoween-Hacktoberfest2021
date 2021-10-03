@@ -1,3 +1,14 @@
+/* 
+   This is a program on the insertion sort.
+   It's a sorting algorithm.
+   *******Time complexity of the insertion sort algorithm********
+   Best complexity: n
+   Average complexity: n^2
+   worst complexity: n^2
+   *******Space complexity of the insertion sort algorithm********
+   Space complexity: 1
+   **********now see the source code of insertion sort below**********
+   */
 #include<iostream>
 using namespace std;
 //display function to display the array
