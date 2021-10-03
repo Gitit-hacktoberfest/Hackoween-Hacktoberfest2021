@@ -1,3 +1,6 @@
+/* Time Complexity of Bubble Sort Algorithm is O(n squared) */
+
+
 class BubbleSort {
     void bubbleSort(int arr[]){
         int n = arr.length;   // Substituting to the length because maximum n times function will run.
