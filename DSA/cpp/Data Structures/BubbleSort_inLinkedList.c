@@ -28,9 +28,10 @@ int main(){
         else
         prev->next=current;
         prev=current;
-    }    
+    }  
+ /*calling the bubblesort function*/
 
-    bubblesort(); /*calling the bubblesort function*/
+    bubblesort();
     struct node *temp1 = head;
     printf("The sorted values are : ");
 	/*printing the data values*/
