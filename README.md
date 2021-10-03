@@ -22,3 +22,4 @@ In the top-right corner, click on the fork button and fork the repository.
 
 # See you on the 9th!
 - We are also hosting an event on 9th October 2021 on [discord](https://discord.gg/e7bX59rT)! Join the server for some fun events and meet up with new hackers and collaborate to the community grow!
+- Link to our website: https://gitinto.netlify.app/
