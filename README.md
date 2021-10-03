@@ -6,6 +6,8 @@
 - Do not push spam codes (They should be proper codes and not just one liners or space fixes).
 - Please try to add extended descriptions about the code you are adding.
 - Single line commits will be closed and will be marked as spam.
+- **For DSA Code**:
+    Try to add time and space complexity to the actual code as comments.
 
 # How to open a pull request:
 
