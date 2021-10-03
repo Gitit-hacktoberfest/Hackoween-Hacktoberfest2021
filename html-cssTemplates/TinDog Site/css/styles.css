@@ -1,0 +1,177 @@
+.carousel-item{
+  padding: 7% 15%;
+}
+
+.colored-section{
+  background-color: #FF4C68;
+  color: white;
+}
+
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+
+.cta-h3{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  font-weight: bolder;
+  line-height: 1.5;
+}
+
+.download-button{
+  margin: 5% 3% 5% 0%;
+}
+
+.feature-icons{
+  color: #EF8172;
+  font-size: 4.5rem;
+  margin-bottom: 1rem;
+}
+
+.feature-icons:hover{
+  color: #FF4C68;
+}
+
+.navbar{
+  padding: 0px 0px 4.5rem;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.nav-item{
+  padding: 0px 18px;
+}
+
+.nav-link{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 100;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.price-text{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.pricing-column{
+  padding: 3% 2%;
+}
+
+.social-icon{
+  margin: 20% 5%;
+}
+
+.testimonial-image{
+  border-radius: 100%;
+  margin: 20px;
+  width: 10%;
+}
+
+.testimonial-text{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.title-image{
+  /* width: 60%; */
+  transform: rotate(25deg);
+  position: relative;
+}
+
+.white-section{
+  background-color: white;
+}
+
+/* Headings */
+
+.big-heading{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+.section-heading{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.feature-heading{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+body{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+p{
+  color: #8F8F8F;
+}
+
+#cta{
+  padding: 7% 15%;
+}
+
+#features{
+  padding: 7% 15%;
+  position: relative;
+  z-index: 1;
+}
+
+#footer{
+  padding: 7% 15%;
+}
+
+#press{
+  background-color: #EF8172;
+  padding-bottom: 3%;
+}
+
+#pricing{
+  padding: 100px;
+}
+
+#testimonials{
+  background-color: #EF8172;
+}
+
+#title{
+  text-align: left;
+}
+
+@media (max-width: 1200px) {
+
+  .title-image{
+    position: static;
+    transform: rotate(0deg);
+  }
+
+  #title{
+    text-align: center;
+  }
+
+}
