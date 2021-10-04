@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Home</title>
+</head>
+<style>
+
+body {
+	background-color: #3b3c40;
+	margin: 0px;
+}
+
+.text {
+
+color: white;
+border-radius: 10px;
+font-size: 20px;
+margin-left: 1px;
+margin-top: 80px;
+padding: 10px;
+}
+
+.text:hover {
+	cursor: pointer;
+	color: #bfbfbf;
+}  
+
+.a {
+
+	background-color: #44454a;
+	height: 615px;
+	width: 80px;
+	padding-left: 5px;
+	margin-left: 0;
+}
+
+.mail {
+background-color: #f4ff78;
+height: 40px;
+width: 50px;
+color: white;
+margin-left: 1200px;
+margin-top: 0px;
+border-radius: 5px;
+}
+
+	
+
+</style>
+<body>
+
+
+
+<div class="a">
+	<img src="pict/logo.png", width="70px", height="70px">
+
+
+<div class="text">Home</div>
+
+<div class="mail">
+	<a href="mailto:abdirabbani59@gmail.com"><img src="pict/mail.png", width="50px", height="40px"></a>
+</div>
+
+</div>
+
+</body>
+</html>
