@@ -21,5 +21,5 @@ In the top-right corner, click on the fork button and fork the repository.
 - Click on contribute and then open pull request. Try to ensure that the description about the added code is extensive.
 
 # See you on the 9th!
-- We are also hosting an event on 9th October 2021 on [discord](https://discord.gg/e7bX59rT)! Join the server for some fun events and meet up with new hackers and collaborate to the community grow!
+- We are also hosting an event on 9th October 2021 on [discord](https://discord.gg/e7bX59rT)! Join the server for some fun events and meet up with new hackers and collaborate to help the community grow!
 - Link to our website: https://gitinto.netlify.app/
