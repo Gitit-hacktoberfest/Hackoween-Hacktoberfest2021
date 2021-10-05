@@ -40,7 +40,7 @@ body:
     id: terms
     attributes:
       label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct]()
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/Gitit-hacktoberfest/Hackoween-Hacktoberfest2021/blob/main/CODE_OF_CONDUCT.md)
       options:
-        - label: I follow Contributing Guidelines & Code of conduct.
+        - label: I follow [Contributing Guidelines](https://github.com/Gitit-hacktoberfest/Hackoween-Hacktoberfest2021/blob/main/contribution.md) & [Code of Conduct](https://github.com/Gitit-hacktoberfest/Hackoween-Hacktoberfest2021/blob/main/CODE_OF_CONDUCT.md)
           required: true
