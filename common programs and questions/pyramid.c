@@ -38,3 +38,7 @@ int get_positive_int(string prompt) //coding a function
     while (number < 1 || number > 8); //checking the right range between 1 and 8
     return number; //returning if incorrect number
 }
+
+
+// Time: N*c+N*N*c+c
+// Space: O(N**2)
