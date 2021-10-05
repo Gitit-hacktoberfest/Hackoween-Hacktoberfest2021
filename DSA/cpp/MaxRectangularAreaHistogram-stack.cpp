@@ -8,6 +8,9 @@ N = 7
 arr[] = {6,2,5,4,5,1,6}
 Output: 12*/
 
+//Time complexity:-O(N)
+//Space complexity:-O(N)
+
 #include <bits/stdc++.h>
 
 using namespace std;
