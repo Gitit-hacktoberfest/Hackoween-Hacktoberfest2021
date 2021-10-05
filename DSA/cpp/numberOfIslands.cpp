@@ -40,6 +40,8 @@
 // 1 <= m, n <= 300
 // grid[i][j] is '0' or '1'.
 
+// Space Complexity: O(m*n)
+// Time Complexity: O(m*n)
 
 // My Solution:
 
