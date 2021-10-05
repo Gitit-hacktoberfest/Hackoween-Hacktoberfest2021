@@ -35,7 +35,7 @@ void main()
 {
 
 int no, ch, e;
-
+// Choices 
 printf("\n 1 - Push");
 
 printf("\n 2 - Pop");
@@ -54,11 +54,11 @@ printf("\n 8 - Destroy stack");
 
 create();
 
-while (1)
+while (1) // when condition is true
 
 {
 
-printf("\n Enter choice : ");
+printf("\n Enter choice : "); 
 
 scanf("%d", &ch);
 
@@ -68,23 +68,23 @@ switch (ch)
 
 case 1:
 
-printf("Enter data : ");
+printf("Enter data : "); 
 
 scanf("%d", &no);
 
-push(no);
+push(no); // to add data
 
 break;
 
 case 2:
 
-pop();
+pop();  // to delete data
 
 break;
 
 case 3:
 
-if (top == NULL)
+if (top == NULL) // to check if stack is empty
 
 printf("No elements in stack");
 
@@ -102,29 +102,29 @@ break;
 
 case 4:
 
-empty();
+empty(); // top element in stack
 
 break;
 
 case 5:
 
-exit(0);
+exit(0); // exit i.e close program 
 
 case 6:
 
-display();
+display(); // display elements in stack
 
 break;
 
 case 7:
 
-stack_count();
+stack_count(); // to count no of data in stack 
 
 break;
 
 case 8:
 
-destroy();
+destroy(); // to delete stack
 
 break;
 
@@ -139,7 +139,7 @@ break;
 }
 
 }
-
+// creating stack 
 void create()
 
 {
@@ -147,15 +147,15 @@ void create()
 top = NULL;
 
 }
-
+// counting no of elements in stack
 void stack_count()
 
-{
+{ 
 
 printf("\n No. of elements in stack : %d", count);
 
 }
-
+// saving data in stack
 void push(int data)
 
 {
@@ -189,7 +189,7 @@ top = temp;
 count++;
 
 }
-
+// display data in stack
 void display()
 
 {
@@ -217,7 +217,7 @@ top1 = top1->ptr;
 }
 
 }
-
+// delete data in stack 
 void pop()
 
 {
@@ -269,7 +269,7 @@ else
 printf("\n Stack is not empty with %d elements", count);
 
 }
-
+// delete whole stack
 void destroy()
 
 {
