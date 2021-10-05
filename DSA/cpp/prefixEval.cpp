@@ -1,3 +1,8 @@
+//space complexity: O(n)
+//time complexity: O(n)
+//The algorithm has linear complexity. this is beacuuse, we scan the expression once and perform at most O(N) push and pop operations.
+// push and pop operations take constant time.
+
 #include <bits/stdc++.h>
 using namespace std;
 
