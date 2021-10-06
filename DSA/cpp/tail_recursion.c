@@ -1,4 +1,5 @@
-//time complexity: o(n)
+// Time complexity: o(n), Space complexity: o(n)
+// Tail recursion
 
 #include <stdio.h>
 void fun(int n)
