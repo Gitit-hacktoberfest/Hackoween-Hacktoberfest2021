@@ -30,6 +30,7 @@
 <!----Please delete options that are not relevant.
       And in order to tick the check box just but x inside them for example [x] like this----->
 
+- [ ] I have added Comments and added the time and space complexity of the code (For DSA).
 - [ ] I follow Contributing Guidelines & Code of conduct of this project.
 - [ ] I have performed a self-review of my own code or work.
 - [ ] I have commented my code, particularly in hard-to-understand areas.
