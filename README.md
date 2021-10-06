@@ -9,6 +9,7 @@
 - Single line commits will be closed and will be marked as spam.
 - **For DSA Code**:
     Try to add time and space complexity to the actual code as comments.
+- **Follow the [pull request template](https://github.com/Gitit-hacktoberfest/Hackoween-Hacktoberfest2021/blob/main/.github/PULL_REQUEST_TEMPLATE.md)**
 
 # How to open a pull request:
 
