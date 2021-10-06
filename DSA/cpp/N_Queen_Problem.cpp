@@ -3,6 +3,8 @@
 // Purpose: Problems on Permutation
 // Problem:-
 // Queens must be placed in the chessboard such that no one attacks one another
+// Space Complexity -> O(N) for N = Length of the Array to store N positions
+// Time Complexity -> O(2^n) for n = Number of Queens
 
 #include<bits/stdc++.h>
 using namespace std;
