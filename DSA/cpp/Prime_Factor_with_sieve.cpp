@@ -1,5 +1,7 @@
 Q. To Find the Prime Factor of a given number using Sieve of Eratosthenes algorithm.
 
+* Time Complexity: O(nloglogn)
+    
 #include <iostream>
 using namespace std;
 
