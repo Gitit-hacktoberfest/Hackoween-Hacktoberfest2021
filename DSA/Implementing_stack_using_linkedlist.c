@@ -299,3 +299,13 @@ printf("\n All stack elements destroyed");
 count = 0;
 
 }
+
+
+
+
+
+// time complexity
+// Push: O(1)
+// Pop: O(1)
+// Top: O(1)
+// space complexity: O(n)
