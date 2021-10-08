@@ -1,6 +1,14 @@
 # The 8-Queens
 - This one is a classic in computer science. The goal is to assign eight queens to eight positions on an 8x8 chessboard so that no queen, according to the rules of 
   normal chess play, can attack any other queen on the board. 
+
+### Time Complexity:
+1. Iterative: `T(n) = O(n^2) + n * T(n-1)`
+2. Recursive: `O(N!)`
+
+### Space Complexity: `O(N)`
+
+
 - In pseudocode, our strategy will be:
 ```cpp
 Start in the leftmost columm
