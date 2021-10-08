@@ -1,0 +1,45 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-image:url("images/bgdice.jfif ") ;
+ height: 100%;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #274646;
+  font-size: 8rem;
+  color: #29868a;
+}
+
+p {
+  font-size: 2rem;
+  color: #74eaee;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #dce6eb;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
