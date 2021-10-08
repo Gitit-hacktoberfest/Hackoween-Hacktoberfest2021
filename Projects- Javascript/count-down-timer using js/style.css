@@ -1,0 +1,61 @@
+body {
+    background: #f6f6f6;
+}
+@font-face {
+    font-family: sevenSegment;
+    src: url('7\ Segment.ttf');
+}
+.center {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+.m-heading {
+    background: coral;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin:10px;
+}
+.s-left {
+    text-align: center;
+    color:grey;
+    font-weight: bold;
+}
+#number {
+    font-family: sevenSegment;
+    font-size: 100px;
+    color: grey;
+    text-align: center;
+}
+.btn {
+    background: coral;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border:none;
+    font-size: 18px;
+    transition: font-size 0.5s ease-in, background 0.5s ease-out, color 0.5s ease;
+}
+.box-btn {
+    text-align: center;;
+}
+.start-btn {
+    padding: 5px 20px 5px 20px;
+}
+.clear-btn {
+    padding: 5px 10px 5px 10px;
+}
+.btn:hover {
+    font-size: 20px;
+    background:salmon;
+    color: black;
+}
+
+@media(max-width: 768px) {
+    .m-heading {
+        font-size: 15px;
+    }
+    #number {
+        font-size: 50px;
+    }
+}
