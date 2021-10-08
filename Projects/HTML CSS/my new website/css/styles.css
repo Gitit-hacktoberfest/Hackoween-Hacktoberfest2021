@@ -1,14 +1,10 @@
 
-
-
-
-
-
-
-
 #title {
     background-image: linear-gradient(rgba(187, 255, 255, 0.5), rgba(0, 0, 0, 0.5)), url("pebbles-1090536.jpg");
     color: rgb(255, 255, 255);
+}
+body{
+    background-image: linear-gradient(to right, #00000066, #00000066);
 }
 
 h1 {
@@ -33,6 +29,75 @@ body {
 }
 
 /* navbar */
+
+
+.gradient-text {
+
+  background-color: #CA4246;
+  
+   background-image: linear-gradient(
+        45deg,
+        #CA4246 16.666%, 
+        #E16541 16.666%, 
+        #E16541 33.333%, 
+        #F18F43 33.333%, 
+        #F18F43 50%, 
+        #8B9862 50%, 
+        #8B9862 66.666%, 
+        #476098 66.666%, 
+        #476098 83.333%, 
+        #A7489B 83.333%);
+
+  background-size: 100%;
+  background-repeat: repeat;
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  
+   animation: rainbow-text-simple-animation-rev 0.75s ease forwards;
+
+}
+
+.gradient-text:hover{
+    animation: rainbow-text-simple-animation 0.5s ease-in forwards;
+}
+
+
+@keyframes rainbow-text-simple-animation-rev {
+    0% {
+        background-size: 650%;
+    }
+    40% {
+        background-size: 650%;
+    }
+    100% {
+        background-size: 100%;
+    }
+}
+
+@keyframes rainbow-text-simple-animation {
+    0% {
+        background-size: 100%;
+    }
+    80% {
+        background-size: 650%;
+    }
+    100% {
+        background-size: 650%;
+    }
+}
+
+.title-image {
+    -webkit-transform: rotate(15deg) scale(1.4);
+    transform: rotate(15deg) scale(1.4);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+.title-image:hover{
+    -webkit-transform: rotate(0) scale(1);
+    transform: rotate(0) scale(1);
+}
+
 
 .navbar {
     color: rgb(255, 15, 15);
@@ -203,8 +268,6 @@ a {
     text-decoration: none;
 }
 
-h1,
-h2,
 h3 {
     text-transform: uppercase;
 }
@@ -221,12 +284,13 @@ h3 {
     line-height: 1.25em;
     margin-top: .85em;
     margin-bottom: .5em;
+    text-align: center;
 }
 
 p {
     font-size: .875em;
     line-height: 1.4;
-    margin: 0 0 1.5em;
+    margin: auto;
 }
 
 /* ================================= 
