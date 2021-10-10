@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    transition: 250ms linear;
+}
+
+body.dark {
+    background: #191919;
+}
+
+.checkbox {
+    display: none;
+}
+
+.checkbox:checked + label .slider {
+    transform: translateX(25px);
+}
+
+label {
+    background: #000;
+    width: 45px;
+    height: 20px;
+    padding: 5px;
+    border-radius: 50px;
+    position: relative;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transform: scale(1.6);
+}
+
+.slider {
+    position: absolute;
+    background: #fff;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    transition: transform 250ms linear;
+}
