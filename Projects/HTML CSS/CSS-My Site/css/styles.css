@@ -1,0 +1,68 @@
+.top_container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 0;
+
+
+}
+.text{
+  color: #40514E;
+}
+
+body{
+  margin:0;
+  text-align: center;
+  font-family: sans-serif;
+
+}
+h1{
+  margin-top:50px;
+  line-height: 2;
+  color: #66BFBF;
+}
+
+
+.cloud2{
+  position:absolute;
+  left: 900px;
+  bottom: 300px;
+}
+.cloud1{
+  position: absolute;
+  right: 900px;
+  top: 50px;
+}
+h2{
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+h3
+{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+.text{
+  font-weight: bolder;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.code-img{
+  width:25%;
+  float: right;
+  margin-left: 10px;
+
+}
+.chillies-img{
+  width: 25%;
+  float: left;
+  margin-right: 10px;
+}
