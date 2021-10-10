@@ -2,6 +2,7 @@
 Program to find prime numbers in a range using Sieve of Eratosthenes
 */
 
+//TIME COMPLEXITY : O(N*log(log N))
 #include <iostream>
 #include <vector>
 using namespace std;
