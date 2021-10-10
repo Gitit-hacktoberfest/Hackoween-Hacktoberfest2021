@@ -1,0 +1,35 @@
+.upper-tab{
+  position: fixed;
+  background-color: black;
+  width: 100%;
+  height: 100px
+
+}
+body{
+  margin:0;
+
+}
+.id-logo{
+  height: 100px;
+  float: left;
+}
+.button{
+  margin-top: 35px ;
+  margin-left: 100px;
+  position: relative;
+  padding-left: 200px;
+  float: left;
+
+}
+
+p{
+  position: relative;
+}
+.button2{
+  margin-left:70px;
+  margin-top: 35px;
+
+  display:inline-block;
+
+
+}
