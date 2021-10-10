@@ -1,0 +1,263 @@
+body{
+    overflow: hidden;
+    font-family:arial,sans-serif;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0.5rem 0;
+    height: 5vh;
+}
+
+header:nth-of-type(3)
+{
+    margin: 0;
+    padding: 0;
+
+}
+
+.link{
+    margin-right: 10px;
+    color: grey;
+}
+
+a.link {
+    color:gray;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+.material-icons{
+    margin-right: 1rem;
+    color:gray;
+}
+
+.material-icons:hover{
+    cursor: pointer;
+    border-radius: 50%;
+    background-color: rgba(233, 229, 229, 0.616);
+}
+
+span + p{
+    display: none;
+}
+
+span:hover + p{
+    display:block;
+    position:absolute;
+    top: 5%;
+    right: 4%;
+    border: 2px solid grey;
+    border-radius: 6px;
+    padding: 0.2rem;
+    background-color: grey;
+   
+}
+
+.gmailName{ 
+    border-radius: 50%;
+    background-color: red;
+    color: black;
+    height: 2.2vw;
+    width: 2.2vw;
+    border: 3px  grey;
+    margin-left: 0.5rem;
+}
+
+.gmailName:hover{
+    cursor: pointer;
+    border: 1px solid rgb(240, 237, 237);
+}
+
+button[type=text] + p{
+    display: none;
+}
+
+button[type=text]:hover + p{
+    display: block;
+    position: absolute;
+    font-size: 1rem;
+    top: 2.5rem;
+    background-color: gray;
+    border: 2px solid grey;
+    border-radius: 5px;
+}
+
+.image {
+    display:flex;
+    justify-content: center;
+    height: 15vh;
+}
+
+img {
+    height: 18vh;
+    width: 21rem;
+}
+
+.GoogleSearch {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    height: 3vh;
+}
+
+input[type=text]{
+    width: 35rem;
+    height: 6vh;
+    border: 1px solid rgb(207, 198, 198,1);
+    border-radius: 10rem;
+    outline:  none;
+    background-image: url("image/mic.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    padding-left: 40px;
+ }
+ 
+input[type=text]
+{
+    background: url("image/search.png") no-repeat left center,
+                url("image/mic.png") no-repeat right center;
+}
+input[type=text]:focus{
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+    border:none;
+}
+
+input[type=text]:hover{
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+    border:none;
+    transition: ease-in 30ms;
+}
+
+.Search {
+    display : flex;
+    justify-content: center;
+    height: 5vh;
+    margin-top: 5%;
+}
+
+.button1,.button2{
+    outline: none;
+    background-color: #f7f2f3;
+    border:hidden;
+    font-family: sans-serif;
+}
+
+.button2{
+    margin-left: 1rem;
+}
+
+.button1:focus , .button1:hover , .button2:focus , .button2:hover{
+    cursor: pointer;
+    outline: none;
+    transition: border 1ms ease-in-out;
+    border: 1.5px solid rgb(214, 207, 207);
+    border-bottom-width: 0.6px;
+}
+
+.language{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+ul.lang{
+    list-style-type: none;
+    justify-content: center;
+    margin-top: 2rem;
+    height: 5vh;
+    margin-left: -2rem;
+}
+
+.Same{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+a.same{
+    padding: 15px 15px;
+    text-decoration: none;
+    color: rgb(19, 79, 245);
+}
+
+a.same:hover{
+    color: purple;
+}
+
+.lang{
+    display: flex;
+    flex-direction: row;
+}
+
+.free{
+    display: flex;
+    height: 25vh;
+}
+
+.footer{
+    display: flex;
+    border-bottom: 1px solid grey;
+    height: 8vh;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #f7f2f3;
+    color: rgb(119, 119, 153); 
+}
+
+ul.futer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+    background-color: rgb(241, 238, 238);
+    padding-top: 1rem;
+    width: 50%;
+}
+
+a.footer1 , a.footer11,a.footer2 ,a.footer21,.footer3{
+    color: rgb(119, 119, 153); 
+    text-decoration: none;
+}
+
+footer {
+    background-color: rgb(241, 238, 238);
+    /* border-top: 1px solid grey; */
+    height: 11vh;
+} 
+
+a.footer11{
+    margin-left: -2rem;
+}
+
+.down{
+    display: flex;
+    flex-direction: row;
+}
+
+ul.sec2{
+    display: flex;
+    width: 50%;
+    list-style-type: none;
+    background-color: rgb(241, 238, 238);
+    padding-top: 1rem;
+    justify-content: flex-end;
+    
+}
+
+a.footer2, a.footer21{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
