@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://kit.fontawesome.com/6fbf6ef06b.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <input type="checkbox" id="checkbox" class="checkbox">
+    <label for="checkbox">
+        <i class="fas fa-moon"></i>
+        <i class="far fa-sun"></i>
+        <div class="slider"></div>
+    </label>
+</body>
+
+<script>
+    let body = document.querySelector('body');
+    let box = document.getElementById('checkbox');
+
+    box.addEventListener('click', ()=>{
+        body.classList.toggle('dark');
+    })
+</script>
+</html>
