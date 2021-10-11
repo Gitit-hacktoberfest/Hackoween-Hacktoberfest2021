@@ -1,3 +1,20 @@
+/*
+There are N Children are seated on N chairs arranged around a circle. The chairs are numbered from 1 to N. The game starts going in circles counting the 
+children starting with the first chair. Once the count reaches K, that child leaves the game, removing his/her chair. The game starts again, beginning with 
+the next chair in the circle. The last child remaining in the circle is the winner. Find the child that wins the game.
+  
+For Example :-
+
+Input : N = 5, K = 2
+Output : 3
+Firstly, the child at position 2 is out, 
+then position 4 goes out, then position 1
+Finally, the child at position 5 is out. 
+So the position 3 survives.
+
+Input : 7 4
+Output : 2         */
+
 #include<stdio.h>
 #include<stdlib.h>
 struct doubleLL{
@@ -86,3 +103,11 @@ int main(){
     printf("%d is the Winner!\n",head->data);
     return 1;
 }
+
+
+/*
+The time complexity of this approach is O(logN).
+
+The space complexity of this approach is O(1).
+
+*/
