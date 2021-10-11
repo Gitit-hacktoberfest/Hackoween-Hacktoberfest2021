@@ -1,0 +1,25 @@
+h1{
+  color: green;
+  font-style: italic;
+}
+img
+{
+  width: 150px;
+  background-color: red;
+  margin-left: 10px;
+}
+/**** class selectors ****/
+.mango{
+  background-color: green;
+  margin-left: 1px;
+
+}
+.tangerine{
+  background-color: yellow;
+}
+
+/**** id selectors ****/
+
+#heading{
+  color:red;
+}
