@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+label {
+  font-weight: bold;
+  font-size: 20px;
+}
+input {
+  height: 40px;
+  width: 150px;
+  padding: 0.5rem;
+  text-align: center;
+  font-size: 15px;
+  outline: none;
+  border-radius: 0.5rem;
+  display: block;
+  margin: 1rem auto;
+  border: 2px solid blue;
+}
+button {
+  width: 150px;
+  height: 50px;
+  margin: 1rem;
+  border-radius: 0.5rem;
+  outline: none;
+  font-size: 18px;
+  border: 2px solid blue;
+  cursor: pointer;
+}
+#birthday-cake {
+  width: 300px;
+  margin: 1rem auto;
+}
+
+#output {
+  font-weight: bold;
+  font-size: 20px;
+  margin: 1rem auto;
+}
+
+.footer {
+  margin-top: 150px;
+  padding: 1rem;
+  text-align: center;
+}
+
+.footer .footer-header {
+  font-weight: bold;
+  font-size: large;
+}
+
+.footer ul {
+  padding-inline-start: 0px;
+}
+
+.list-item-inline {
+  display: inline;
+  padding: 0rem 0.3rem;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.footer .link {
+  color: blue;
+}
+
+#notice {
+  background-color: #eee5e9;
+  padding: 0.5rem;
+  margin: 1rem auto;
+  width: 65%;
+  border-radius: 0.5rem;
+}
