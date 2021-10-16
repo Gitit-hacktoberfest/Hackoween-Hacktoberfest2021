@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Side Bar</title>
+    <link rel="stylesheet" href="css/all.min.css" />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+
+  <body>
+
+    <header id="header">
+        <i class="fas fa-hamburger" id="menu-icon"></i>
+    </header>
+    
+    <div id="side-bar">
+      <ul class="menu-list">
+        <li>
+          <a href="#">
+            <span class="item-icon"><i class="fas fa-database"></i></span>
+            <span class="item-title">Dashboard</span>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <span class="item-icon"><i class="fab fa-jedi-order"></i></span>
+            <span class="item-title">Orders</span>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <span class="item-icon"><i class="fas fa-calculator"></i></span>
+            <span class="item-title">Categories</span>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <span class="item-icon"><i class="fab fa-product-hunt"></i></span>
+            <span class="item-title">Products</span>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <span class="item-icon"><i class="fab fa-dailymotion"></i></span>
+            <span class="item-title">Admins</span>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <span class="item-icon"><i class="fas fa-user"></i></span>
+            <span class="item-title">Users</span>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <span class="item-icon"><i class="fas fa-tools"></i></span>
+            <span class="item-title">Settings</span>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <span class="item-icon"><i class="fab fa-optin-monster"></i></span>
+            <span class="item-title">Options</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+
+    <main>
+      <h1>Main heading</h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi veniam hic
+        error rerum esse? Ullam, voluptatibus! Iure rem sit tempora esse
+        explicabo magni reprehenderit magnam odit. Iste itaque ipsam corporis
+        assumenda obcaecati fugiat atque distinctio praesentium voluptate
+        laboriosam harum ex odit doloribus, sunt id corrupti! Earum itaque
+        voluptates quisquam dignissimos, architecto qui velit quia recusandae
+        alias veniam sequi officia molestias, beatae nisi! Recusandae culpa
+        nulla molestiae ab molestias neque nostrum vel dolore quos quaerat non
+        distinctio odio similique natus voluptates aliquid iure tempora
+        repellat, doloribus modi itaque ipsa quam. Sit totam architecto corporis
+        nulla distinctio vitae nesciunt officia, magni exercitationem!
+      </p>
+    </main>
+
+    <section>
+        <h1>Sub heading</h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi veniam hic
+        error rerum esse? Ullam, voluptatibus! Iure rem sit tempora esse
+        explicabo magni reprehenderit magnam odit. Iste itaque ipsam corporis
+        assumenda obcaecati fugiat atque distinctio praesentium voluptate
+        laboriosam harum ex odit doloribus, sunt id corrupti! Earum itaque
+        voluptates quisquam dignissimos, architecto qui velit quia recusandae
+      </p>
+    </section>
+
+    <script>
+        const menuIcon = document.querySelector('#menu-icon');
+        const sideBar = document.querySelector('#side-bar');
+
+        menuIcon.onclick=()=>{
+            sideBar.classList.toggle("active");
+        }
+        
+    </script>
+  </body>
+</html>
