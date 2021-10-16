@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="style.css" type="text/css" rel="stylesheet">
+  <title>My Book List</title>
+</head>
+
+<body>
+
+  <div class="container">
+    <section class="UI-section">
+      <div class="header">
+        <h1>My <span>Book</span>List</h1>
+      </div>
+      <div class="form-part">
+        <form id="book-form">
+          <div>
+            <label for="b-name">Name:</label>
+            <input id="b-name" type="text" autocomplete="off">
+          </div>
+          <div>
+            <label for="b-author">Author:</label>
+            <input id="b-author" type="text" autocomplete="off">
+          </div>
+          <div>
+            <label for="b-editon">Edition:</label>
+            <input id="b-edition" type="number">
+          </div>
+          <div>
+            <input class="btn" type="submit" value="Add Book">
+          </div>
+        </form>
+      </div>
+    </section>
+
+    <section class="bookinfo-section">
+      <table class="book-table">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Author</th>
+            <th>Edition</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody id="tbody">
+          <tr>
+            <td>HTML</td>
+            <td>John Duck</td>
+            <td>5</td>
+            <td><a class="btn-cancel" href="#" onclick="removeBook(this)">&times;</a></td>
+          </tr>
+          <tr>
+            <td>CSS</td>
+            <td>Jahn Duck</td>
+            <td>3</td>
+            <td><a class="btn-cancel" href="#" onclick="removeBook(this)">&times;</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>

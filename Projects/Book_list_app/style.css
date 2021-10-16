@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    max-width:700px;
+    margin: 1rem auto;
+    padding: 20px 15px;
+}
+.header{
+    padding: 1rem 0;
+    text-align: center;
+    background-color: rgb(186, 216, 226);
+}
+.header h1{
+    color:red;
+    font-size: 2rem;
+    
+}
+.header h1 span{
+  color:steelblue;
+}
+
+/* Style For Alert*/
+.Alert{
+    font-size: 14px;
+    color: #fff;
+    padding: 12px;
+}
+.succses{
+    background-color: rgb(60, 209, 30);
+}
+.failed{
+    background-color: rgb(250, 43, 43);
+}
+
+.UI-section{
+   background-color: rgb(75, 243, 255);
+}
+
+
+
+#book-form{
+    display: grid;
+    grid-row-gap: 1rem;
+    padding:1.7rem 1rem;
+}
+#book-form > div{
+  width: 100%;
+ margin: auto;
+}
+
+#book-form input{
+    display: block;
+    height: 35px;
+    width: 100%; 
+    padding: 5px 8px;
+    margin: 4px 0;
+    font-size: 1rem;
+    border: 1px solid #888;
+    border-radius: 2px;
+    outline: none;
+}
+.btn{
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+    background-color: royalblue;
+}
+
+.bookinfo-section{
+    margin-top: 1rem;
+}
+
+.btn-cancel{
+    color: #fff;
+    
+    text-decoration: none;
+    padding: 3px 8px;   
+    background-color: rgb(241, 46, 46);
+}
+/* Styling Table */
+.book-table{   
+   width: 100%;
+   border-collapse:collapse ;
+} 
+.book-table tr{
+ border-bottom:1px #888 solid;
+}
+.book-table td{
+  padding: 8px;  
+  text-align: center;
+}
+.book-table thead th{
+    padding: 8px;
+}
+.book-table thead tr{
+    color: #fff;
+    background-color: rgba(78, 228, 9, 0.945);
+}
+.book-table tbody tr:nth-child(even){
+    background-color: rgb(224, 218, 218);
+}
+.book-table tbody tr:nth-child(odd){
+    background-color: rgba(241, 234, 234, 0.959);
+}
