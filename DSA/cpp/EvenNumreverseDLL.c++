@@ -76,6 +76,8 @@ void display()
     }
 }
 
+//Diver CODE.
+
 int main()
 {
 
@@ -121,3 +123,5 @@ int main()
     display();
     return 0;
 }
+
+//Time Complexity O(n) and space complexity O(n)
