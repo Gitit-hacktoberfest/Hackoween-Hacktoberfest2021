@@ -10,6 +10,10 @@ A java aprogram to sort an array of integers in increasing order based on the fr
 ```
 Recursion
 ```
+## Data structures
+```
+ Heap, HashTables
+ ```
 
 ## Time Complexity
 
