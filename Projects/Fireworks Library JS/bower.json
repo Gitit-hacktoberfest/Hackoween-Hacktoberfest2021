@@ -1,0 +1,22 @@
+{
+  "name": "jquery-fireworks",
+  "description": "Creates a field of exploding fireworks on a div.  It does this by overlaying a canvas to the div and launching fireworks and exploding them.",
+  "main": "jquery.fireworks.js",
+  "authors": [
+    "Matthew Grigajtis"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "ecosystem:jquery",
+    "jquery",
+    "fireworks"
+  ],
+  "homepage": "https://github.com/mgrigajtis/jquery-fireworks",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
