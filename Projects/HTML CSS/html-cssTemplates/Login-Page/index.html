@@ -94,11 +94,17 @@ height:40px;
     text-align:left;
     padding:50px;
 }
+#label-login:hover{
+    background: blue;
+}
+#label-register:hover{
+    background: blue;
+}
 .show-log-panel{
     display:block;
     opacity:0.9;
 }
-.login-show input[type="text"], .login-show input[type="password"]{
+.login-show input[type="email"], .login-show input[type="password"]{
     width: 100%;
     display: block;
     margin:20px 0;
@@ -118,12 +124,17 @@ height:40px;
     float:right;
     cursor:pointer;
 }
+.login-show input[type="button"]:hover {
+    background: blue;
+}
 .login-show a{
     display:inline-block;
     padding:10px 0;
 }
-
-.register-show input[type="text"], .register-show input[type="password"]{
+.login-show a:hover{
+    color: black;
+}
+.register-show input[type="email"], .register-show input[type="password"]{
     width: 100%;
     display: block;
     margin:20px 0;
@@ -142,6 +153,9 @@ height:40px;
     border-radius: 2px;
     float:right;
     cursor:pointer;
+}
+.register-show input[type="button"]:hover{
+    background: blue;
 }
 .credit {
     position:absolute;
@@ -177,7 +191,7 @@ a{
 
 		<div class="login-info-box">
 			<h2>Have an account?</h2>
-			<p>Sign in to Hacktober Fet</p>
+			<p>Sign in to Hacktober Fest</p>
 			<label id="label-register" for="log-reg-show">Login</label>
 			<input type="radio" name="active-log-panel" id="log-reg-show"  checked="checked">
 		</div>
@@ -192,14 +206,14 @@ a{
 		<div class="white-panel">
 			<div class="login-show">
 				<h2>LOGIN</h2>
-				<input type="text" placeholder="Email">
+				<input type="email" placeholder="Email">
 				<input type="password" placeholder="Password">
 				<input type="button" value="Login">
 				<a href="">Forgot password?</a>
 			</div>
 			<div class="register-show">
 				<h2>REGISTER</h2>
-				<input type="text" placeholder="Email">
+				<input type="email" placeholder="Email">
 				<input type="password" placeholder="Password">
 				<input type="password" placeholder="Confirm Password">
 				<input type="button" value="Register">
