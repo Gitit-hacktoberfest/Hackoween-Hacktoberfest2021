@@ -5,4 +5,4 @@
 3. In the case of standard DSA algorithms like linked lists and operations on them, make sure to add time and space complexity.
 4. If it is the solution of a DSA related question, add the question along with the time and space complexity
 5. If it is a template, each upload for a template **MUST** be in its own folder in the parent directory
-6. Spam additions like white space corrections and gramatical changes and insignificant code additions will be consided and labeled as **SPAM**
+6. Spam additions like white space corrections and grammatical changes and insignificant code additions will be considered and labeled as **SPAM**
