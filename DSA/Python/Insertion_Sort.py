@@ -1,4 +1,6 @@
-# Recursive Insertion sort 
+#Recursive Insertion sort 
+#Best case time complexity : O(n) 
+#Worst case time complexity : O(n^2)
 def insertionSort(arr,n):
    # base case
    if n<=1:
