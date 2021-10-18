@@ -16,10 +16,10 @@ def insertionSort(arr,n):
    # Place key at after the element just smaller than it.
    arr[j+1]=key
 a=[]
-n=int(input("Enter number of elements: "))
-for i in range(0,n):
+n=int(input("Enter number of elements: ")) #Size of List
+for i in range(0,n): #input element from user
     b=int(input("Enter element: "))
-    a.append(b)
-insertionSort(a,n)
-print('Sorted Array:')
+    a.append(b) #Add element to List a
+insertionSort(a,n) #Function Call
+print('Sorted Array:') #Print Sorted Array
 print(a)
