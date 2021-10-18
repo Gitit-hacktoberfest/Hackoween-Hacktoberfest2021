@@ -21,11 +21,43 @@
 
 # How to open a pull request:
 
-- Open the repository you wish to fork
+### 1. Fork the Project
+Fork this repository and make changes in code as required. You can change it online or by cloning it in your device. Then Pust it on your Forked Repo for furteher Actions. Do not use special characters in the template above.
 
 ![image](https://user-images.githubusercontent.com/72350161/135741412-5ffedfa6-d1fb-46ac-9c8b-5ae58c2608a6.png)
-In the top-right corner, click on the fork button and fork the repository.
 
-- After forking the repository, you will see that you have a local version of the repository. Click on fetch upstream and then make changes to the repository.
-- Click on contribute and then open pull request. Try to ensure that the description about the added code is extensive.
 
+
+### 2. Write a Good Commit Message
+You have written some code in your branch, and are ready to commit. So, make sure to written good, clean commit messages. Let's review the anatomy of a commit message.
+
+```
+---
+First line, no more than 50 characters
+
+Details section, as long as you want. Not always necessary, but
+available if you need it. Wrapped at 72 characters. Present imperative
+tense is preferred for commits. That means "fix bug", not "fixes bug" or
+"fixed bug".
+
+- Use bullets if you need
+- Bullets are a good way to summarize a few things
+
+If you have too much info here, it might be a good candidate to break
+down into multiple commits. You can use emoji here too :sparkles:
+
+---
+```
+
+### 3. Lastly, submit your Pull Request
+Go through the checklist on the pull request template to guarantee your submission is valid. Our team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested in the pull request comment section.
+
+**Note:** Don't Forget to add `hacktoberfest-accepted` Label.
+
+
+Please check first and then send your codes with discription.
+
+**All the best for the event **
+
+
+### Show some ❤ by starring the repository.
