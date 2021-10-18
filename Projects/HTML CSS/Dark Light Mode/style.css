@@ -27,6 +27,7 @@ body.dark {
 }
 
 label {
+    cursor: pointer;
     background: #000;
     width: 45px;
     height: 20px;
