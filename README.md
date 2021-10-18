@@ -60,4 +60,3 @@ Please check first and then send your codes with discription.
 **All the best for the event **
 
 
-### Show some ❤ by starring the repository.
