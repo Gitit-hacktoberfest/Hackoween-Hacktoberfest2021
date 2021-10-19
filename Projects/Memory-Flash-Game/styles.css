@@ -1,0 +1,122 @@
+body {
+  text-align: center;
+  background-color: #011F3F;
+}
+
+.score {
+  color: #FEF2BF;
+  display: inline;
+  font-size: 1.4rem;
+}
+
+#level-title {
+  font-family: serif;
+  font-size: 2.5rem;
+  margin:  5% auto;
+  color: #FEF2BF;
+}
+
+#startbtn {
+  background-color: #04AA6D;
+  border: none;
+  color: #FEF2BF;
+  padding: 1% 2%;
+  font-size: 2rem;
+  border-radius: 5%;
+  margin:  0 auto 3.75%;
+  cursor: pointer;
+}
+
+#startbtn:hover {
+  background-color: #3e8e41;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+.btn {
+  margin: 15px;
+  display: inline-block;
+  height: 150px;
+  width: 150px;
+  border:  10px solid black;
+  border-radius: 20%;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+
+/* Hint button */
+.dropbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 50%;
+  font-size: 1rem;
+  border: none;
+  cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: absolute;
+  display: inline-block;
+  left: 98%;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  right: 0;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}
+
+@media (max-width: 1028px) {
+
+  #level-title {
+    margin: 21% auto;
+  }
+
+  #startbtn {
+    margin: 10% auto;
+  }
+}
