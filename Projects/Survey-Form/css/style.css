@@ -1,0 +1,70 @@
+body {
+    text-align: center;
+    background-color: #A9D7D1;
+    font-family: 'Raleway', sans-serif;
+}
+
+#form-container {
+    background-color: #FAFAFA;
+    border-radius: 5px;
+    padding: 2%;
+    margin: 0 13% 5% 13%;
+}
+
+#survey-form {
+    padding: 0 10%;
+}
+
+.form-element {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 2%;
+    margin: 3% 0;
+    align-items: baseline;
+}
+
+.form-element-label {
+    text-align: right;
+}
+
+.form-element-input {
+    justify-self: start;
+}
+
+.group {
+    text-align: left;
+    margin: 3% 0;
+}
+
+fieldset {
+    border: 0 !important;
+    padding: 0;
+}
+
+@media screen and (max-width: 768px) {
+    #form-container {
+        margin: 0 3% 5% 3%;
+    }
+    #survey-form {
+        padding: unset;
+        padding-left: 3%;
+    }
+    .form-element {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto;
+        margin: 4% 0;
+        grid-row-gap: 0.5rem;
+    }
+    .form-element-label {
+        text-align: left;
+    }
+}
+
+
+/* Tailwind CSS */
+
+h1 {
+    /* setting to the default value */
+    font-size: 2em;
+    margin: .67em 0;
+}
