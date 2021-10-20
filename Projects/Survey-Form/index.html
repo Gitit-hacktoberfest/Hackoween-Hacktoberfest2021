@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Survey Form</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="icon" href="images/favicon.ico" type="image/icon" sizes="16x16">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+</head>
+
+<body>
+    <main>
+        <h1 id="title">Survey Form</h1>
+        <div id="form-container">
+            <p id="description">Let us know how we can improve freeCodeCamp</p>
+            <form id="survey-form">
+                <div class="form-element">
+                    <label for="name" id="name-label" class="form-element-label">Name*:</label>
+                    <input type="text" id="name" class="form-element-input bg-grey-lighter text-grey-darker border rounded py-1 px-2 focus:outline-none focus:bg-white" placeholder="Enter your name" required>
+                </div>
+                <div class="form-element">
+                    <label for="email" id="email-label" class="form-element-label">Email*:</label>
+                    <input type="email" id="email" class="form-element-input bg-grey-lighter text-grey-darker border rounded py-1 px-2 focus:outline-none focus:bg-white" placeholder="Enter your email" required>
+                </div>
+                <div class="form-element">
+                    <label for="number" id="number-label" class="form-element-label">Age*:</label>
+                    <input type="number" id="number" class="form-element-input bg-grey-lighter text-grey-darker border rounded py-1 px-2 focus:outline-none focus:bg-white" min="10" max="80" placeholder="Age" required>
+                </div>
+                <div class="form-element">
+                    <label for="dropdown" class="form-element-label">Which option best describes your current role?</label>
+                    <select id="dropdown" name="role" class="form-element-input bg-grey-lighter text-grey-darker border rounded py-1 px-2 pr-8  focus:outline-none focus:bg-white">
+                        <option value="" disabled selected>Select an option</option>
+                        <option value="student">Student</option>
+                        <option value="full_time_job">Full Time Job</option>
+                        <option value="full_time_learner">Full Time Learner</option>
+                        <option value="prefer_not_to_say">Prefer not to say</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+                <div class="form-element">
+                    <label for="recommendation-level" class="form-element-label">How likely is that you would recommend freeCodeCamp to a friend?*:</label>
+                    <fieldset id="recommendation-level" class="form-element-input">
+                        <div class="group">
+                            <label for="choice1">
+                                <input type="radio" id="choice1" name="recommend" value="definitely" required class="mr-2 leading-tight">Definitely
+                            </label>
+                        </div>
+                        <div class="group">
+                            <label for="choice2">
+                                <input type="radio" id="choice2" name="recommend" value="maybe" required class="mr-2 leading-tight">Maybe
+                            </label>
+                        </div>
+                        <div class="group">
+                            <label for="choice3">
+                                <input type="radio" id="choice3" name="recommend" value="not_sure" required class="mr-2 leading-tight">Not sure
+                            </label>
+                        </div>
+                    </fieldset>
+                </div>
+                <div class="form-element">
+                    <label for="most-liked" class="form-element-label">What do you like most in FCC:</label>
+                    <select id="most-liked" name="most-liked-thing" class="form-element-input bg-grey-lighter text-grey-darker border rounded py-1 px-2 pr-8  focus:outline-none focus:bg-white">
+                        <option value="" disabled selected>Select an option</option>
+                        <option value="challenges">Challenges</option>
+                        <option value="projects">Projects</option>
+                        <option value="community">Community</option>
+                        <option value="open_source">Open Source</option>
+                    </select>
+                </div>
+                <div class="form-element">
+                    <label for="future-improvements" class="form-element-label">Things that should be improved in the future (Check all that apply):</label>
+                    <fieldset id="future-improvements" class="form-element-input">
+                        <div class="group">
+                            <label for="option1">
+                                <input type="checkbox" id="option1" name="need_improvements" value="front_end_projects" class="mr-2 leading-tight">Front-end Projects
+                            </label>
+                        </div>
+                        <div class="group">
+                            <label for="option2">
+                                <input type="checkbox" id="option2" name="need_improvements" value="back_end_projects" class="mr-2 leading-tight">Back-end Projects
+                            </label>
+                        </div>
+                        <div class="group">
+                            <label for="option3">
+                                <input type="checkbox" id="option3" name="need_improvements" value="data_visualization" class="mr-2 leading-tight">Data Visualization
+                            </label>
+                        </div>
+                        <div class="group">
+                            <label for="option4">
+                                <input type="checkbox" id="option4" name="need_improvements" value="challenges" class="mr-2 leading-tight">Challenges
+                            </label>
+                        </div>
+                        <div class="group">
+                            <label for="option5">
+                                <input type="checkbox" id="option5" name="need_improvements" value="open_source_community" class="mr-2 leading-tight">Open Source Community
+                            </label>
+                        </div>
+                        <div class="group">
+                            <label for="option6">
+                                <input type="checkbox" id="option6" name="need_improvements" value="gitter_help_rooms" class="mr-2 leading-tight">Gitter help rooms
+                            </label>
+                        </div>
+                        <div class="group">
+                            <label for="option7">    
+                                <input type="checkbox" id="option7" name="need_improvements" value="videos" class="mr-2 leading-tight">Videos
+                            </label>
+                        </div>
+                        <div class="group">
+                            <label for="option8">
+                                <input type="checkbox" id="option8" name="need_improvements" value="city_meetups" class="mr-2 leading-tight">City Meetups
+                            </label>
+                        </div>
+                        <div class="group">
+                            <label for="option9">
+                                <input type="checkbox" id="option9" name="need_improvements" value="wiki" class="mr-2 leading-tight">Wiki
+                            </label>
+                        </div>
+                        <div class="group">
+                            <label for="option10">
+                                <input type="checkbox" id="option10" name="need_improvements" value="forum" class="mr-2 leading-tight">Forum
+                            </label>
+                        </div>
+                        <div class="group">
+                            <label for="option11">
+                                <input type="checkbox" id="option11" name="need_improvements" value="additional_courses" class="mr-2 leading-tight">Additional Courses
+                            </label>
+                        </div>
+                    </fieldset>
+                </div>
+                <div class="form-element">
+                    <label for="comments" class="form-element-label">Any Comments or Suggestions?</label>
+                    <textarea id="comments" class="form-element-input bg-grey-lighter text-grey-darker border rounded py-1 px-2 focus:outline-none focus:bg-white" placeholder="Enter your comment here..." rows="3" cols="25"></textarea>
+                </div>
+                <button type="submit" id="submit" class="bg-blue-400 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-full">Submit</button>
+            </form>
+        </div>
+    </main>
+</body>
+
+</html>
