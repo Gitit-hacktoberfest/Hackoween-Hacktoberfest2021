@@ -1,0 +1,41 @@
+#include <bits/stdc++.h> 
+using namespace std; 
+int main() 
+{ 
+
+	int n;
+	cin>>n;
+	int arr[n];
+	for(int i=0;i<n;i++)
+	{
+		cin>>arr[i];
+	}
+	int tn3=INT_MAX;  // count of 3 time 
+	int tnp1=0;     // count of 1 time
+	int tnp2=0;    // count of 2 time
+	for(int i=0;i<n;i++)
+	{
+		int ctn3=arr[i] & tn3;
+		int ctnp1=arr[i] & tnp1;
+		int ctnp2=arr[i] & tnp2;
+
+		tn3=tn3 & (~ctn3);
+		tnp1=tnp1 | ctn3;
+
+		tnp1= tnp1 & (~ctnp1);
+		tnp2= tnp2 | ctnp1;
+
+		tnp2=tnp2 & (~ctnp2);
+		tn3=tn3 | ctnp2;
+
+	}
+	cout<<tnp1;   // element which frequency is one
+
+	return 0;
+} 
+
+INTPUT :[1,2,3,4,2,3,1,4,1,2,4]
+OUTPUT:3
+
+
+
