@@ -1,6 +1,7 @@
 //this code contains recusive, top-down and bottom-up dp approach
 //uncomment the function calls in the main function to use the particular approach
-
+// space complexity in case of dp is O(n^2)
+//time complexity in case of dp is O(n^3)
 #include <bits/stdc++.h>
 using namespace std;
 int solve(int *arr, int i, int j)
