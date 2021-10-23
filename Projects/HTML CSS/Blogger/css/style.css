@@ -1,0 +1,115 @@
+*{
+    margin:0;
+    padding:0;
+}
+.navigation{
+    margin-top: 05px;
+    font-family: var(--font1);
+    /* height:74px; */
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-left{
+    font-size:25px;
+    display:flex;
+}
+.nav-left p{
+    margin-top:10px;
+    font-size: 36px;;
+}
+.nav-left span img{
+    margin-top:10px;
+    width:50px;
+    border:0.5px solid black;
+    border-radius:500px;
+}
+.nav-left ul{
+    display:flex;
+    align-items:center;
+    margin:0 30px;
+    font-size:18px;
+}
+span{
+    font-family: var(--font1);
+    font-size:32px;
+}
+.nav-left ul li{
+    list-style: none;
+    margin:0 12px;
+    font-family: var(--font2);
+    transition: all 0.3s ease-in-out;
+    font-size: 22px;
+}
+.nav-left ul li a:hover{
+    color: tomato;
+    font-weight: bolder;
+}
+.nav-left ul li a{
+    text-decoration: none;
+    color:rgb(160, 71, 71);
+}
+.content{
+    display: flex;
+    /* height:305px; */
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 9px;
+}
+.content-left{
+    font-family:var(--font1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+}
+.content-right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tw{
+    height:285px;
+    border-radius: 200px;
+}
+.home-articles{
+    background-color: rgb(248, 239, 239, 0.5);
+    position: relative;
+}
+.home-articles h2{
+    padding-top:10px;
+}
+.home-article{
+    display:flex;
+    margin:25px;
+}
+.home-article-image img{
+    width:20vw;
+}
+
+.home-article-content{
+    align-self:center;
+    padding:25px;
+}
+.home-article-content a{
+    text-decoration: none;
+    color:black
+}
+
+.footer{
+    height:50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    background-color: rgba(0, 0, 0, 0.815);
+}
+.footer a{
+    color:white;
+    text-decoration: none;
+}
+.footer a:hover{
+    cursor:pointer;
+    font-weight: bold;
+}
