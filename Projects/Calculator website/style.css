@@ -2,6 +2,13 @@ body{
     font-family: 'Open Sans',sans-serif;
     background-color: rgb(192, 196, 253);
 }
+h1{
+  text-align: center;
+  font-family: 'Merriweather', sans-serif;
+  margin: 20px auto;
+  font-size: 50px;
+  color:#3E065F;
+}
 #background{
     width: 1000px;
     height: 600px;
@@ -72,7 +79,7 @@ body{
 .container{
 	width: 40%;
 	min-width: 450px;
-	
+
 	position: absolute;
 	transform: translate(-50%,-50%);
 	left: 50%;
