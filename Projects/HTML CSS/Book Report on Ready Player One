@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Ready Player One </title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+img{display:block; margin-left:auto; margin-right:auto}
+</style>
+<body>
+
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-purple w3-card w3-left-align w3-large">
+    <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-purple" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-white">Home</a>
+	<a href="#summary" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Summary </a>
+    <a href="#character" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">About the Character </a>
+    <a href="#author" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">About the Author</a>
+	 <a href="#setting" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Setting</a>
+	 <a href="#theme" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Theme</a>
+	<a href="#persuasion" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Persuasion</a>
+    
+  </div>
+
+  <!-- Navbar on small screens -->
+  <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 1</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 2</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 3</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 4</a>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="w3-container w3-purple w3-center" style="padding:128px 16px">
+  <h1 class="w3-margin w3-jumbo">READY PLAYER ONE</h1>
+  
+  <p><img src="images/anorak.gif" alt="description of gif" width="200" height="200"> </p>
+  
+</header>
+
+
+
+<!-- First Grid -->
+<h1 id="summary"></h1>
+<div class="w3-row-padding w3-padding-64 w3-container">
+  <div class="w3-content">
+    <div class="w3-twothird">
+      <h1>Summary of the book </h1>
+      <h5 class="w3-padding-32"> "So without further ado, let the hunt for Halliday's Easter egg begin!" </h5>
+
+      <p class="w3-text-grey">	Wade Watts, a senior in high school in the year 2044, lives in a future where people have given up all hope and escape the corruption and poverty of the world by entering virtual reality, known as the OASIS. The story is portrayed through the eyes of the protagonist, who discovers a clue to the infamous hunt that was hosted by the late creator of the OASIS. The prize for the quest? The possession to the world's last hope at escape, the OASIS itself, and the entirety of the eccentric billionaire's fortune. 
+</p>
+    </div>
+
+    <div class="w3-third w3-center">
+       <p><img  src="images/key.gif" alt="description of gif" width="200" height="200"> </p>
+    </div>
+  </div>
+</div>
+
+<!-- Second Grid -->
+
+<h1 id="character"></h1>
+<div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
+	<div class="w3-content">  
+	<div class="w3-twothird">
+      <h1>About the character</h1>
+      <h5 class="w3-padding-32"> Wade Watts, more commonly known as Parzival, resembles the author of the book a lot. </h5>
+
+      <p class="w3-text-grey"> Wade is extremely knowledgeable about the lifestyle in the 80's , this obsession was sparked by the hunt that he eventually becomes a part of. It is mentioned quite frequently that he was a loner, and didn't really have any family or friends in real life that he could rely on, which made him quite antisocial. However, Wade was somewhat of a pop culture genius, which was a major asset to the hunt. 
+    </div>
+    <div class="w3-third w3-center">
+       <img  src="images/wade.jpg" alt="description of gif" width="350" height="200"> </p>
+	</div>    
+    </div>
+  </div>
+
+<!-- third Grid -->
+<h1 id="author"></h1>
+<div class="w3-row-padding  w3-padding-64 w3-container">
+	<div class="w3-content">  
+	<div class="w3-twothird">
+      <h1>About the author</h1>
+      <h5 class="w3-padding-32"> Ernest Cline was originally a screenwriter, but after several attempts at writing movies, he was inspired to write Ready Player One. </h5>
+
+      <p class="w3-text-grey"> He grew up watching Star Wars, playing videogames (which were considered new at the time) and playing Dungeons and Dragons. Cline is an expert at 80's pop culture, which is very evident in the book. He grew up in Ashland, Ohio and now currently resides in Austin, Texas. He has written a second book to Ready Player One, as well as a couple other novels as well.</p>
+	</div> 
+<div class="w3-third w3-center">
+       <img  src="images/ernest.jpg" alt="description of gif" width="200" height="300"> </p>
+	</div>  	
+	</div>
+</div>
+
+<!-- fourth Grid -->
+ 
+    
+<h1 id="setting"></h1>
+<div class="w3-row-padding  w3-light-grey w3-padding-64 w3-container">
+	<div class="w3-content"> 
+    <div class="w3-twothird">
+      <h1>Setting </h1>
+      <h5 class="w3-padding-32">The book begins in a small town in the offskirts of Oklahoma City in the year 2044. </h5>
+
+      <p class="w3-text-grey">The protagonist, Wade lives in the stacks, which is essentially twenty two mobile homes dangerously stacked one on top of the other to provide more space for other slums due to poverty. The mobile homes higher were resting on scaffoldings and were suspended from other metallic mesh. The roofs of the stacks were covered in solar panels that took care of the power for all the units. Dirt roads between stacks were littered with vehicles that had been deserted. In one of those abandoned automobiles, Wade seeks refuge from his abusive aunt (who lives with him in the stacks). The damaged van is Wade's hideout and where his entire OASIS setup is stored safetly.</p>
+    </div>
+	<div class="w3-third w3-center">
+      <img src="images/stacks.jpg" alt="description of gif" width="300" height="200"> </p>
+    </div>
+  </div>
+</div>
+
+	<!-- fifth  Grid -->
+<h1 id="theme"></h1>
+<div class="w3-row-padding  w3-padding-64 w3-container">
+	<div class="w3-content">  
+	<div class="w3-twothird">
+      <h1>Theme </h1>
+      <h5 class="w3-padding-32"> In Ready Player One, Wade, the narrator is a loner, and uses the OASIS as a way to escape the dark reality. </h5>
+
+      <p class="w3-text-grey">  Eventually, he realizes that the future cannot be avoided, no matter how compelling the distraction is. 
+Another prominent theme that I noticed was elitism; a big corporate company who is also participating in the quest, is playing dirty to reach the reward, going through extreme measures such as sabotage, exploiting, espionage and  murder to ensure their win. Despite their attempts, they fail in the end, which also then connects to the theme of "good always wins in the end".
+The last theme I identified in this book is teamwork, by far the most evident concept. Even though Wade is antisocial, he attains some lifelong friends while working towards the hunt, against the elitists. In the end, his connection with his friends triumphs over the corporation.
+
+</p>
+	</div>  
+	<div class="w3-third w3-center">
+       <img  src="images/sixers.jpg" alt="description of gif" width="300" height="390"> </p>
+	</div>     
+	</div>
+</div>
+
+    
+<h1 id="persuasion"></h1>
+<div class="w3-row-padding w3-light-grey w3-padding-64 w3-container">
+	<div class="w3-content">  
+	
+	<div class="w3-third w3-center">
+      <img src="images/question-mark.png" alt="description of gif" width="300" height="300"> </p>
+    </div>
+    <div class="w3-twothird">
+
+      <h1>Persuasion </h1>
+      <h5 class="w3-padding-32">"Why should you read the book?" The answer is plain and simple, you have probably never read a book as interesting as this. </h5>
+
+      <p class="w3-text-grey">This book has everything you could ask for, romance, suspense, action, and science fiction, as well as fair LGBTQ+ and racial representation throughout the book. Another reason is that the protagonist is a teenager and faces issues that a lot of teenagers can relate with like loneliness and isolation, and implies that, even though the book takes place in the future, these kinds of social and emotional problems will always be relevant and valid and everyone deals with it in their way. Ready Player One is chock full of 80's pop culture trivia and science fiction, so if that's your cup of tea, then I implore you to read this. However, even if you are not into that genre, don't worry, because it isn't exhaustive at all and is enjoyable to read. This book is very engaging and eye-opening to many of the issues in society, as well as globally we have today, such as escapism and elitism. Not only is it relatable and informative, but it is also wonderfully witty, and the commentary run by Wade, the protagonist, is full of snark and intelligence. I highly recommend reading this book, it is an extremely insightful and will satisfy even the most picky readers.
+</p>
+    </div>
+  </div>
+</div>
+ 
+
+<!-- Footer -->
+<footer class="w3-container  w3-black  w3-padding-64 w3-center w3-opacity">  
+<p> <div class="w3-center">   
+    
+<p> <img src="images/book.png" alt="Anorak's Almanac" width="135" height="99"> </p> </p>
+  
+ </div>
+ 
+</footer>
+
+<script>
+// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+  var x = document.getElementById("navDemo");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+</script>
+
+
+</body>
+</html>
