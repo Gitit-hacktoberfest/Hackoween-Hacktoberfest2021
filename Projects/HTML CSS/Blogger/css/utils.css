@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+:root{
+    --main-bg-color:brown;
+    --font1:'Baloo 2', cursive;
+    --font2:'Roboto',sans-serif;
+    --font3: 'Courgette', cursive;
+}
+.font1{
+    font-family: var(--font1);
+}
+.font2{
+    font-family: var(--font2);
+}
+.font3{
+    font-family: var(--font3);
+}
+.max-width-1{
+    max-width: 70vw;
+}
+.max-width-2{
+    max-width:60vw;
+}
+.m-auto{
+    margin:auto;
+}
+.my2{
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.my3{
+    margin-bottom: 12px;
+}
+.btn{
+    padding:0px 15px;
+    border:2px solid black;
+    border-radius:5px;
+    font-size:16px;
+    font-family:var(--font1);
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.btn:hover{
+    color:whitesmoke;
+    background-color:  var(--main-bg-color);
+
+}
+.form-input{
+    padding:0px 5px;
+    width:150px;
+    font-size:16px;
+    border:2px solid black;
+    border-radius:4px;
+    margin:0 4px;
+    font-family:var(--font1);
+}
+.correction{
+    height:100vh;
+}
