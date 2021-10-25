@@ -4,7 +4,7 @@
 #include<Ctype.h>
 
 char postfix[100];
-int stack[100]={0}, top=-1;
+int stack[100]={0}, top=-1; // array implementation of stack
 
 void push(int d)
 {
@@ -19,8 +19,9 @@ int pop()
 		return stack[top--];
 }
 
-void convert()
+void evaluate()
 {
+	// 4 operators are present in the postfix expression
 	for(int i=0;i<strlen(postfix);i++)
 	{
 		char c=postfix[i];
@@ -40,8 +41,8 @@ void convert()
 int main()
 {
 	scanf("%s",postfix);
-	convert();
-	printf("%d",stack[0]);
+	evaluate();
+	printf("%d",stack[0]); // The final answer will be stored on the stack
   // Time complexity is O(n), where n is the length of the postfix string
   // Space complexity is O(n), where n is the length of the postfix string
 }
