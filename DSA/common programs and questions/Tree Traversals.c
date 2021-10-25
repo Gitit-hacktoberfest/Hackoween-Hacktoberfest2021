@@ -105,12 +105,14 @@ int main()
 	for(int i=0;i<n;i++)
 		scanf("%d",&arr[i]);
 	struct node *root=create(0); // creating a tree from the array
-	inorder(root);
+	inorder(root); // Time Complexity - O(n), where n is the number of nodes
 	printf("\n");
-	preorder(root);
+	preorder(root); // Time Complexity - O(n), where n is the number of nodes
 	printf("\n");
-	postorder(root);
+	postorder(root); // Time Complexity - O(n), where n is the number of nodes
 	printf("\n");
-	levelorder(root);
+	levelorder(root); // Time Complexity - O(hn), where n is the number of nodes and h is the height of the tree
+	
+	// The space complexity of all traversals is O(h), where h is the height of the tree
 	return 0;
 }
