@@ -1,95 +1,68 @@
-// Kahn's Algorithm
+/*Kahn's Algorithm
 
-#include <bits/stdc++.h>
-using namespace std;
+Description : Topological sorting for Directed Acyclic Graph (DAG) is a linear ordering of vertices such that for every directed edge u v, 
+vertex u comes before v in the ordering. Topological Sorting for a graph is not possible if the graph is not a DAG.
 
-const int N = 100005;
 
-vector<set<int>> graph(N);
-int visited[N];
-vector<int> topsort;
-vector<int> indegree(N);
+Time Complexity: O(V+E). 
+Auxiliary space: O(V). 
 
-int main()
-{
-    int n, m;
-    cin >> n >> m;
-    for (int i = 0; i < m; ++i)
-    {
-        int u, v;
-        cin >> u >> v;
-        graph[u].insert(v);
-        indegree[v]++;
+*/
+#include<bits/stdc++.h> 
+using namespace std; 
+
+void DFS(vector<int> adj[], int u,stack<int> &st, bool visited[]) 
+{ 	
+    visited[u]=true;
+    
+    for(int v:adj[u]){
+        if(visited[v]==false)
+            DFS(adj,v,st,visited);
     }
+    st.push(u);
+}
 
-    queue<int> q;
-    for (int i = 1; i <= n; ++i)
-        if (indegree[i] == 0)
-            q.push(i);
 
-    while (!q.empty())
-    {
-        int node = q.front();
-        q.pop();
-
-        if (visited[node])
-            continue;
-        visited[node] = 1;
-
-        for (int u : graph[node])
-        {
-            indegree[u]--;
-            if (indegree[u] == 0)
-                q.push(u);
+void topologicalSort(vector<int> adj[], int V) 
+{ 
+    bool visited[V]; 
+	for(int i = 0;i<V; i++) 
+		visited[i] = false;
+	stack<int> st;
+    
+    for(int u=0;u<V;u++){
+        if(visited[u]==false){
+            DFS(adj,u,st,visited);
         }
-
-        topsort.push_back(node);
     }
-
-    for (int i = 0; i < topsort.size(); ++i)
-        cout << topsort[i] << " ";
-    cout << endl;
-}
-
-
-
-
-// Modified Depth First Search
-
-#include <bits/stdc++.h>
-using namespace std;
-
-const int N = 100005;
-vector<set<int>> graph(N);
-int visited[N];
-vector<int> topsort; // stores the topsort in reverse order
-
-void dfs(int u)
-{
-    if (visited[u]) return;
-    visited[u] = 1;
-    for (int v : graph[u])
-        dfs(v);
-
-    topsort.push_back(u);
-}
-
-int main()
-{
-    int n, m;
-    cin >> n >> m;
-    for (int i = 0; i < m; ++i)
-    {
-        int u, v;
-        cin >> u >> v;
-        graph[u].insert(v);
+    
+    while(st.empty()==false){
+        int u=st.top();
+        st.pop();
+        cout<<u<<" ";
     }
-
-    for (int i = 1; i <= n; ++i)
-        dfs(i);
-
-    reverse(topsort.begin(), topsort.end());
-    for (int i = 0; i < topsort.size(); ++i)
-        cout << topsort[i] << " ";
-    cout << endl;
+   
 }
+
+void addEdge(vector<int> adj[], int u, int v){
+    adj[u].push_back(v);
+}
+
+int main() 
+{ 
+	int V,E;
+	cin>>V>>E;
+	vector<int> adj[V];
+	for(int i=0;i<E;i++)
+	{
+		int u,v;
+		cin>>u>>v;
+		addEdge(adj,u,v);
+	}
+
+    cout<<"Topological Sort : \n"; 
+    topologicalSort(adj,V);
+
+	return 0; 
+} 
+
