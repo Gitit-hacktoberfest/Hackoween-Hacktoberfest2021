@@ -3,50 +3,22 @@
 
 <body>
 
-  <h1>The onclick Event</h1>
+<input type="button" id="button" value="button" style="color:white" onclick="setColor('button', '#101010')" ; />
 
-  <p>The onclick event is used to trigger a function when an element is clicked on.</p>
+<script>
+  var count = 1;
 
-  <p>Click the button to trigger a function that will output "Hello World" in a p element with id="demo".</p>
-
-  <div class="row">
-    <button onclick="myFunction()">Click me</button>
-
-    <p id="demo"></p>
-  </div>
-
-  <input value="button"> </input>
-
-  <script>
-    function formataData() {
-
-      var recebida = ("2021-09-22T09:00:00");
-
-      var data = new Date(recebida);
-
-      var resultado = data.toLocaleString();
-
-      document.getElementById("demo").innerHTML = resultado;
-
+  function setColor(btn, color) {
+    var property = document.getElementById(btn);
+    if (count == 0) {
+      property.style.backgroundColor = "green"
+      count = 1;
+    } else {
+      property.style.backgroundColor = "red"
+      count = 0;
     }
-
-
-    function updateButton() {
-      if (button.value === 'botao desligado') {
-        button.value = 'botao ligado';
-        paragraph.textContent = 'botao ligado';
-
-        button.style.backgroundColor = "Green";
-
-      } else {
-        button.value = 'botao desligado';
-        paragraph.textContent = 'botao desligado';
-
-        button.style.backgroundColor = "Red";
-
-      }
-    }
-  </script>
+  }
+</script>
 
 </body>
 
