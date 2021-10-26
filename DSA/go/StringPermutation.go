@@ -6,6 +6,7 @@ import (
 
 // takes the original string as a parameter
 // returns its permutation(s), as a slice
+// time-complexity: O(n*n!)
 func permutations(str string) []string {
 	strAsRune := []rune(str)
 	if len(str) == 1 {
