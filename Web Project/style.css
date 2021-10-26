@@ -8,17 +8,17 @@
 
 }
 .navbar-dark .navbar-nav .nav-link {
-     color: black;
-     padding: 7px 16px 7px 37px;
+     color: grey;
+     padding: 8px 17px 8px 38px;
      font-weight: bold;
 }
 .navbar-brand { 
     
-    padding-top: 0.3125rem; 
-    padding-bottom: 0.3125rem; 
-    margin-right: 6rem; 
-    margin-left: 13rem; 
-    font-size: 1.35rem; 
+    padding-top: 0.3126rem; 
+    padding-bottom: 0.3126rem; 
+    margin-right: 7rem; 
+    margin-left: 14rem; 
+    font-size: 1.36rem; 
     font-weight: bolder; 
     text-decoration: none; 
     white-space: nowrap;
@@ -64,7 +64,7 @@
     background-color: #ebd329e8; 
     border: 2px solid #ebd329e8; 
     position: relative; 
-    padding: 8px 8px 8px 8px; 
+    padding: 9px 9px 9px 9x; 
     left: -5px; 
     border-radius: 2px;
 }
