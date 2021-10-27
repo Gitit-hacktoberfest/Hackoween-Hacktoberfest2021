@@ -1,0 +1,89 @@
+body{
+    background-color:rgb(29, 26, 26);
+    margin: 0px;
+}
+
+/* For main heading */
+#heading{
+    background-color:rgb(13, 108, 200) ;
+    margin:0px 0px;
+    width:100%;
+    transition: background-color 0.6s;
+}
+
+h1{
+    color:white;
+    text-align: center;
+    margin:0px 0px;    
+    font-size:32px;
+    padding:20px 0px;
+    font-family: "Montserrat", "Avenir";
+    line-height: 1.1;
+    font-weight:normal;
+}
+h1 span{
+    font-size: 200%;
+    text-transform: uppercase;
+}
+
+/* buttons */
+
+#bar{
+    background-color: white;
+    text-align: center;
+    height:30px;
+}
+
+#block{
+    max-width:570px;
+    margin:0px auto;
+    text-align:left;
+}
+
+#message{
+    width:20%;
+    display:inline-block;
+    padding:0px 16%;
+    text-align: center;
+}
+
+button{
+    border:none;
+    height:100%;
+    background: none;
+    font-weight:700;
+    font-size:inherit;
+    color:rgb(13, 108, 200);
+    letter-spacing: 1;
+    outline:none;
+    
+}
+
+button:hover{
+    color:white;
+    background-color: rgb(13, 108, 200);
+    transition: background-color 0.4s;
+}
+
+.selected{
+    background-color:rgb(13, 108, 200);
+    color:white;
+}
+
+/* To maintain the squares */
+
+#container{
+    max-width:600px;
+    margin:20px auto;
+
+}
+.squares{
+    width:30%;
+    float:left;
+    margin:1.66%;
+    padding-top: 30%;
+    border-radius:15%;
+    transition:background-color 0.7s;
+}
+
+
