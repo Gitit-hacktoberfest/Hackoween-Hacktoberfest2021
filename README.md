@@ -1,5 +1,3 @@
-<h1>Hey everyone, it's so sad for us to inform you all that no more PRs would be considered for Hacktoberfest from this repository.</h1>
+<h1>Hello everyone🙋‍♂️, as we all know, Hacktoberfest 2021 has come to an end. It was a great time, and we appreciate your active involvement and valuable contributions to our two repositories. Given your enthusiasm for open-source, it's apparent that you'll all be highly proficient developers👨‍💻 in the upcoming years. We wish you the best of luck✨ for all your future endeavours. </h1>
 
-<h1>We appreicate every single one who contributed and looking at your enthusiasm for the open source, we can clearly say that you all will be very skillful developers in the upcoming years.</h1>
-
-<h1>We wish you all the best for your future endeavors!</h1>
+<img src="https://user-images.githubusercontent.com/73031725/139614905-504bcb67-4837-42e8-aed3-1e5d30248254.gif">
