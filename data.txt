@@ -1,0 +1,4836 @@
+commit a279ad9b8625c4830895142b8175b0f6978a630e
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Nov 2 04:34:48 2021 +0530
+
+    Update README.md
+
+commit c93dadc07d5bba853fc304a11907519cb6b206de
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Nov 1 08:21:51 2021 +0530
+
+    Update README.md
+
+commit 900087c2c4810e822166f6426898342b028cd9e2
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Nov 1 08:20:56 2021 +0530
+
+    Update README.md
+
+commit a42439520a6a3ce99f1218219bffc641f24086a3
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Wed Oct 27 17:53:06 2021 +0530
+
+    Update README.md
+
+commit daf60a5e284f2861f138036bbb38774e265fbaeb
+Merge: f13b84f 7ebfd32
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Wed Oct 27 17:30:37 2021 +0530
+
+    Merge pull request #272 from KaizenGirl1111/javascript-Avni
+    
+    A randomizer app made by javascript that displays a new car on refres…
+
+commit 7ebfd32abd87289e3c5b5f22846c842cc5d673a5
+Author: Avni Uplabdhee <avnigungun@gmail.com>
+Date:   Wed Oct 27 15:01:08 2021 +0530
+
+    A randomizer app made by javascript that displays a new car on refresh with a new message
+
+commit f13b84fbcf4a9743847ea260919d7e5122140fab
+Merge: 18226eb 7344119
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Wed Oct 27 14:54:52 2021 +0530
+
+    Merge pull request #269 from smriti2411/queue
+    
+    Queue
+
+commit 18226ebba884d899e9c554c3ea41b21384c995d9
+Merge: 54b7432 66cf82a
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Wed Oct 27 14:50:54 2021 +0530
+
+    Merge pull request #271 from bhardwajdisha/main
+    
+    Added a web-development project Color Game
+
+commit 66cf82a87ce51061b0c0e495cf49931e7e42398f
+Author: Disha Bhardwaj <disha2.bhardwaj@gmail.com>
+Date:   Wed Oct 27 14:20:05 2021 +0530
+
+    Added a web-development project Color Game
+
+commit 734411973b301eb64036fea265aac7019c3c90fa
+Author: smriti2411 <23240.smriti@gmail.com>
+Date:   Wed Oct 27 01:23:28 2021 +0530
+
+    Deque
+
+commit 4a077ad37453a58a25c7af7a1f5e89f38bdbaf9a
+Author: smriti2411 <23240.smriti@gmail.com>
+Date:   Wed Oct 27 01:22:17 2021 +0530
+
+    Deque
+
+commit 54b74327b7b37a04fcb73ce8cbe6993a7e0300ee
+Merge: e32fc1f fc98275
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Wed Oct 27 00:04:42 2021 +0530
+
+    Merge pull request #267 from dev-abir/main
+    
+    add string permutation in go
+
+commit e32fc1ff624bf10a9e08f71d5d14b2d945b12bad
+Merge: 304e843 46c6f29
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Wed Oct 27 00:04:03 2021 +0530
+
+    Merge pull request #268 from shreya-jpg/main
+    
+    Created QueueUsingLinkedList.cpp
+
+commit 46c6f290a902bfd71b6ff6d14f27d75cfe3c3689
+Author: Shreya Shankar <65847819+shreya-jpg@users.noreply.github.com>
+Date:   Tue Oct 26 21:32:09 2021 +0530
+
+    Create QueueUsingLinkedList.cpp
+
+commit fc9827526cd7f70f667c28c9e0b4dcc095a85685
+Author: dev-abir <gangulyabir777@gmail.com>
+Date:   Tue Oct 26 20:36:39 2021 +0530
+
+    add time complexity
+
+commit f1e11a9c49efe41860b69f5d006523210d49ceea
+Author: dev-abir <gangulyabir777@gmail.com>
+Date:   Tue Oct 26 20:24:12 2021 +0530
+
+    add string permutation in go
+
+commit 304e843fb98dcec6b313cb48a540b1f9925ea504
+Merge: ddf79dc cb87bca
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Oct 26 12:39:17 2021 +0530
+
+    Merge pull request #265 from computerwala/main
+    
+    update counting sort
+
+commit ddf79dcc234722c3d0c417364c9c2c2de7d78ff7
+Merge: a6db2f4 5baee1d
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Oct 26 12:37:31 2021 +0530
+
+    Merge pull request #266 from bankuri1/patch-1
+    
+    change in style
+
+commit 5baee1d6cbe329b036819d6a15b51ce30efd8ea5
+Author: bankuri1 <65163703+bankuri1@users.noreply.github.com>
+Date:   Tue Oct 26 12:27:17 2021 +0530
+
+    change in style
+
+commit cb87bca0de478c428ca4549644f1e5d1121f06c2
+Author: computerwala <shivsoni377@gmail.com>
+Date:   Tue Oct 26 00:36:29 2021 +0530
+
+    update counting sort
+
+commit a6db2f492fad1c5f7e838d092cd0fa8149de3472
+Merge: 3307698 31971c3
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Oct 26 00:06:50 2021 +0530
+
+    Merge pull request #263 from pedrollandim/main
+    
+    pedrollandim
+
+commit 33076981674d349ce2766e5c946d6ea0678d0a57
+Merge: c259a0e 50b14eb
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Oct 26 00:06:17 2021 +0530
+
+    Merge pull request #264 from NikhilShrivastava/main
+    
+    Topological Sort in cpp
+
+commit c259a0e53456df4335de3b5bebc98b44400e473c
+Merge: 1c84089 88f369d
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Oct 26 00:05:54 2021 +0530
+
+    Merge pull request #262 from Manish-bitpirate/main
+    
+    Added Space Invaders game
+
+commit 50b14eb49ac4dc8ce3b8f013fcac82683c9e99ee
+Author: NikhilShrivastava <nikhilshrivastava175@gmail.com>
+Date:   Mon Oct 25 23:42:02 2021 +0530
+
+    Added comments in Topological_sort.cpp
+
+commit c1313f3498f181a9c0de04cfbf6162d7a3d46e34
+Author: NikhilShrivastava <nikhilshrivastava175@gmail.com>
+Date:   Mon Oct 25 23:31:19 2021 +0530
+
+    Updated Topological_sort.cpp
+
+commit e266b5392dd782e78286dda1a8cc068e3dec4c64
+Author: NikhilShrivastava <nikhilshrivastava175@gmail.com>
+Date:   Mon Oct 25 22:57:21 2021 +0530
+
+    Added Topological sort in cpp
+
+commit 31971c3fde116de902c7cbca1db62ce684d682cb
+Author: Pedro Landim <55029559+pedrollandim@users.noreply.github.com>
+Date:   Mon Oct 25 12:35:05 2021 -0300
+
+    customizeBTN
+
+commit 5726af94e711184b0a2078c0bf26fb1f8d8a6e50
+Author: Pedro Landim <55029559+pedrollandim@users.noreply.github.com>
+Date:   Mon Oct 25 11:19:53 2021 -0300
+
+    personalizacaoDeUmBotao
+
+commit 950b7e02340f8edfb4c4b2be793088cd423070b2
+Author: Pedro Landim <55029559+pedrollandim@users.noreply.github.com>
+Date:   Mon Oct 25 11:14:51 2021 -0300
+
+    pedrollandim BotEscritor
+
+commit 226273ece05a6873d09f82b8dc31592db5911b17
+Author: Pedro Landim <55029559+pedrollandim@users.noreply.github.com>
+Date:   Mon Oct 25 11:14:18 2021 -0300
+
+    Add files via upload
+
+commit dc22b527e27342ca5c226bb9f7707fef2e36beb7
+Author: Pedro Landim <55029559+pedrollandim@users.noreply.github.com>
+Date:   Mon Oct 25 11:08:25 2021 -0300
+
+    pedrollandim
+
+commit 88f369d5b96fdd2c66ebc4ff95c8df77df59711c
+Merge: cef64c0 1c84089
+Author: Manish <83500114+Manish-bitpirate@users.noreply.github.com>
+Date:   Mon Oct 25 19:24:42 2021 +0530
+
+    Merge branch 'Gitit-hacktoberfest:main' into main
+
+commit 1c84089389eda4598320b9a517b6d99d15e81460
+Merge: 3d594a2 726cb8e
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 25 19:18:33 2021 +0530
+
+    Merge pull request #261 from g-o-l-d-y/main
+    
+    Postfix Evaluation
+
+commit 3d594a260ec046ddaa3d1b3942b04bd06a42084d
+Merge: b133572 c7ece75
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 25 19:17:21 2021 +0530
+
+    Merge pull request #260 from wizardigor/main
+    
+    hacktoberfest-accepted
+
+commit cef64c003b9c4a96143a7780d18d584761dc1b37
+Author: Manish <md663744@gmail.com>
+Date:   Mon Oct 25 19:15:54 2021 +0530
+
+    Added Space Invaders game
+
+commit 726cb8e90a55702c8a99eeab2052c0198ef82ddc
+Author: Goldy Jeyarani R <43851318+g-o-l-d-y@users.noreply.github.com>
+Date:   Mon Oct 25 18:26:04 2021 +0530
+
+    Update PostfixEvaluation.c
+    
+    Add comments
+
+commit c7ece750099d85b564a0494661aedd5b947f37dd
+Author: Igor Gomes <igorgomesads@hotmail.com>
+Date:   Mon Oct 25 09:50:28 2021 -0300
+
+    hacktoberfest-accepted
+    
+    Play jokenpo against machine, random mode. you can choose between: rock, paper and scissors.
+
+commit 2bf3b572c41637757c9de2bab67a48cfb64ab8e7
+Author: Goldy Jeyarani R <43851318+g-o-l-d-y@users.noreply.github.com>
+Date:   Mon Oct 25 18:20:20 2021 +0530
+
+    Create PostfixEvaluation.c
+    
+    Evaluating a postfix expression using stack.
+
+commit b133572ba9e9fef4755152e98a8453f684899c3b
+Merge: c9d7305 0c24476
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 25 17:08:44 2021 +0530
+
+    Merge pull request #259 from g-o-l-d-y/main
+    
+    Create ReverseSLL.c
+
+commit c9d7305957f74436c91eebc353642c54178b68ff
+Merge: f47668b 28d8fba
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 25 17:07:44 2021 +0530
+
+    Merge pull request #258 from parthmanchanda17/patch-1
+    
+    Create ArithmeticProgression.cpp
+
+commit 0c244762507ee9f13f0b0f21b6978fccbf66ab3a
+Author: Goldy Jeyarani R <43851318+g-o-l-d-y@users.noreply.github.com>
+Date:   Mon Oct 25 16:49:00 2021 +0530
+
+    Create ReverseSLL.c
+    
+    Reverse a Singly Linked List using both the iterative and recursive approaches.
+
+commit 28d8fba2d923e9455a53cdbfefcc0c44ada4ec51
+Author: parthmanchanda17 <72262451+parthmanchanda17@users.noreply.github.com>
+Date:   Mon Oct 25 15:35:45 2021 +0530
+
+    Create ArithmeticProgression.cpp
+
+commit f47668b395da7b2ea15672e49f3c78906e2f679d
+Merge: 09e5b9f df44267
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 25 13:51:14 2021 +0530
+
+    Merge pull request #257 from vamshi726/main
+    
+    added swag images
+
+commit df44267eaabc3d26a9fed1ea09f6b97d6bcc2b00
+Author: Vamshi Muluguri <63087230+vamshi726@users.noreply.github.com>
+Date:   Mon Oct 25 13:42:27 2021 +0530
+
+    added swag images
+
+commit 09e5b9f69661fc2927ab1c2f0873364723ab17f2
+Merge: ee3615e 49dfafd
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 25 13:37:09 2021 +0530
+
+    Merge pull request #256 from foulcommander/main
+    
+    dijkstra-graph-algorithm
+
+commit ee3615e940ce96782843d9927341871471e9bfbf
+Merge: 3a4d3f8 b18166d
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 25 13:36:17 2021 +0530
+
+    Merge pull request #255 from Khushboo288/main
+    
+    Added my project
+
+commit 49dfafda2b8823c639806d0988d098bee7361a2b
+Author: Kartik Singh Raihal <70884289+foulcommander@users.noreply.github.com>
+Date:   Mon Oct 25 13:22:09 2021 +0530
+
+    dijkstra-graph-algorithm
+
+commit b18166dcdf17ccfdc6e46375447970221cb6ac7a
+Author: Khushboo288 <84862960+Khushboo288@users.noreply.github.com>
+Date:   Sun Oct 24 21:33:36 2021 -0900
+
+    added image folder
+    
+    image files
+
+commit 0c5da28592f3d7ac2aab091c9280a7ae726abdc3
+Author: Khushboo288 <84862960+Khushboo288@users.noreply.github.com>
+Date:   Sun Oct 24 21:31:49 2021 -0900
+
+    added js file
+    
+    created main.js file of page
+
+commit 9e4554b580d1061ca075ae2ead5608d601dd7273
+Author: Khushboo288 <84862960+Khushboo288@users.noreply.github.com>
+Date:   Sun Oct 24 21:30:41 2021 -0900
+
+    created css
+    
+    Added style.css of page
+
+commit 8526e5033d9d1d3ae557ddee24f55bcc5c9a331a
+Author: Khushboo288 <84862960+Khushboo288@users.noreply.github.com>
+Date:   Sun Oct 24 21:29:31 2021 -0900
+
+    index.html of page
+    
+    added html
+
+commit 3a4d3f8af593e746caa4aad4ab1d4a1262d179d0
+Merge: ba259fb b6f4a95
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Mon Oct 25 11:47:37 2021 +0530
+
+    Merge pull request #254 from g-o-l-d-y/main
+    
+    Tree Traversals
+
+commit b6f4a95159abb70a2b380d968c5885ad407c3791
+Author: Goldy Jeyarani R <43851318+g-o-l-d-y@users.noreply.github.com>
+Date:   Mon Oct 25 11:43:36 2021 +0530
+
+    Add Time and Space Complexities
+
+commit e5eb7b7d43cd1dcdaf4e1351d57a0f71c0eec633
+Merge: fa53537 ba259fb
+Author: Goldy Jeyarani R <43851318+g-o-l-d-y@users.noreply.github.com>
+Date:   Mon Oct 25 11:32:07 2021 +0530
+
+    Merge branch 'Gitit-hacktoberfest:main' into main
+
+commit fa5353742fefc17cc5389823910c792ef5990f7d
+Author: Goldy Jeyarani R <43851318+g-o-l-d-y@users.noreply.github.com>
+Date:   Mon Oct 25 11:30:04 2021 +0530
+
+    Create Tree Traversals.c
+    
+    Preorder, Postorder, Inorder, and Level Order Traversals using Recursion.
+
+commit ba259fbc45f4ef61047e3b51b0a0e877164fcef9
+Merge: b0cd92c 449e20c
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 25 11:07:02 2021 +0530
+
+    Merge pull request #252 from g-o-l-d-y/main
+    
+    Create FirstNodeOfLoop-SLL.c
+
+commit b0cd92c8ba1cdeb2c553ab0a032e43964f22cd11
+Merge: cfb4171 f1b0b45
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 25 11:06:32 2021 +0530
+
+    Merge pull request #251 from foulcommander/main
+    
+    replace occurrence of "pi" in a string with "3.14"
+
+commit 449e20c9b8f7ff6593b9205e13b6ed362b9299cf
+Author: Goldy Jeyarani R <43851318+g-o-l-d-y@users.noreply.github.com>
+Date:   Mon Oct 25 10:59:59 2021 +0530
+
+    Create FirstNodeOfLoop-SLL.c
+    
+    Find the first node of a loop in the Singly Linked List using the slow-fast pointer/hare-tortoise approach.
+
+commit f1b0b4508611e1084a794676602cf41b1009a5bc
+Author: Kartik Singh Raihal <70884289+foulcommander@users.noreply.github.com>
+Date:   Mon Oct 25 10:43:36 2021 +0530
+
+    replace occurrence of "pi" with "3.14"
+
+commit cfb41714a25aad2e369b228fed9cdbd19aea4cbb
+Merge: 03482d3 d45124b
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 24 12:04:40 2021 +0530
+
+    Merge pull request #249 from sunankles/patch-1
+    
+    Create Book Report on Ready Player One
+
+commit 03482d31b3ea3091956ffe3d3445b91ecb215cb1
+Merge: 2298bcd c423d85
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 24 12:04:02 2021 +0530
+
+    Merge pull request #250 from denschiro/py_mqtt_send
+    
+    Python Mqtt send script
+
+commit c423d85b3755c0cea7d71abf767dddb48b78cb4f
+Author: DanielB <bradtmoeller@googlemail.com>
+Date:   Sun Oct 24 01:19:36 2021 +0200
+
+    Python Mqtt send script
+    
+    The Python script  send data to a free online Mqtt Broker. The Data are : Topic "home42\bedroom\light" and the state is "ON"
+    
+    i add a Readme file and screenshots
+
+commit d45124bab3c1f0d1c19e2b8825a04628259cc5ae
+Author: sunankles <92606432+sunankles@users.noreply.github.com>
+Date:   Sat Oct 23 16:02:37 2021 -0700
+
+    Create Book Report on Ready Player One
+    
+    Blog style webpage using CSS and HTML of the book Ready Player One.
+
+commit 2298bcdb658e32a9faffc70ba2823a61bd2802de
+Merge: 8067f7f 40e1c2b
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 24 02:31:06 2021 +0530
+
+    Merge pull request #247 from arjun-mittu/MCM
+    
+    added code for matrix chain multiplication
+
+commit 8067f7fb17bdf88c97ab4668bee4b419aeced8a8
+Merge: fd4b015 4dfc01d
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 24 02:30:40 2021 +0530
+
+    Merge pull request #248 from ShridharAmati/main
+    
+    Added merge sort in java language that sorts the array in 2T(n/2) + θ(n)
+
+commit 4dfc01db6cb920b94e61089c558b2c68bd976ed6
+Author: Shridhar <70563478+ShridharAmati@users.noreply.github.com>
+Date:   Sun Oct 24 02:05:05 2021 +0530
+
+    Added merge sort in java language that sorts the array in 2T(n/2) + θ(n)
+
+commit fd4b01553dbba0b9ac480697acff3ab08c3931be
+Merge: 5e63314 5b5d6c0
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 24 01:58:03 2021 +0530
+
+    Merge pull request #246 from thecreatorsir/electricity_bill_calculator_branch
+    
+    electricity bill calculator using vanilla javascript
+
+commit 40e1c2b9f4ff23f3cecef5a0d3ebcf6fe1b979b2
+Author: Arjun Mittu <43925857+arjun-mittu@users.noreply.github.com>
+Date:   Sun Oct 24 01:57:20 2021 +0530
+
+    added comments for time and space complexity
+
+commit 8bf6e1fc1a0e60c0450c1e6dc83499db4ed6fe77
+Author: Arjun Mittu <43925857+arjun-mittu@users.noreply.github.com>
+Date:   Sun Oct 24 01:54:49 2021 +0530
+
+    added code for matrix chain multiplication
+
+commit 5b5d6c0408ffcd7c395254a1fc4fb100bab12efa
+Author: Shubham Sharma <s.psharma887@gmail.com>
+Date:   Sun Oct 24 01:48:30 2021 +0530
+
+    electricity bill calculator using vanilla javascript
+
+commit 5e63314645370592df544ee103c5af478b59ba93
+Merge: d1f410d 6252545
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 24 01:47:39 2021 +0530
+
+    Merge pull request #244 from profpiyush/main
+    
+    Added Random Quote Generator Project
+
+commit d1f410d25db248be32dcde1e5c38ecf1eb328cb7
+Merge: 0620563 9f290f2
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 24 01:46:09 2021 +0530
+
+    Merge pull request #245 from sakshi4235/sakshi4235-patch-1
+    
+    Added a blogging website design.
+
+commit 9f290f2071c3aace9b12035a9282737ecf322a3e
+Author: sakshi4235 <65545679+sakshi4235@users.noreply.github.com>
+Date:   Sun Oct 24 01:20:12 2021 +0530
+
+    Added a blogging website design.
+    
+    A blogging website design using HTML and CSS.
+    
+    Review it on: https://sakshi4235.github.io/Blogger/
+
+commit 6252545d5ecb126de905d16a7cba8dd5002ff77a
+Author: Piyush Awasthi <75202566+profpiyush@users.noreply.github.com>
+Date:   Sun Oct 24 00:37:03 2021 +0530
+
+    Added Random Quote Generator Project
+    
+    Using HTML CSS JS
+
+commit 0620563c74510ec3c23a1ec70e1378b45e67adcc
+Merge: c1e9c3d 5888923
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 24 00:32:27 2021 +0530
+
+    Merge pull request #242 from aakarsh2126/main
+    
+    Create coin_change.cpp
+
+commit c1e9c3d20f38ea2eca6f97786fbce507c98efd7e
+Merge: cebf0f4 0949e59
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 24 00:32:01 2021 +0530
+
+    Merge pull request #241 from roshita2707/main
+    
+    Rainbow Benzene
+
+commit cebf0f4811d74ca5abde94cdaa179809a0843369
+Merge: 93ff04f 9136a1a
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 24 00:31:09 2021 +0530
+
+    Merge pull request #240 from Nikhil-Kumar12/Nikhil-Kumar12-patch-1
+    
+    update animation of survey form
+
+commit 93ff04f4e97b8dcbd9e5d270d9ae2c9de9e982ed
+Merge: 5e848ee 1258ed8
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 24 00:30:31 2021 +0530
+
+    Merge pull request #239 from bidishaMondal7/bidishaBM7
+    
+    Check whether a string or integer is palindrome or not - Ruby
+
+commit 5888923c61e3b65514b9a250283d8cd79e649607
+Author: Aakarsh Verma <aakarshms2126@gmail.com>
+Date:   Sat Oct 23 23:20:41 2021 +0530
+
+    Create rod_cutting.cpp
+
+commit 326857c40240caff3c374eb5e132c5e89d11b023
+Author: Aakarsh Verma <aakarshms2126@gmail.com>
+Date:   Sat Oct 23 23:17:41 2021 +0530
+
+    Create coin_change.cpp
+
+commit 0949e5950a176cb77331c6624e466f3aa217b0af
+Author: roshitha2707 <72878563+roshita2707@users.noreply.github.com>
+Date:   Sat Oct 23 09:48:39 2021 -0700
+
+    Rainbow Benzene
+
+commit 9136a1a0fcf42c16daea29e380ea2587e37bcf69
+Author: Nikhil Kumar <70438111+Nikhil-Kumar12@users.noreply.github.com>
+Date:   Sat Oct 23 21:29:24 2021 +0530
+
+    update animation of survey form
+    
+    1. update <h1> font size
+    2. added fade-in animation of form
+    3. added web-kit animation for other browsers.
+
+commit 1258ed8d975688bbb77267b8b03197c7a668ea68
+Author: bidishaMondal7 <bidisha.tuli7@gmail.com>
+Date:   Sat Oct 23 20:48:32 2021 +0530
+
+    Check whether a string or integer is palindrome or not - Ruby
+
+commit 5e848eebdbbc2e998a318562dc0dbfb3c934efd8
+Merge: 5a8c7ce 7c2d8d7
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sat Oct 23 17:51:52 2021 +0530
+
+    Merge pull request #237 from frogo123/hacktober
+    
+    adding pomodoro clock files to the javascript directory
+
+commit 5a8c7ce9828ce811b416cc77628716a3cf318a6e
+Merge: f469421 d3002c7
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sat Oct 23 17:51:33 2021 +0530
+
+    Merge pull request #236 from akshat-jjain/patch-1
+    
+    Create tic-tac-toe.py
+
+commit 7c2d8d7ac3c33964743337d0222f84d696bd47f6
+Author: frogo123 <eddie.fisher368@gmail.com>
+Date:   Sat Oct 23 13:19:25 2021 +0100
+
+    adding pomodoro clock files to the javascript directory
+
+commit d3002c7cae6993c5820bb50d2e8328dadf9350fd
+Author: AKSHAT JAIN <akshat9983@gmail.com>
+Date:   Sat Oct 23 17:29:28 2021 +0530
+
+    Create tic-tac-toe.py
+    
+    Tic Tac Toe Game with Multiplayer And Hint Function
+
+commit f46942101fbdc8ab10df63c472ee6ce0f9824d56
+Merge: 801e319 d2bec6d
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sat Oct 23 17:16:43 2021 +0530
+
+    Merge pull request #234 from prarthanashr04/main
+    
+    merge sort
+
+commit 801e3194e1593c0bb70b011a5f7eb067d75863c0
+Merge: 2b7f45a caf04b0
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sat Oct 23 17:14:26 2021 +0530
+
+    Merge pull request #235 from koustav2001/main
+    
+    Submission of Balanced Tree or not
+
+commit d2bec6dd224fb881c46c3c1c8fbd976f4e3c0946
+Author: Prarthana Sharma <prarthanashr04@gmail.com>
+Date:   Sat Oct 23 16:11:55 2021 +0530
+
+    merge sort
+
+commit caf04b09f07aefd9fa10c1cae37f8c3be5d92404
+Author: koustav2001 <89209950+koustav2001@users.noreply.github.com>
+Date:   Sat Oct 23 16:11:31 2021 +0530
+
+    Submission of Balanced Tree or not
+
+commit 2b7f45a9ea4c2973abacfc466b5f81d2edf4d975
+Merge: 8f8b25d 1bc6699
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sat Oct 23 16:07:48 2021 +0530
+
+    Merge pull request #231 from jigyasingh/main
+    
+    Heading added and font
+
+commit 8f8b25df316a7ff1cae71e2964d04d1a46dfed5a
+Merge: ff8ab9f d55dea3
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sat Oct 23 16:07:22 2021 +0530
+
+    Merge pull request #232 from foulcommander/main
+    
+    Sum of Array using recursion
+
+commit ff8ab9fb1d874c612ae35b1f24289efa639bd77c
+Merge: 98f0935 d4bd7f0
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sat Oct 23 16:07:06 2021 +0530
+
+    Merge pull request #233 from aadu9/main
+    
+    whatsapp automation using javascript
+
+commit d4bd7f0c8181aa60c24802ab6beb40d2cbc4ddd1
+Author: Aditi <93023594+aadu9@users.noreply.github.com>
+Date:   Sat Oct 23 14:42:15 2021 +0530
+
+    whatsapp automation using javascript
+
+commit d55dea3172113513681e46859ecf4336f0f20bd5
+Author: Kartik Singh Raihal <70884289+foulcommander@users.noreply.github.com>
+Date:   Sat Oct 23 11:00:00 2021 +0530
+
+    Sum of Array using recursion
+
+commit 1bc66998a35f60531c3ef07cc00e201b442f7fe9
+Author: jigyasingh <jigya.19b121055@abes.ac.in>
+Date:   Sat Oct 23 10:48:06 2021 +0530
+
+    Heading added
+
+commit 98f09359918b340850594f74a56f219d58440f53
+Merge: dad6503 cd7b9f5
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sat Oct 23 01:38:48 2021 +0530
+
+    Merge pull request #229 from Nikhil-Kumar12/main
+    
+    more efficient code for intersection
+
+commit dad65039df166c0eac3721cb9391f67d3c468950
+Merge: d3eb3ee 4b570c8
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sat Oct 23 01:38:27 2021 +0530
+
+    Merge pull request #230 from smriti2411/queue
+    
+    Queue
+
+commit 4b570c8320fbf5242c7e6ea1191aa74419cc3c02
+Author: smriti2411 <23240.smriti@gmail.com>
+Date:   Fri Oct 22 23:54:17 2021 +0530
+
+    priority queue
+
+commit cae818e8538d4fe90f6964fc4cbbaa9822014d1c
+Author: smriti2411 <23240.smriti@gmail.com>
+Date:   Fri Oct 22 23:52:20 2021 +0530
+
+    Priority Queue
+
+commit cd7b9f5b6e810d2da5a0247e563198ae03e0eb5a
+Author: Nikhil Kumar <70438111+Nikhil-Kumar12@users.noreply.github.com>
+Date:   Fri Oct 22 23:39:26 2021 +0530
+
+    more efficient code for intersection
+
+commit d3eb3ee9d18da26827a61d8ea3379030643fcaa4
+Merge: 0074d04 fbe4d69
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 22 04:07:08 2021 +0530
+
+    Merge pull request #228 from Kuldeep-045/patch-1
+    
+    All Repeating Three Times Except One
+
+commit fbe4d69c0944e1d7bb25f96f7042d3fdd7ef0fdf
+Author: Kuldeep-045 <86959046+Kuldeep-045@users.noreply.github.com>
+Date:   Fri Oct 22 02:22:29 2021 +0530
+
+    All Repeating Three Times Except One
+    
+    Time Complexity O(n);
+    Space ComplexityO(1);
+
+commit 0074d04d548564d789347066e79984907251c1a3
+Merge: 06bc076 e9b35ff
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 22 00:06:48 2021 +0530
+
+    Merge pull request #227 from D3adShoT/main
+    
+    Coin Change Problem
+
+commit e9b35ff513c9edb4416ca8ca3982f471901ba038
+Author: Agraj Naman <agrajnaman1@gmail.com>
+Date:   Thu Oct 21 23:33:06 2021 +0530
+
+    Coin Change Problem
+    
+    Dynamic Programming solution of Coin Change Problem
+
+commit 06bc07646b37b22ef3e33f1346e99c9d363831b0
+Merge: d0a88b6 05e0f72
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Thu Oct 21 17:18:24 2021 +0530
+
+    Merge pull request #226 from harsh1245-bit/main
+    
+    Added notes app
+
+commit 05e0f724d0426c4c0a9ff7bbbbe427fd5ad21227
+Author: Harsh Pandey <71370229+harsh1245-bit@users.noreply.github.com>
+Date:   Thu Oct 21 16:15:48 2021 +0530
+
+    Create app.js
+
+commit 3c5c48a51826da3cff9168307ff33c3ff4735021
+Author: Harsh Pandey <71370229+harsh1245-bit@users.noreply.github.com>
+Date:   Thu Oct 21 16:15:27 2021 +0530
+
+    Create index.html
+
+commit d0a88b648cc9fddb7cf1bacd838dc16d26a390ca
+Merge: df44feb 5d0c422
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Thu Oct 21 15:40:14 2021 +0530
+
+    Merge pull request #225 from ashpreetkaur25/main
+    
+    LargestBST.cpp
+
+commit df44feba897402778d45445d05dbbeed225aa222
+Merge: 3948d59 f5a8139
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Thu Oct 21 15:39:39 2021 +0530
+
+    Merge pull request #224 from jayyyp19/main
+    
+    stackusing-linklist
+
+commit 5d0c422a29865f3f75a2269ce5e98edd7ace12b3
+Author: ashpreetkaur25 <82947364+ashpreetkaur25@users.noreply.github.com>
+Date:   Thu Oct 21 14:08:56 2021 +0530
+
+    LargestBST.cpp
+
+commit f5a81393ca3a33e71914aa47b6c9514f914cab5e
+Author: Jayparikh19 <77070662+Jayparikh19@users.noreply.github.com>
+Date:   Thu Oct 21 13:44:29 2021 +0530
+
+    stackusing-linklist
+
+commit 3948d5996788646a2071a8254719a581aa276b73
+Merge: d53e237 14a5b7d
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Thu Oct 21 09:06:27 2021 +0530
+
+    Merge pull request #223 from unnati-dot/newbranch
+    
+    color flipper using html css and javascript
+
+commit 14a5b7d88df06451454af438fa95ac50da2f9cfd
+Author: unnatiaggarwal <unnatiaggarwal90@gmail.com>
+Date:   Thu Oct 21 08:35:48 2021 +0530
+
+    color flipper using html css and javascript
+
+commit d53e237cbd513319b87bfa9822f498fb97b5a921
+Merge: bac154b f20466e
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Thu Oct 21 07:59:55 2021 +0530
+
+    Merge pull request #222 from Nathalia1234/main
+    
+    python currency converter
+
+commit f20466e9021602a9d59df110fcfa99390af90029
+Author: Nathália Ohana <nathalia676@outlook.com>
+Date:   Wed Oct 20 18:38:06 2021 -0300
+
+    python currency converter
+
+commit bac154b9550ddaa56ca21001f6ef375a94a6419d
+Merge: 7f80f16 b415df8
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Thu Oct 21 00:33:12 2021 +0530
+
+    Merge pull request #215 from vaibhavvijay9/main
+    
+    Simple Survey Form using HTML and Tailwind CSS
+
+commit 7f80f162a9cc7be983123c4054108da7d997add6
+Merge: 7716c3a cb149c7
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Thu Oct 21 00:32:28 2021 +0530
+
+    Merge pull request #221 from mahalakshmi-08/main
+    
+    Create Turtle.py using turtles
+
+commit 7716c3a42566235418d88c0e1c1a623689f24734
+Merge: 907d178 dc247e6
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Wed Oct 20 23:26:18 2021 +0530
+
+    Merge pull request #220 from mahalakshmi-08/patch-1
+    
+    Create Turtle.py using turtles
+
+commit 907d178c7a9d83b738ba28d5e1d6e55a94bccd3e
+Merge: 1d38ee4 c6edea9
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Wed Oct 20 23:22:10 2021 +0530
+
+    Merge pull request #219 from sanamkandar/main
+    
+    added snake-water-gun game in python
+
+commit 1d38ee4e38afa66a0f30eb9a750bde80e09efb43
+Merge: ee34338 450de9f
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Wed Oct 20 22:58:45 2021 +0530
+
+    Merge pull request #214 from YashashwiniDixit/main
+    
+    Snake game in Python
+
+commit cb149c7f59d18b521330b7bd395fcc1933911cb0
+Author: mahalakshmi-08 <71280179+mahalakshmi-08@users.noreply.github.com>
+Date:   Wed Oct 20 22:05:34 2021 +0530
+
+    Create Turtle.py using turtles
+
+commit dc247e6f563ee72e9f859b307893813be88bb699
+Author: mahalakshmi-08 <71280179+mahalakshmi-08@users.noreply.github.com>
+Date:   Wed Oct 20 21:59:47 2021 +0530
+
+    Create Turtle.py
+
+commit c6edea9234cb17cf201791449e7908d9cfcd81de
+Author: sanam kandar <sanam.kandar@gmail.com>
+Date:   Wed Oct 20 20:27:15 2021 +0530
+
+    added snake-water-gun game in python
+
+commit ee34338cf4d051eb76aaddf8097e7110d65f7d89
+Merge: 8f99b89 e587906
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Wed Oct 20 20:18:34 2021 +0530
+
+    Merge pull request #218 from Shantanu1890/main
+    
+    Create polynom-add-linked-list.cpp
+
+commit e5879064bcce361a96ec68512438f99dad21350f
+Author: Shantanu1890 <73807045+Shantanu1890@users.noreply.github.com>
+Date:   Wed Oct 20 20:14:11 2021 +0530
+
+    Create polynom-add-linked-list.cpp
+
+commit 8f99b89457b433d930ab24e7c7be5b64e3294402
+Merge: 4abd76c b650f1d
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Wed Oct 20 20:01:23 2021 +0530
+
+    Merge pull request #216 from Kunal9155/kunala
+    
+    Heap Sort using java
+
+commit b650f1dd8f1425fd698a745b5d986076de04e86c
+Author: Kunal9155 <9155kunalarora@gmail.com>
+Date:   Wed Oct 20 18:36:22 2021 +0530
+
+    Heap Sort using java
+
+commit b415df8eb86f01c85466d5fee0e15b1134615631
+Author: vaibhavvijay9 <vaibhavvijay9@gmail.com>
+Date:   Wed Oct 20 13:33:50 2021 +0530
+
+    Simple Survey Form using HTMl and Tailwind CSS
+
+commit 450de9fc43b9bd879c848206ef6503b055296b97
+Author: Yashashwini Dixit <64366760+YashashwiniDixit@users.noreply.github.com>
+Date:   Wed Oct 20 13:08:18 2021 +0530
+
+    snake game in python
+
+commit 4abd76c8a265162883976b168d85e7df623f247b
+Merge: ac15cdb 71a948b
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Wed Oct 20 13:01:09 2021 +0530
+
+    Merge pull request #212 from Alanzz/main
+    
+    Twitter_sentiment_analysis project
+
+commit ac15cdb768d37fd951a47e516e2b1dfa3f2c7ebc
+Merge: 815ee89 452af97
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Wed Oct 20 13:00:26 2021 +0530
+
+    Merge pull request #213 from manalijain346/main
+    
+    added tribute page
+
+commit 452af974cceb471c8addb8afe6ff0eb1de5dd413
+Author: Manali Jain <manalijain346@gmail.com>
+Date:   Wed Oct 20 11:46:56 2021 +0530
+
+    added tribute page
+
+commit 71a948bdb8ffbbd74eb5061ceaf53fa89ec3970e
+Author: Alan Paul <57307037+Alanzz@users.noreply.github.com>
+Date:   Wed Oct 20 11:10:11 2021 +0530
+
+    Twitter_sentiment_analysis project
+
+commit 815ee896db9116216bbcedf4c95f81c101f67969
+Merge: c4c40c6 09df848
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Wed Oct 20 10:14:59 2021 +0530
+
+    Merge pull request #210 from Alanzz/main
+    
+    Image segmentation project
+
+commit c4c40c6523ce94fee8b20287fedf7baf3ebcf0ea
+Merge: a625646 83f8d91
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Wed Oct 20 10:14:16 2021 +0530
+
+    Merge pull request #211 from ChickenNoogit/main
+    
+    Create fun videogames
+
+commit 83f8d918590c341ed654077dcddde55f44346fcb
+Author: ChickenNoogit <91927267+ChickenNoogit@users.noreply.github.com>
+Date:   Tue Oct 19 20:57:29 2021 -0700
+
+    Create fun videogames
+
+commit 09df848703ff8302244c865d7313880d7e8ad065
+Author: Alan Paul <57307037+Alanzz@users.noreply.github.com>
+Date:   Wed Oct 20 08:56:19 2021 +0530
+
+    Delete Movie_Recomendation.py
+
+commit f8e3a9d1e2ea97fe11b05c525de807badcde20c8
+Author: Alan Paul <57307037+Alanzz@users.noreply.github.com>
+Date:   Wed Oct 20 08:54:33 2021 +0530
+
+    Movie recomendation
+
+commit 24e54cd1ca4ce069f1069258e1445905a4d59f65
+Author: Alan Paul <57307037+Alanzz@users.noreply.github.com>
+Date:   Wed Oct 20 08:40:16 2021 +0530
+
+    Image segmentation project
+
+commit a6256462728f681b050e12850ac6e9401e2f1ac7
+Merge: e857ac8 bba057c
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Wed Oct 20 08:34:02 2021 +0530
+
+    Merge pull request #209 from Alanzz/main
+    
+    Music_Genre_classification project
+
+commit bba057cc9bc0ecd05f44d887233bfa790b7ceffb
+Author: Alan Paul <57307037+Alanzz@users.noreply.github.com>
+Date:   Wed Oct 20 08:21:09 2021 +0530
+
+    Music Genre classification project
+
+commit e857ac81644f757fef5d7f76dd3e1c06202d0ddb
+Merge: c21290d b8663bd
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Wed Oct 20 00:13:12 2021 +0530
+
+    Merge pull request #207 from vinilRathod/main
+    
+    Program by vinilRathod
+
+commit c21290dc4c9a404b581215847adb8b206270c049
+Merge: 58ef8c7 25a319c
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Wed Oct 20 00:12:38 2021 +0530
+
+    Merge pull request #201 from Jatinkumar30/Jatinkumar30-patch-1
+    
+    added files to python
+
+commit 58ef8c73a7913ec7cc5838c94d44f0851d36ce2e
+Merge: 9f10739 d734d0b
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Wed Oct 20 00:12:09 2021 +0530
+
+    Merge pull request #208 from theoopsguy/main
+    
+    Add Memory-Flash Game
+
+commit d734d0b91d8c9289eac1845a53847ee373a5d6c1
+Author: Harshit Jain <theoopsguy01@gmail.com>
+Date:   Tue Oct 19 22:54:50 2021 +0530
+
+    Add Memory-Flash Game
+
+commit b8663bdc8dea62bdc13829d58cdf5ba22d6b83dc
+Author: RATHOD VINIL <viniljain703@gmail.com>
+Date:   Tue Oct 19 21:43:58 2021 +0530
+
+    Program by vinilRathod
+    
+    Find the second largest element in an array.
+
+commit 9f10739b69ddade0926213e1e982c5975c895cc9
+Merge: eefab34 6fe9f97
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Tue Oct 19 21:40:52 2021 +0530
+
+    Merge pull request #206 from M4D-Skillz-777/main
+    
+    Added Sieve Of Erathotenes
+
+commit 6fe9f97983b52fcceb022bef0fc39f107254af99
+Author: Adwaiy Randale <71183362+M4D-Skillz-777@users.noreply.github.com>
+Date:   Tue Oct 19 19:45:51 2021 +0530
+
+    Added Sieve Of Erathotinis
+    
+    DSA contribution in java-script on Sieve Of Eratosthenes
+
+commit eefab34b0046d8137d46a33e689ae4d24fb6705e
+Merge: 58a4d86 86da5a8
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Tue Oct 19 19:41:51 2021 +0530
+
+    Merge pull request #199 from AviratGupta/main
+    
+    Create Rabin-Karp Algorithm for Pattern Searching.cpp
+
+commit 86da5a82dab275c6fb6c6e3cbf85e1e5c880e3d0
+Author: Avirat Gupta <55698467+AviratGupta@users.noreply.github.com>
+Date:   Tue Oct 19 19:30:58 2021 +0530
+
+    Update Rabin-Karp Algorithm for Pattern Searching.cpp
+    
+    
+    Time Complexity:
+    The average and best-case running time of the Rabin-Karp algorithm is O(n+m), but its worst-case time is O(nm).
+    
+    space Complexity:
+    It can be done in constant space.
+
+commit 58a4d8601455311abe3a489c291d97803aeccbb2
+Merge: 49784f6 2420d68
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Oct 19 18:54:57 2021 +0530
+
+    Merge pull request #205 from smriti2411/bucketsort
+    
+    Bucket Sort
+
+commit 2420d687c1fa7ae98fdb2f481e4273c59beefffd
+Author: smriti2411 <23240.smriti@gmail.com>
+Date:   Tue Oct 19 15:13:08 2021 +0530
+
+    Bucket Sort
+
+commit 49784f69f92fd78699319cbb2b1c07158a244166
+Merge: e1a0ef0 9cdfd3c
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Oct 19 15:12:11 2021 +0530
+
+    Merge pull request #198 from Alimaja/patch-1
+    
+    Create calculator.py
+
+commit e1a0ef0dbfb34d43ffee347bc73c284a4cdcc006
+Merge: ca95e83 9e7f650
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Oct 19 15:11:38 2021 +0530
+
+    Merge pull request #202 from Alanzz/main
+    
+    Fake_news_detection project
+
+commit ca95e838abff06a44a7ea602b09db5ef2f9707d0
+Merge: 032299d 26b802e
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Oct 19 15:10:51 2021 +0530
+
+    Merge pull request #203 from tarunbisht-24/main
+    
+    Created Catch-Insect-Game with html, css and js
+
+commit 032299db2188fd9d11fbaa1da318cbf41b6cac12
+Merge: 23e1c24 ff9891a
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Oct 19 15:10:14 2021 +0530
+
+    Merge pull request #204 from sreechand2002/main
+    
+    level order traversing of binary tree, which is very helpful algorith…
+
+commit ff9891a6f5bcdec564b28c75d6945ee4a8625d2b
+Author: sreechand2002 <sreechand2002@gmail.com>
+Date:   Tue Oct 19 14:26:40 2021 +0530
+
+    level order traversing of binary tree, which is very helpful algorithm in many problems
+
+commit 26b802efc4c451344a5275cecb9174e53517ad60
+Author: Tarun Bisht <77788209+tarunbisht-24@users.noreply.github.com>
+Date:   Tue Oct 19 13:37:10 2021 +0530
+
+    Added javascript file for game
+
+commit e7a5e341cfd37e77df30341aef289d0a55a401e0
+Author: Tarun Bisht <77788209+tarunbisht-24@users.noreply.github.com>
+Date:   Tue Oct 19 13:35:50 2021 +0530
+
+    Added css file for game
+
+commit 9e7f650a740cea41586638c1768af7f5c9dc3133
+Author: Alan Paul <57307037+Alanzz@users.noreply.github.com>
+Date:   Tue Oct 19 13:35:37 2021 +0530
+
+    Create Fake_news_detection.py
+
+commit b89b55399d208c258d8c7a305a599d1d6635eb0d
+Author: Tarun Bisht <77788209+tarunbisht-24@users.noreply.github.com>
+Date:   Tue Oct 19 13:34:54 2021 +0530
+
+    Added html file for game
+
+commit 25a319c57e57efd85f4a609b40d3a87387a646b3
+Author: Jatin Kumar <65028262+Jatinkumar30@users.noreply.github.com>
+Date:   Tue Oct 19 13:18:44 2021 +0530
+
+    added files to python
+
+commit 23e1c243451cf793badd8991f0f9e6f229081606
+Merge: cb6183c ee40d0d
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Tue Oct 19 13:10:47 2021 +0530
+
+    Merge pull request #200 from manika137/main
+    
+    Pokemon_Poke
+
+commit ee40d0d638b2a5a25eb1c56a113aef152027fe8b
+Author: manika137 <80244229+manika137@users.noreply.github.com>
+Date:   Tue Oct 19 12:25:07 2021 +0530
+
+    Pokemon_Poke
+    
+    POKEMON_POKE
+    
+    Website that loads information about different Pokemons on the Pokemon card every time the pokeball is clicked. The information covered is:
+    
+    1. Name of the Pokemon
+    2. Height and weight of the Pokemon
+    3. Photo of the Pokemon
+
+commit 40e579afbc97bb1945418c5692f46ae3538eb991
+Author: Avirat Gupta <55698467+AviratGupta@users.noreply.github.com>
+Date:   Tue Oct 19 11:47:56 2021 +0530
+
+    Create Rabin-Karp Algorithm for Pattern Searching.cpp
+
+commit 9cdfd3c5ea15453ab99ae2246fd5883decdd19a3
+Author: Alimaja <92705063+Alimaja@users.noreply.github.com>
+Date:   Tue Oct 19 12:48:25 2021 +0700
+
+    Create calculator.py
+
+commit cb6183ce0f17414e6d23a590ba42f7f59e0325fe
+Merge: cc3724f b913d21
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Tue Oct 19 08:21:09 2021 +0530
+
+    Merge pull request #163 from idm1303/main
+    
+    Add files via upload
+
+commit cc3724f254f088515cee48862a82b2ab5c0e6550
+Merge: 39635ee 9205c7e
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Oct 19 02:51:41 2021 +0530
+
+    Merge pull request #195 from aakarsh2126/patch-1
+    
+    Create target_sum.cpp
+
+commit 39635eea9d3bb01336087977a7617b75c5df6435
+Merge: c8a1b61 1f9816d
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Oct 19 02:50:50 2021 +0530
+
+    Merge pull request #196 from smriti2411/programs
+    
+    Recursive Insertion sort
+
+commit c8a1b61807cf18d1fd8712f4692ba36b120c04a0
+Merge: 31efd86 6875902
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Oct 19 02:48:46 2021 +0530
+
+    Merge pull request #197 from TanviNB/patch-1
+    
+    Update styles.css
+
+commit 68759022ac8892030499d127b9176b69b0a6bb86
+Author: Tanvi Budhabaware <71319525+TanviNB@users.noreply.github.com>
+Date:   Tue Oct 19 02:16:08 2021 +0530
+
+    Update styles.css
+    
+    Updated body css
+
+commit 1f9816d00faabcfdda40f6bd705e3306f923374e
+Author: smriti2411 <23240.smriti@gmail.com>
+Date:   Tue Oct 19 02:12:16 2021 +0530
+
+    Update
+
+commit 723a88514d2c14c2c92af2a76726a33a6d164e23
+Author: smriti2411 <23240.smriti@gmail.com>
+Date:   Tue Oct 19 02:09:39 2021 +0530
+
+    Update File
+
+commit f4cd0cfc2903212d13d446c1e0d6b7897a845cc5
+Author: smriti2411 <23240.smriti@gmail.com>
+Date:   Tue Oct 19 02:05:04 2021 +0530
+
+    Insertion Sort
+
+commit 9205c7e57c2e88222aab0ce40df0f7a940eea639
+Author: Aakarsh Verma <aakarshms2126@gmail.com>
+Date:   Tue Oct 19 01:57:06 2021 +0530
+
+    Create target_sum.cpp
+
+commit 31efd86f381236da1437cf571bb419a9e23ad0f8
+Merge: 2e5d3db 25eb661
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Oct 19 01:43:55 2021 +0530
+
+    Merge pull request #193 from vandyyyy/updated-style.css
+    
+    Update style.css
+
+commit 2e5d3dbca52face8a2438d0696c00bd0f63a26cc
+Merge: ac151d8 f7caf0e
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Oct 19 01:43:15 2021 +0530
+
+    Merge pull request #194 from aakarsh2126/main
+    
+    unbounded knapsack
+
+commit f7caf0ef851bf6928eca480192a8e741746d7a1a
+Author: Aakarsh Verma <aakarshms2126@gmail.com>
+Date:   Tue Oct 19 01:40:34 2021 +0530
+
+    Create unbounded_knapsack.cpp
+
+commit ac151d84a8c0adbeda7e9519c684e89b86422838
+Merge: d13682f 102033e
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Oct 19 00:57:48 2021 +0530
+
+    Merge pull request #192 from abhinnxo/main
+    
+    Stripe Payment Gateway Integration in ReactJS
+
+commit d13682fe4752b9e67a8d25a9f67c0a3753b66ac8
+Merge: daa6794 3373ce4
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Oct 19 00:56:49 2021 +0530
+
+    Merge pull request #189 from Vikrant804/vikrant
+    
+    Added Hover Effect For Cursor To Pointer For CheckBox Toggle
+
+commit 25eb6614c5d6e630f73366b3feec0e5d5fde7c3a
+Author: vandyyy <90506616+vandyyyy@users.noreply.github.com>
+Date:   Tue Oct 19 00:46:17 2021 +0530
+
+    Update style.css
+
+commit 102033e9413c59a54a209ef5e40f591e8b51274e
+Author: Abhinn Krishn <abhinnk21@gmail.com>
+Date:   Mon Oct 18 20:58:33 2021 +0530
+
+    Stripe Payment Gatewat Integration
+
+commit dbba4146f48aef76aca04f056d8590d7ee0708b1
+Author: Abhinn Krishn <abhinnk21@gmail.com>
+Date:   Mon Oct 18 20:51:20 2021 +0530
+
+    Added Stripe Payment Gateway
+
+commit daa679457e822058b26550885eec3feb94165eaf
+Merge: 1835e2d 8ad3d39
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Mon Oct 18 19:33:00 2021 +0530
+
+    Merge pull request #129 from Shruti700/main
+    
+    Update contribution.md
+
+commit 1835e2d788f10b4646c16ba5d91da22c0dbede06
+Merge: 67a056a df87837
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Mon Oct 18 19:31:31 2021 +0530
+
+    Merge pull request #190 from Amruta101998/main
+    
+    added face detection project
+
+commit df87837e50383ce64ba782aea170d7eb0f314231
+Author: unknown <hulaguramruta325@gmail.com>
+Date:   Mon Oct 18 18:04:42 2021 +0530
+
+    added face detection project in python folder
+
+commit 3373ce4ef1a1728961bf4f90396ef5b5219050ca
+Author: vikrant <vikrant.kamble804@gmail.com>
+Date:   Sun Oct 17 23:39:02 2021 -0700
+
+    Added Hover Effect For Cursor
+
+commit 67a056ae27a3b84d6876afcfff87a0ece548f141
+Merge: 9e6e079 d998b72
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Mon Oct 18 11:00:37 2021 +0530
+
+    Merge pull request #187 from Subhrato20/main
+    
+    Stack Using SLL
+
+commit 9e6e079b3cb21a0e51cd30294ba9ae21453119fd
+Merge: fe271b1 7a3f3a0
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 18 10:31:31 2021 +0530
+
+    Merge pull request #188 from Shantanu1890/main
+    
+    Create vowel-consonant.java
+
+commit 7a3f3a056124baf5915c361ffa488b1f432887ab
+Author: Shantanu1890 <73807045+Shantanu1890@users.noreply.github.com>
+Date:   Mon Oct 18 10:22:08 2021 +0530
+
+    Create vowel-consonant.java
+
+commit fe271b1e5ce0998ce0b9f2975d14d9c7cc5ce171
+Merge: 4641797 5cd86a9
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Mon Oct 18 10:12:19 2021 +0530
+
+    Merge pull request #181 from hari0409/main
+    
+    Wifi Password Extractor
+
+commit 46417970523d935fae772cc479ebaf2f53e40a81
+Merge: db78dda ceb6f16
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Mon Oct 18 10:11:30 2021 +0530
+
+    Merge pull request #168 from krishdudi/main
+    
+    Updated index.html
+
+commit d998b7282117422b5a95e0e826efb496e6d432ff
+Author: Subhrato Som <61539946+Subhrato20@users.noreply.github.com>
+Date:   Mon Oct 18 10:11:05 2021 +0530
+
+    Add files via upload
+
+commit db78dda3c1fc51e2da41d591dfa1cccdbfceb866
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Mon Oct 18 10:08:40 2021 +0530
+
+    Update README.md
+
+commit de2c23b54aef287a8233b9ed8dafaf248724f1cf
+Merge: 4ca0e51 4e8da81
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Mon Oct 18 10:06:53 2021 +0530
+
+    Merge pull request #171 from Mohanlal3014/main
+    
+    Added euler_method.js
+
+commit 4ca0e5185b40329aebc436b4c80a252095f0286c
+Merge: a12e521 e0aaf6c
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Mon Oct 18 10:05:41 2021 +0530
+
+    Merge pull request #184 from Amruta101998/main
+    
+    added Breast Cancer project in python folder
+
+commit a12e5210aef4bc01c8283dffd2dcfbb6ff804293
+Merge: 0dbf834 fc97edd
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Mon Oct 18 10:05:03 2021 +0530
+
+    Merge pull request #183 from zedutra/main
+    
+    Added instagram_image_webscraping.py
+
+commit 0dbf834129775b724c5da63b9636c37bd7685147
+Merge: f85a10e d272ec1
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Mon Oct 18 10:04:06 2021 +0530
+
+    Merge pull request #186 from theshivanshvasu/main
+    
+    Updating more  Interactive and informative  README file
+
+commit d272ec1f131133b53fd38e16356fc93744328a73
+Author: Shivansh Vasu <81351362+theshivanshvasu@users.noreply.github.com>
+Date:   Mon Oct 18 09:23:49 2021 +0530
+
+    Update README.md
+    
+    Author: @theshivanshvasu
+    Date: 18th Oct 2021
+    Changes:
+         - Adding  Project for Contributions.
+         - Added according to rules.
+         - Making it more Interactive and informative.
+
+commit e0aaf6c7bab52a47fcf9792b9f47bd60afb8f52b
+Author: unknown <hulaguramruta325@gmail.com>
+Date:   Mon Oct 18 09:13:50 2021 +0530
+
+    added Breast Cancer project in python folder
+
+commit fc97eddc156766639414296dfb97f92d58b6c393
+Author: zedutra <zedutra@protonmail.com>
+Date:   Sun Oct 17 19:03:17 2021 -0300
+
+    Added instagram_image_webscraping.py
+
+commit f85a10e2e07153ff18131abc8cea61fefe904396
+Merge: 659201e bd95efa
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 18 02:15:55 2021 +0530
+
+    Merge pull request #182 from itsooof/main
+    
+    Even Number Reverse
+
+commit bd95efa03c0f344b90a952477f77279fab28531e
+Author: kavya1902 <kpaliwal2002@gmail.com>
+Date:   Mon Oct 18 01:59:21 2021 +0530
+
+    EvenNumReverse
+
+commit 659201e8e26d593a8ab280a6c458071f73f3820e
+Merge: 63862b2 768da67
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 18 00:11:24 2021 +0530
+
+    Merge pull request #179 from Rohit01-pro/main
+    
+    Password Validator
+
+commit 63862b2674c48d02bf4aa7c880c13000a395d85b
+Merge: ce64c79 4c6f0d2
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 18 00:10:56 2021 +0530
+
+    Merge pull request #176 from vaishnavisaindane/patch-2
+    
+    string program in java
+
+commit ce64c79e6d6c4b7f9c193109d7541d2f378ae10d
+Merge: e601160 4c332af
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 18 00:10:23 2021 +0530
+
+    Merge pull request #175 from chinmayaAgrawal/main
+    
+    Frequency Sort in JAVA
+
+commit e60116022853ab38f5417964315bc3bb35e4fd2c
+Merge: 8efa040 e048598
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 18 00:08:41 2021 +0530
+
+    Merge pull request #178 from Shantanu1890/main
+    
+    Piglatin conversion java program under File Management
+
+commit 8efa040795e35d458cfe3517fa1505caceaad59d
+Merge: 66705a7 8dcfd02
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 18 00:08:01 2021 +0530
+
+    Merge pull request #180 from manisha-4/patch-1
+    
+    Added peak element in an array in python.
+
+commit 5cd86a997100dbd5fdca1668c918bbf747012249
+Author: hari0409 <73524123+hari0409@users.noreply.github.com>
+Date:   Sun Oct 17 23:28:52 2021 +0530
+
+    Add files via upload
+
+commit 8dcfd0252d520c52b7fcd526fa710cac5d46fda9
+Author: Manisha Kumari Sah <60925015+manisha-4@users.noreply.github.com>
+Date:   Sun Oct 17 22:54:30 2021 +0530
+
+    Added peak element in an array in python.
+    
+    Added peak element in an array in python with the time and space complexity.
+
+commit 768da6739f51a32760f8c9d2c6a1ca4ed5d967c5
+Author: Rohit01-pro <rohit777kanojiya@gmail.com>
+Date:   Sun Oct 17 21:10:06 2021 +0530
+
+    Password Validator
+
+commit e04859826220e2e04736691840cc7d535f1b9b12
+Author: Shantanu1890 <73807045+Shantanu1890@users.noreply.github.com>
+Date:   Sun Oct 17 19:59:13 2021 +0530
+
+    Delete DataSegregation.java
+
+commit 5fbe5db95bce69526eee05b0700b87c5b2603a17
+Author: Shantanu1890 <73807045+Shantanu1890@users.noreply.github.com>
+Date:   Sun Oct 17 19:51:01 2021 +0530
+
+    Create Piglatin.java
+
+commit cf6d90ff1347910f685f94567a323c8ac6dac6b3
+Author: Shantanu1890 <73807045+Shantanu1890@users.noreply.github.com>
+Date:   Sun Oct 17 19:47:36 2021 +0530
+
+    Create DataSegregation.java
+
+commit 4c6f0d2dc2bc510c50af18b6c3c60a18a09dd000
+Author: Vaishnavi Saindane <71937373+vaishnavisaindane@users.noreply.github.com>
+Date:   Sun Oct 17 19:30:08 2021 +0530
+
+    string program
+    
+    I have created a program showing use of string function in java
+
+commit 4c332af4cc83c5bd775b3d8f65878a38cff2ce76
+Author: Chinmaya <54171759+chinmayaAgrawal@users.noreply.github.com>
+Date:   Sun Oct 17 16:30:17 2021 +0530
+
+    resolved a problem
+
+commit ea46b8470c2fc665653f4623fcb4a3b65d5d487e
+Author: Chinmaya <54171759+chinmayaAgrawal@users.noreply.github.com>
+Date:   Sun Oct 17 16:29:03 2021 +0530
+
+    updated readme.md
+
+commit 5e13b7b239e030434c9675d98ac2af03b049a6c9
+Author: Chinmaya Agrawal <chinmaya953agrawal@gmail.com>
+Date:   Sun Oct 17 16:25:33 2021 +0530
+
+     frequency sort
+
+commit 66705a73f3a1577a2bd0603c1160a48db3f46967
+Merge: 6596dc7 bdff2c7
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 17 14:20:49 2021 +0530
+
+    Merge pull request #166 from vaishnavisaindane/patch-1
+    
+    Thread in java by extending thread class
+
+commit 6596dc745ba670c537a6928a623875cbc293cddc
+Merge: ecf27db 5e14ec5
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 17 14:19:31 2021 +0530
+
+    Merge pull request #172 from Abilash-3704/main
+    
+    modified the page
+
+commit ecf27db0487d31e20bf4175507f8d50628f13f8c
+Merge: c2c6897 c289e94
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 17 14:17:17 2021 +0530
+
+    Merge pull request #174 from miftahapriliandi/main
+    
+    Add birthday greetings code in python
+
+commit bdff2c7e35b69bebfa766a0919b0f78abf8db3a7
+Author: Vaishnavi Saindane <71937373+vaishnavisaindane@users.noreply.github.com>
+Date:   Sun Oct 17 14:16:52 2021 +0530
+
+    Update Mainthread.java
+
+commit c289e940a1b38845be3159c163348fa445afc76b
+Author: Miftah Apriliandi <54435237+miftahapriliandi@users.noreply.github.com>
+Date:   Sun Oct 17 15:39:14 2021 +0700
+
+    Add birthday greetings code in python
+
+commit c2c6897409c80dd88e325c249d882b4b8c1e8576
+Merge: e657af2 6473acf
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 17 14:01:22 2021 +0530
+
+    Merge pull request #173 from SHIVANGISINGH1/floodFill/recursion
+    
+    Added code of Flood Fill (Leetcode Problem:733)
+
+commit 6473acfb9948b8e7c8ad065a575d8f711bad9787
+Author: Shivangi Singh <shivangisinghhappy@gmail.com>
+Date:   Sun Oct 17 13:46:44 2021 +0530
+
+    Added code of Flood Fill (Leetcode Problem:733)
+
+commit 5e14ec50c69d7758fddec537830054dfbfa664b2
+Author: Abilash <kmabilash3704@gmail.com>
+Date:   Sun Oct 17 12:44:05 2021 +0530
+
+    modified the page
+
+commit 4e8da814870201647b6c3f631a74a63dbb907ea2
+Author: Mohanlal3014 <73456850+Mohanlal3014@users.noreply.github.com>
+Date:   Sun Oct 17 12:08:32 2021 +0530
+
+    Added euler_method.js
+    
+     Euler method is for solving ordinary differential equations (ODEs) with a given initial value. Frequently used in domains such as physics, chemistry, and economics.
+
+commit e657af280a44e84b8396900e4b79c47cb72a0dbd
+Merge: 168e6f6 f66f25b
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sun Oct 17 11:50:09 2021 +0530
+
+    Merge pull request #170 from Mohanlal3014/main
+    
+    Added luhn_algo.cpp
+
+commit 168e6f686afd75313569e8b424ec156ee71810e3
+Merge: 8af59d6 02154be
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sun Oct 17 11:49:06 2021 +0530
+
+    Merge pull request #153 from Anshul123kumar/main
+    
+    Add files via upload
+
+commit 8af59d629751a3a671d42c4d582d3e4c7273bfaf
+Merge: 6203e99 21ca603
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sun Oct 17 11:47:32 2021 +0530
+
+    Merge pull request #169 from harshit7962/main
+    
+    Second Largest Element
+
+commit f66f25b55184bae191181262106b782665a8edf2
+Author: Mohanlal3014 <73456850+Mohanlal3014@users.noreply.github.com>
+Date:   Sun Oct 17 11:38:23 2021 +0530
+
+    Added luhn_algo.cpp
+    
+    The Luhn algorithm is a simple checksum formula used to validate a variety of identification numbers.
+
+commit 21ca6038e8f114f1f91b26029c5ce3166756e43a
+Author: Harshit <62823486+harshit7962@users.noreply.github.com>
+Date:   Sun Oct 17 11:24:48 2021 +0530
+
+    Update secondLargest.cpp
+
+commit f0d6523ec97c23172eaaff68be518abccb98d99f
+Author: Harshit <62823486+harshit7962@users.noreply.github.com>
+Date:   Sun Oct 17 11:06:57 2021 +0530
+
+    Second Largest Element
+    
+    This algorithm finds the second largest element of an array in O(n) time.
+
+commit 6203e992011631a88e8709cb271835c2d8f6d75c
+Merge: adbabb5 fdf8467
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 17 10:55:10 2021 +0530
+
+    Merge pull request #164 from Rohit01-pro/main
+    
+    Fireworks JS Library
+
+commit ceb6f168f016e078699358f37e16440d11d0cdcc
+Author: krishxD <krishdudi001@gmail.com>
+Date:   Sun Oct 17 09:52:04 2021 +0530
+
+    Updated index.html
+
+commit 24055c6342bac6e796ac5e42ac7afa009df3fe15
+Author: kavya1902 <kpaliwal2002@gmail.com>
+Date:   Sun Oct 17 02:19:49 2021 +0530
+
+    Evennumreverse
+
+commit adbabb5562dbe45b44ca1e5f5e97df05737de361
+Merge: b0218d5 b364d2b
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 17 01:34:57 2021 +0530
+
+    Merge pull request #165 from yashikakaushik/main
+    
+    Add solution to Letter Case Permutation problem on Leetcode
+
+commit c5908bac07af4feb2f72b9c06dfff2fcf8786a37
+Author: Vaishnavi Saindane <71937373+vaishnavisaindane@users.noreply.github.com>
+Date:   Sun Oct 17 01:07:10 2021 +0530
+
+    Thread in java by extending thread class
+    
+    Threads allows a program to operate more efficiently by doing multiple things at the same time. Thread class provide constructors and methods to create and perform operations on a thread.
+
+commit b364d2b07131a965d1522dc5a8f4fcd429760443
+Author: Yashika Kaushik <yashikakaushik@Yashikas-MacBook-Air.local>
+Date:   Sun Oct 17 00:36:41 2021 +0530
+
+    Add solution to Letter Case Permutation problem on Leetcode
+
+commit fdf84679e2b23be49146f77bc5e2cea5f2840a12
+Author: Rohit01-pro <rohit777kanojiya@gmail.com>
+Date:   Sat Oct 16 22:04:45 2021 +0530
+
+    Fireworks JS Library
+
+commit b913d21c094ef4ab2e0b4aafc035d17ec0337dd2
+Author: Monochrome Taisa <44545985+idm1303@users.noreply.github.com>
+Date:   Sun Oct 17 00:33:23 2021 +0800
+
+    Add files via upload
+
+commit b0218d51c0f9fecb71fb981c460d27e81a9a25e8
+Merge: d2cb4d7 cd52984
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sat Oct 16 18:18:18 2021 +0530
+
+    Merge pull request #161 from hari0409/main
+    
+    Dog vs Cat Classifier
+
+commit 02154be5bdbb6ed0b16112b2267d81d94183b853
+Author: Anshul <54281291+Anshul123kumar@users.noreply.github.com>
+Date:   Sat Oct 16 17:57:56 2021 +0530
+
+    Update Intersection of two arrays.cpp
+
+commit 4da807028f7ae330b44d5c947f65efe0e2ffecdd
+Author: Anshul <54281291+Anshul123kumar@users.noreply.github.com>
+Date:   Sat Oct 16 17:56:11 2021 +0530
+
+    Delete Print Anagrams Together.cpp
+
+commit 7e62449401417e632cc1988124867399514726f6
+Author: Anshul <54281291+Anshul123kumar@users.noreply.github.com>
+Date:   Sat Oct 16 17:55:58 2021 +0530
+
+    Delete Top K Frequent Elements in Array.cpp
+
+commit c7382bf2fe1add88d587c15a581619e5a9d2b8c3
+Author: Anshul <54281291+Anshul123kumar@users.noreply.github.com>
+Date:   Sat Oct 16 17:55:48 2021 +0530
+
+    Delete Triplet Sum in Array.cpp
+
+commit e7789e77ada407eb40015224abb2410d0a28bff9
+Author: Anshul <54281291+Anshul123kumar@users.noreply.github.com>
+Date:   Sat Oct 16 17:55:38 2021 +0530
+
+    Delete Rat in a maze.cpp
+
+commit cd52984afe849a34bbad0efba6cd15b88851eda2
+Author: hari0409 <73524123+hari0409@users.noreply.github.com>
+Date:   Sat Oct 16 17:42:14 2021 +0530
+
+    Added a Neural Network that classify dog & cat
+
+commit d30deaae50d5bfaa48b2fbdd8802d135f11e9577
+Author: hari0409 <73524123+hari0409@users.noreply.github.com>
+Date:   Sat Oct 16 17:40:25 2021 +0530
+
+    Delete dogs-vs-cat/dogs-vs-cat-master directory
+
+commit d05ce85692a30f639ecdd8e770e663f5176be2c7
+Author: hari0409 <73524123+hari0409@users.noreply.github.com>
+Date:   Sat Oct 16 17:39:57 2021 +0530
+
+    Add A Dog vs Cat Classifier
+
+commit d2cb4d799aed2edb6e7a0b5aba21884034f3ed58
+Merge: 7baf39d bab42e0
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sat Oct 16 16:40:16 2021 +0530
+
+    Merge pull request #137 from agrawalkunal2001/kunalag
+    
+    Added text utilities app
+
+commit 7baf39df03787b9c3a10fa43f85a174a0533d5c9
+Merge: f9fcf0f 3b47d51
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sat Oct 16 16:32:12 2021 +0530
+
+    Merge pull request #160 from sahilrawat001/main
+    
+    Create DigitalClock.html
+
+commit f9fcf0ff562f8355ffe27689b31f588ecd0ba92f
+Merge: de94403 8fc8f86
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sat Oct 16 16:31:26 2021 +0530
+
+    Merge pull request #159 from Pranav108/pranav_webCode
+    
+    Added Glowing Social Icons
+
+commit 3b47d51924e71385234541c59c8002aeb549eaf0
+Author: sahilrawat001 <66208562+sahilrawat001@users.noreply.github.com>
+Date:   Sat Oct 16 02:59:09 2021 -0700
+
+    Create DigitalClock.html
+
+commit 8fc8f86d605a5a85d29d83d5da8dbd297ee5debd
+Author: Pranav Pratap Singh <pranavpratapsingh108@gmail.com>
+Date:   Sat Oct 16 14:44:06 2021 +0530
+
+    Added Glowing Social Icons
+
+commit de94403f4d4eead6ea4682475decf33e9c72b463
+Merge: 6e303da 6bed47b
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sat Oct 16 11:30:21 2021 +0530
+
+    Merge pull request #158 from aayushibansal2001/main
+    
+    Added right view of Binary tree
+
+commit 6e303dafe2a119022a8437918b606d31530144e3
+Merge: 3d477ee a8941a8
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sat Oct 16 11:29:22 2021 +0530
+
+    Merge pull request #157 from ARTHURFLECK1828/main
+    
+    Added New Project Finger Count
+
+commit 6bed47bcc797538b0753757d821adeab08c7e313
+Author: Aayushi Bansal <51708118+aayushibansal2001@users.noreply.github.com>
+Date:   Sat Oct 16 11:21:04 2021 +0530
+
+    Added right view of Binary tree
+
+commit a8941a8de8016351dda26787ec0efa3b948ed86f
+Author: Aravind <70009354+ARTHURFLECK1828@users.noreply.github.com>
+Date:   Sat Oct 16 10:32:16 2021 +0530
+
+    Added New Project Finger Count
+    
+    Uses OpenCV & Python to count number of fingers
+
+commit 3d477ee05ed926aeb428e4847bfd42df3a5b5806
+Merge: 6e513cf 3b03ce5
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sat Oct 16 09:44:49 2021 +0530
+
+    Merge pull request #156 from Shantanu1890/main
+    
+    Create traversal_types_in_binary_tree.cpp
+
+commit 6e513cf4e2b005da0a3590afc50c89150e79539c
+Merge: 021670a 43627c6
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sat Oct 16 09:12:57 2021 +0530
+
+    Merge pull request #155 from Rohit01-pro/main
+    
+    Simple Book app
+
+commit 43627c657b6b25469775476d9c54780ac9f50793
+Author: Rohit01-pro <rohit777kanojiya@gmail.com>
+Date:   Sat Oct 16 08:21:53 2021 +0530
+
+    Dashboard Side bar
+
+commit 411d3877d398c502ba65988f3a09595d921ce2de
+Author: Rohit01-pro <rohit777kanojiya@gmail.com>
+Date:   Sat Oct 16 08:19:08 2021 +0530
+
+    Dashboard Side bar
+
+commit 67f28aa04442c8403d2ff5ef19025f94ae384c06
+Author: Rohit01-pro <rohit777kanojiya@gmail.com>
+Date:   Sat Oct 16 08:13:36 2021 +0530
+
+    Simple Book app
+
+commit 021670adc327ab66dddd419cce9d1bcbd8143cbd
+Merge: 4d2a9cd 6c262da
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sat Oct 16 08:03:41 2021 +0530
+
+    Merge pull request #151 from arpitpatawat/main
+    
+    Maximum Profit from a stock
+
+commit 4d2a9cd576880da3c3128592934e69f6be33791a
+Merge: fa74041 582c356
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sat Oct 16 00:30:39 2021 +0530
+
+    Merge pull request #154 from Anova07/main
+    
+    Create ShellSort.cpp
+
+commit 3b03ce5a744fdc71cc5f5c43e17b3770c4fbab7a
+Author: Shantanu1890 <73807045+Shantanu1890@users.noreply.github.com>
+Date:   Sat Oct 16 00:19:05 2021 +0530
+
+    Create traversal_types_in_binary_tree.cpp
+
+commit fa740419167f271765cfe7de1817c632616479f2
+Merge: 26ac5fc f5e00e4
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sat Oct 16 00:11:55 2021 +0530
+
+    Merge pull request #152 from saura8668/main
+    
+    Tik-Tac-Toe using AI.py
+
+commit ba363e51970fa13b4c8cc66aed2277993561aa12
+Author: Anshul <54281291+Anshul123kumar@users.noreply.github.com>
+Date:   Sat Oct 16 00:02:15 2021 +0530
+
+    Add files via upload
+
+commit 582c356d4f15aaa9ee82648940945cb023d28777
+Author: Anova07 <65520755+Anova07@users.noreply.github.com>
+Date:   Fri Oct 15 23:59:13 2021 +0530
+
+    Create ShellSort.cpp
+
+commit f5e00e4b09d8f24defd67907a4cad4a845c9606c
+Author: saura8668 <79748804+saura8668@users.noreply.github.com>
+Date:   Fri Oct 15 20:47:27 2021 +0530
+
+    Tik-Tac-Toe using AI.py
+    
+    Classic tik-tac-toe game implemented using AI
+
+commit 6c262da391ac4dcd0f7d07d878b2360790714876
+Author: arpitpatawat <75129076+arpitpatawat@users.noreply.github.com>
+Date:   Fri Oct 15 19:57:43 2021 +0530
+
+    Update maxBuySell.cpp
+    
+    added the time and space complexity in the code...
+
+commit c5eba89ed7c38d20ede7402b88933fe7e2daedcd
+Author: arpitpatawat <75129076+arpitpatawat@users.noreply.github.com>
+Date:   Fri Oct 15 19:08:06 2021 +0530
+
+    Maximum Profit from a stock
+    
+    Here we are given future predictions of a particular stock and our task is to find the maximum profit that can be made out of it...
+    We need to sell and buy tasks accordingly...
+
+commit 26ac5fcd6e859d8e039c74b6eaddbc2a7e30c472
+Merge: f06fab0 bd494b1
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Fri Oct 15 19:03:13 2021 +0530
+
+    Merge pull request #140 from ayushakar1/main
+    
+    Add files via upload
+
+commit f06fab09bca2a98449155a157bbcb7c131a4ec24
+Merge: b80d2c3 4eca5aa
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Fri Oct 15 18:44:17 2021 +0530
+
+    Merge pull request #130 from hari0409/main
+    
+    Added Weather, simple Weather telling app as anormal file instead as a zip
+
+commit 4eca5aae325259b0fea2d1638f4a1f6f4707cc22
+Author: hari0409 <73524123+hari0409@users.noreply.github.com>
+Date:   Fri Oct 15 08:49:11 2021 +0530
+
+    Add files via upload
+
+commit 0e3550abe73a0aca3269312a28eb41573da41f80
+Author: hari0409 <73524123+hari0409@users.noreply.github.com>
+Date:   Fri Oct 15 08:47:52 2021 +0530
+
+    Delete Projects/Javascript/weather/weather directory
+
+commit 44ea95e89b746ddf55191363e73be8cd235bbc38
+Author: hari0409 <73524123+hari0409@users.noreply.github.com>
+Date:   Fri Oct 15 08:46:26 2021 +0530
+
+    Add files via upload
+
+commit 9f6028dc7fc2f056c36b8baf071859aeeb8679fd
+Author: hari0409 <73524123+hari0409@users.noreply.github.com>
+Date:   Fri Oct 15 08:41:29 2021 +0530
+
+    Delete takeit-master.zip
+
+commit b80d2c32739013d87f03eeda4efecfad2044eb43
+Merge: fef7dcf a7e8a7f
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 15 01:45:35 2021 +0530
+
+    Merge pull request #150 from ankitjha2711/main
+    
+    Sorts the given list in ascending order
+
+commit a7e8a7f25b7a9d0245a2f4d94844a9db0d35afe5
+Author: Ankit Kumar Jha <76564889+ankitjha2711@users.noreply.github.com>
+Date:   Fri Oct 15 01:43:07 2021 +0530
+
+    Sorts the given list in ascending order
+    
+    You are given some integers and have been asked to sort them in a particular fashion. In this approach, every time you choose an integer from the given list and place it at a position you make sure that all the numbers left to it are either less than or equal to that number and all the elements right of it are greater than that number. Proceed in this way and finally write a code that sorts the given list in ascending order.
+
+commit fef7dcf5bfb0938840398698bb5b845555aa29c0
+Merge: d5b8ede 1714d8e
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 15 01:41:03 2021 +0530
+
+    Merge pull request #149 from ankitjha2711/main
+    
+     circular single linked list and delete a node at the beginning, end position.
+
+commit 1714d8eedcb4be5639fe882b6168347784c58946
+Author: Ankit Kumar Jha <76564889+ankitjha2711@users.noreply.github.com>
+Date:   Fri Oct 15 01:23:52 2021 +0530
+
+     circular single linked list and delete a node at the beginning, end any position
+    
+     Create a circular single linked list and delete a node at the beginning, end and any position
+
+commit d5b8ede4ced47773def5c92c95303d9f91dbc714
+Merge: 9c725f0 ab7ca9c
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 15 01:18:24 2021 +0530
+
+    Merge pull request #148 from ankitjha2711/main
+    
+    Merge two sorted lists
+
+commit ab7ca9c4c23d492b761a7ad02db1ad3d5e2f0c79
+Author: Ankit Kumar Jha <76564889+ankitjha2711@users.noreply.github.com>
+Date:   Fri Oct 15 01:14:19 2021 +0530
+
+    Merge two sorted lists
+    
+    Two friends were playing a game of cards with only a single colour (i.e Diamonds). One of them was having a sorted list of all six cards and the other one was having a sorted list of the other seven cards from the deck of thirteen cards in diamond. Write a code that uses the two set of sorted cards to finally get a single set of sorted cards.
+    
+    Input:
+    6
+    1 4 8 11 12 13
+    6
+    2 3 5 6 7 9
+    Output:
+    1 0 0 0 0 0 0 0 0 0 0 0
+    1 2 0 0 0 0 0 0 0 0 0 0
+    1 2 3 0 0 0 0 0 0 0 0 0
+    1 2 3 4 0 0 0 0 0 0 0 0
+    1 2 3 4 5 0 0 0 0 0 0 0
+    1 2 3 4 5 6 0 0 0 0 0 0
+    1 2 3 4 5 6 7 0 0 0 0 0
+    1 2 3 4 5 6 7 8 0 0 0 0
+    1 2 3 4 5 6 7 8 9 0 0 0
+    1 2 3 4 5 6 7 8 9 11 0 0
+    1 2 3 4 5 6 7 8 9 11 12 0
+    1 2 3 4 5 6 7 8 9 11 12 13
+
+commit 0bf3227ae1954a931124481b9995576f0adb7af8
+Author: Ankit Kumar Jha <76564889+ankitjha2711@users.noreply.github.com>
+Date:   Fri Oct 15 01:10:40 2021 +0530
+
+    Delete Merge two sorted lists.c
+
+commit 9c725f066d2a2033362cc89ee25fd607a7696fdb
+Merge: 9c69c36 7515574
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 15 01:09:06 2021 +0530
+
+    Merge pull request #147 from Saumya2600/patch-1
+    
+    Create Weight-converter.py
+
+commit e41396e58e69192e3cfdb49ed8e83241775b4f99
+Author: Ankit Kumar Jha <76564889+ankitjha2711@users.noreply.github.com>
+Date:   Fri Oct 15 01:08:34 2021 +0530
+
+    Delete Merge two sorted lists.c
+
+commit 9c69c36efecaa326e8d8ffb5ab886bfcec81a130
+Merge: 559e66b 7f41d63
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 15 01:06:35 2021 +0530
+
+    Merge pull request #146 from al1216/main
+    
+    interative tower of hanoi
+
+commit 7515574f941638ddbc61288e581f8d2b8a5021c4
+Author: Saumya <72230641+Saumya2600@users.noreply.github.com>
+Date:   Fri Oct 15 01:03:05 2021 +0530
+
+    Create Weight-converter.py
+    
+    Python program to convert weight.
+
+commit d3c121c7f77a16d958af74410a5e43d86e8f2249
+Author: Ankit Kumar Jha <76564889+ankitjha2711@users.noreply.github.com>
+Date:   Fri Oct 15 01:01:26 2021 +0530
+
+    Merge two sorted lists
+    
+    Two friends were playing a game of cards with only a single colour (i.e Diamonds). One of them was having a sorted list of all six cards and the other one was having a sorted list of the other seven cards from the deck of thirteen cards in diamond. Write a code that uses the two set of sorted cards to finally get a single set of sorted cards.
+    Input:
+    6
+    1 4 8 11 12 13
+    6
+    2 3 5 6 7 9
+    Output:
+    1 0 0 0 0 0 0 0 0 0 0 0
+    1 2 0 0 0 0 0 0 0 0 0 0
+    1 2 3 0 0 0 0 0 0 0 0 0
+    1 2 3 4 0 0 0 0 0 0 0 0
+    1 2 3 4 5 0 0 0 0 0 0 0
+    1 2 3 4 5 6 0 0 0 0 0 0
+    1 2 3 4 5 6 7 0 0 0 0 0
+    1 2 3 4 5 6 7 8 0 0 0 0
+    1 2 3 4 5 6 7 8 9 0 0 0
+    1 2 3 4 5 6 7 8 9 11 0 0
+    1 2 3 4 5 6 7 8 9 11 12 0
+    1 2 3 4 5 6 7 8 9 11 12 13
+
+commit 7f41d63b229fc31cfd5a1b89390813359cfa566c
+Author: Aditya Kumar Gupta <71925655+al1216@users.noreply.github.com>
+Date:   Fri Oct 15 01:00:54 2021 +0530
+
+    interative tower of hanoi
+    
+    write an iterative code for tower of hanoi.
+
+commit 35aa62ae69ef8b49734bc59f20eb4cc672225ea5
+Author: Ankit Kumar Jha <76564889+ankitjha2711@users.noreply.github.com>
+Date:   Fri Oct 15 00:58:12 2021 +0530
+
+     Delete Merge two sorted lists
+    
+    Two friends were playing a game of cards with only a single colour (i.e Diamonds). One of them was having a sorted list of all six cards and the other one was having a sorted list of the other seven cards from the deck of thirteen cards in diamond. Write a code that uses the two set of sorted cards to finally get a single set of sorted cards.
+    Input:
+    6
+    1 4 8 11 12 13
+    6
+    2 3 5 6 7 9
+    Output:
+
+commit 559e66b9e14b3ee7cd36b6545e7d96b35494359c
+Merge: a9937f5 b41b0b5
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 15 00:56:41 2021 +0530
+
+    Merge pull request #145 from al1216/main
+    
+    infix to postfix
+
+commit b41b0b53488468d44153b63b0feac188d36c5998
+Author: Aditya Kumar Gupta <71925655+al1216@users.noreply.github.com>
+Date:   Fri Oct 15 00:55:03 2021 +0530
+
+    infix to postfix
+    
+    write code to convert from infix to postfix using stack.
+
+commit a9937f5d261909c4a95efe997174fd4f8d9f1c92
+Merge: c1e3f09 5d57d46
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 15 00:51:41 2021 +0530
+
+    Merge pull request #142 from ankitjha2711/main
+    
+    Rotate an array
+
+commit c1e3f09d8957de199c51ab6ab7da5317d54c396e
+Merge: e5e7551 8f0faa2
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 15 00:51:11 2021 +0530
+
+    Merge pull request #143 from al1216/main
+    
+    insert element in tree
+
+commit e5e7551df9e9189296caffaee324d8cd37eb2689
+Merge: c15d6cb 49f060d
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 15 00:50:34 2021 +0530
+
+    Merge pull request #144 from ishrutik/main
+    
+    Climbing Stairs
+
+commit 8f0faa2e1538420ad1794526259f2adc5b454718
+Author: Aditya Kumar Gupta <71925655+al1216@users.noreply.github.com>
+Date:   Fri Oct 15 00:46:57 2021 +0530
+
+    Delete deleteElementTree.cpp
+
+commit c763e89afad11d5851da787e5a476922b8ed21de
+Author: Aditya Kumar Gupta <71925655+al1216@users.noreply.github.com>
+Date:   Fri Oct 15 00:45:40 2021 +0530
+
+    delete the elements in tree
+    
+    Delete the elements in the tree.
+
+commit 5d57d46c0a561b7577cdf5f449be26ffe549358d
+Author: Ankit Kumar Jha <76564889+ankitjha2711@users.noreply.github.com>
+Date:   Fri Oct 15 00:41:14 2021 +0530
+
+    Delete Merge two sorted lists.c
+
+commit 18dbb71b610675142f7f64d4e38ca76a3e422f2a
+Author: Ankit Kumar Jha <76564889+ankitjha2711@users.noreply.github.com>
+Date:   Fri Oct 15 00:38:33 2021 +0530
+
+    Merge two sorted list
+    
+    Two friends were playing a game of cards with only a single colour (i.e Diamonds). One of them was having a sorted list of all six cards and the other one was having a sorted list of the other seven cards from the deck of thirteen cards in diamond. Write a code that uses the two set of sorted cards to finally get a single set of sorted cards.
+    Input:
+    6
+    1 4 8 11 12 13
+    6
+    2 3 5 6 7 9
+    Output:
+    1 0 0 0 0 0 0 0 0 0 0 0
+    1 2 0 0 0 0 0 0 0 0 0 0
+    1 2 3 0 0 0 0 0 0 0 0 0
+    1 2 3 4 0 0 0 0 0 0 0 0
+    1 2 3 4 5 0 0 0 0 0 0 0
+    1 2 3 4 5 6 0 0 0 0 0 0
+    1 2 3 4 5 6 7 0 0 0 0 0
+    1 2 3 4 5 6 7 8 0 0 0 0
+    1 2 3 4 5 6 7 8 9 0 0 0
+    1 2 3 4 5 6 7 8 9 11 0 0
+    1 2 3 4 5 6 7 8 9 11 12 0
+    1 2 3 4 5 6 7 8 9 11 12 13
+
+commit 49f060ddc66347992e46e1d7ca8cc5c864df43a3
+Author: ishrutik <75141264+ishrutik@users.noreply.github.com>
+Date:   Fri Oct 15 00:33:59 2021 +0530
+
+    Add files via upload
+
+commit a1cd89f585fb7c76cbfdb19075b76a48d6b91578
+Author: Aditya Kumar Gupta <71925655+al1216@users.noreply.github.com>
+Date:   Fri Oct 15 00:32:02 2021 +0530
+
+    insert element in tree
+    
+    insert the element in tree.
+
+commit 568eee0c9375c57e6aaea58a004e896d8680b242
+Author: Ankit Kumar Jha <76564889+ankitjha2711@users.noreply.github.com>
+Date:   Fri Oct 15 00:28:22 2021 +0530
+
+    Rotate an array
+    
+    Given a circular sorted array of six integers, find the number of times the array is rotated. Assume that there are no duplicate elements in the array and that the array is rotated only in the anti-clockwise direction.
+    Input:
+    8 9 10 2 5 6
+    Output:
+     3
+
+commit c15d6cb37a877ca057052a94c6c66b03c1ead91f
+Merge: d11dfdd 28c9828
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 15 00:26:43 2021 +0530
+
+    Merge pull request #139 from ashpreetkaur25/main
+    
+    Kruskal'sAlgrithm.cpp
+
+commit d11dfdd3f474a8c6ca397fea9656bffa0680cfe7
+Merge: e018e08 ef4d195
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 15 00:25:57 2021 +0530
+
+    Merge pull request #138 from ishrutik/main
+    
+    Merge Two Sorted Lists
+
+commit e018e08b50b837be56fd1045490132bf5976cad8
+Merge: c2b31d9 abc868a
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 15 00:24:09 2021 +0530
+
+    Merge pull request #141 from al1216/main
+    
+    find the kth smallest element using recursion
+
+commit abc868aeef9621f1ad87b3652d25feeac311dc7d
+Author: Aditya Kumar Gupta <71925655+al1216@users.noreply.github.com>
+Date:   Fri Oct 15 00:17:12 2021 +0530
+
+    find the kth smallest element using recursion
+    
+    Write a recursive algorithm and subsequent C code for your algorithm to print the maximum digit of the given  number x . For example, 8 is the maximum digit of 286883  .
+    
+    Input format
+    Read  number x
+    Output
+     Maximum digit of x
+
+commit bd494b1783c829d3bfc866993151d3a42f220466
+Author: Ayusha Kar <77499411+ayushakar1@users.noreply.github.com>
+Date:   Thu Oct 14 22:53:52 2021 +0530
+
+    Add files via upload
+
+commit 28c9828d40ae150877cbe18b31611e56fd051dec
+Author: ashpreetkaur25 <82947364+ashpreetkaur25@users.noreply.github.com>
+Date:   Thu Oct 14 22:50:49 2021 +0530
+
+    Kruskal'sAlgrithm.cpp
+
+commit ef4d1955074ebadf7c825ed0ebd0813641c41172
+Author: ishrutik <75141264+ishrutik@users.noreply.github.com>
+Date:   Thu Oct 14 22:47:38 2021 +0530
+
+    Add files via upload
+
+commit bab42e0cd98b6cec45b4f602d61e04654687c42c
+Author: Plane <plane2001@outlook.com>
+Date:   Thu Oct 14 22:33:56 2021 +0530
+
+    Added text utilities app
+
+commit c2b31d9275234fac4801973658f584fb497f0cb4
+Merge: 2a48f13 8437db4
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Thu Oct 14 22:24:08 2021 +0530
+
+    Merge pull request #136 from ishrutik/main
+    
+    Sorted Array to BST
+
+commit 8437db42142965a79c34c7b658ba0b625e2a723f
+Author: ishrutik <75141264+ishrutik@users.noreply.github.com>
+Date:   Thu Oct 14 22:19:28 2021 +0530
+
+    Add files via upload
+
+commit 2a48f13a194f6106fee694236904387f06fc96a0
+Merge: 4057731 60f9256
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Thu Oct 14 22:06:53 2021 +0530
+
+    Merge pull request #135 from ishrutik/main
+    
+    Palindrome Linked List
+
+commit 40577312ffe5fa3bce43fb6a70c7f71b37f03a94
+Merge: a276348 216f751
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Thu Oct 14 22:06:07 2021 +0530
+
+    Merge pull request #134 from thea02/main
+    
+    Binary search with pointers
+
+commit 60f9256a109cd393f828e883cbba4b3f53ec74a3
+Author: ishrutik <75141264+ishrutik@users.noreply.github.com>
+Date:   Thu Oct 14 21:54:59 2021 +0530
+
+    Add files via upload
+
+commit 216f751ce7acafea17747209de93ae8fb46881ae
+Author: thea02 <trishathea06@gmail.com>
+Date:   Thu Oct 14 20:56:28 2021 +0530
+
+    Binary search with pointers
+
+commit a27634820230d551b765a662c4bf870d06a3cb0d
+Merge: f639dd9 1482b55
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Thu Oct 14 19:02:26 2021 +0530
+
+    Merge pull request #133 from Saurabh-Thakur-07/main
+    
+    added sort zeroes and ones program in java sorting it in linear time …
+
+commit 1482b559d5fb7c08fe6d0349c6269a1735cfad04
+Author: Saurabh-Thakur-07 <saurabhthakurmeerut@gmail.com>
+Date:   Thu Oct 14 17:38:48 2021 +0530
+
+    added sort zeroes and ones program in java sorting it in linear time complexity added selection sort sorting algo's working code in java with complexity of n square and added display the all the palindromic substrings in a given string it has a time complecity of n cube with all the code working properly and tested
+
+commit f639dd9593254b62aee1d762a55372682dd33ff6
+Merge: a91ae9f 262263b
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Thu Oct 14 15:31:18 2021 +0530
+
+    Merge pull request #132 from Shray-glitch/main
+    
+    drums kit uploaded
+
+commit a91ae9f425d1a12b9a6030207071429e1a75fb2e
+Merge: ccc31c4 d3a3f81
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Thu Oct 14 15:30:20 2021 +0530
+
+    Merge pull request #131 from Rohitprasad83/main
+    
+    Added Palindrome Birthday app in Projects folder
+
+commit 262263bb7af6c3fffd2bbd424028155eadb34014
+Author: Shray-glitch <64958200+Shray-glitch@users.noreply.github.com>
+Date:   Thu Oct 14 15:00:46 2021 +0530
+
+    drums kit uploaded
+
+commit d3a3f818f9b9c5154a928776ffa93bc1d52e96ce
+Author: Rohit Prasad <pdrohit674@gmail.com>
+Date:   Thu Oct 14 14:52:59 2021 +0530
+
+    Added Palindrome Birthday app in Projects folder
+    
+    Palindrome Birthday is an vanilla javascript app that tells whether a date is palindrome or not and also when is the next palindrome date.
+
+commit ccc31c423559a882bbf7fac0c162915a1544bace
+Merge: abc7751 556188c
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Thu Oct 14 01:13:12 2021 +0530
+
+    Merge pull request #127 from infinity1729/main
+    
+    Created morseCodeTranslater.py
+
+commit 008369ee21c1f590a50bf5e23521e9bdf55ff4e4
+Author: hari0409 <73524123+hari0409@users.noreply.github.com>
+Date:   Wed Oct 13 23:11:59 2021 +0530
+
+    Deleted because uploaded it by mistake
+
+commit 6f84c1928b83de08e4a6d70bb67c0137108d9ed9
+Author: hari0409 <73524123+hari0409@users.noreply.github.com>
+Date:   Wed Oct 13 23:02:00 2021 +0530
+
+    Added A Simple Weather App
+
+commit 5e7bc2d39365e208f21863f9aa505618af017617
+Author: hari0409 <73524123+hari0409@users.noreply.github.com>
+Date:   Wed Oct 13 22:53:53 2021 +0530
+
+    Delete weather-master.zip
+
+commit 74d28a66bc94d27092149d7dd867cc427f30a68d
+Author: hari0409 <73524123+hari0409@users.noreply.github.com>
+Date:   Wed Oct 13 22:50:33 2021 +0530
+
+    Uploaded a Weather App
+
+commit 04f72c7a567a0a89592958e4efd391bf6a376d5e
+Author: hari0409 <73524123+hari0409@users.noreply.github.com>
+Date:   Wed Oct 13 20:00:58 2021 +0530
+
+    Added Takeit a simple note taking app
+
+commit 8ad3d39368eb721d58443803788a17d637f81b8a
+Author: Shruti pal <63151043+Shruti700@users.noreply.github.com>
+Date:   Wed Oct 13 19:49:39 2021 +0530
+
+    Update contribution.md
+
+commit abc775198572497ea9c206049b73299518afbb09
+Merge: e16999b d34a511
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Wed Oct 13 18:09:09 2021 +0530
+
+    Merge pull request #128 from ashpreetkaur25/main
+    
+    ZigZagTree.cpp
+
+commit d34a51133e081e98502af5816993e772fc6d1b87
+Author: ashpreetkaur25 <82947364+ashpreetkaur25@users.noreply.github.com>
+Date:   Wed Oct 13 14:46:13 2021 +0530
+
+    ZigZagTree.cpp
+
+commit 556188c68c60817040f90cfd17e954c9be8828f2
+Author: infinity1729 <52048907+infinity1729@users.noreply.github.com>
+Date:   Wed Oct 13 14:14:14 2021 +0530
+
+    Create morseCodeTranslater.py
+
+commit e16999ba659dcae273439e798726ae4bb7f1a07c
+Merge: 77fac76 d4a3bea
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Wed Oct 13 01:00:19 2021 +0530
+
+    Merge pull request #124 from VandanaSingh52/game
+    
+    create Tic Tac Toe game using cpp
+
+commit 77fac76636788edbf97aac2d0554c2f624874f80
+Merge: 3f39c39 3ef939e
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Wed Oct 13 00:59:29 2021 +0530
+
+    Merge pull request #125 from Sanchitbajaj02/main
+    
+    image drag and drop in JS
+
+commit 3f39c39c344a84d32cb2b73a1bd4e1ee813eda5c
+Merge: bacaada 368d8bf
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Wed Oct 13 00:59:14 2021 +0530
+
+    Merge pull request #123 from devangpawar17/devang
+    
+    instagram clone home page
+
+commit 3ef939eefa477f3bd7566ae65ea9a682b1208865
+Author: Sanchit <sanchit02@outlook.com>
+Date:   Wed Oct 13 00:07:16 2021 +0530
+
+    image drag and drop in js
+
+commit d4a3bea0cfc212082fb89c45753b4c30672a037d
+Author: Vandana <vandanaaspi353@gmail.com>
+Date:   Tue Oct 12 23:40:40 2021 +0530
+
+    create Tic Tac Toe game using cpp
+
+commit 368d8bfe3c2c509fa679fd577e39ce1a9a06c24e
+Author: devang pawar <devangpawar5@gmail.com>
+Date:   Tue Oct 12 23:07:41 2021 +0530
+
+    instagram clone home page
+
+commit bacaadafb768cec4e008827148f6e8a5ce97d598
+Merge: bad6c80 62a38ab
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Tue Oct 12 22:50:53 2021 +0530
+
+    Merge pull request #122 from anjalivats2712/main
+    
+    added a mini game
+
+commit bad6c8062b3074d0c04f7012ff083cfb3adced18
+Merge: f64254c 94a0651
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Tue Oct 12 22:49:38 2021 +0530
+
+    Merge pull request #120 from ani538/main
+    
+    Create sublistSearch.js
+
+commit 62a38ab6757b7b80a58076503a23b3d5f4d7a818
+Author: anjalivats2712 <77090512+anjalivats2712@users.noreply.github.com>
+Date:   Tue Oct 12 18:44:16 2021 +0530
+
+    added a mini game
+
+commit 94a0651a84972834763b7c1a537434a5ca4e41a2
+Author: Aniket Jaware <56465214+ani538@users.noreply.github.com>
+Date:   Tue Oct 12 17:21:51 2021 +0530
+
+    Create sublistSearch.js
+
+commit f64254c5433fdb4b3412c7b47d77ebf22b613d41
+Merge: 79df67c b86d526
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Tue Oct 12 16:24:28 2021 +0530
+
+    Merge pull request #112 from tanishchugh01/kth-Grammer
+    
+    Added kth-grammar solution leetcode
+
+commit 79df67ca95f3fd087db7e9b5eb50cba38bc55c7e
+Merge: 9fe32f4 4d94415
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Tue Oct 12 16:23:15 2021 +0530
+
+    Merge pull request #118 from alen-kuriakose/main
+    
+    added an expense tracker vue app
+
+commit 4d94415175648a5b8c659cf384cbca29f65a0035
+Author: Alen Kuriakose <55983813+alen-kuriakose@users.noreply.github.com>
+Date:   Tue Oct 12 14:48:36 2021 +0530
+
+    Add files via upload
+
+commit 9fe32f4ac96891b517f2f4e8229142665d1c6845
+Merge: 2bb25be 45eab27
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Oct 12 14:31:05 2021 +0530
+
+    Merge pull request #117 from ashpreetkaur25/main
+    
+    heightOfBinaryTree.cpp
+
+commit 45eab27d74ff105a2f1041d573afacbb056569a6
+Author: ashpreetkaur25 <82947364+ashpreetkaur25@users.noreply.github.com>
+Date:   Tue Oct 12 09:37:23 2021 +0530
+
+    HeightOfBinaryTree.cpp
+
+commit 2bb25be98f8aa5ad3df325e2a034ba6b12e30517
+Merge: 1465a0b 343a725
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Tue Oct 12 08:00:37 2021 +0530
+
+    Merge pull request #116 from swapnilnarad2000/main
+    
+    Added C++ implementation for diameter of a tree.
+
+commit 1465a0befd17654e8ebaeadcfba8f4bc9acc9a5f
+Merge: 8d21e25 1866a06
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Tue Oct 12 07:57:22 2021 +0530
+
+    Merge pull request #105 from khushijain3103/nQueens/Leetcode
+    
+    added solution of leetcode problem no:51
+
+commit 8d21e25183b3389a8a380ea22ef9edfe6e6ffbe7
+Merge: 7c58989 858e520
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Tue Oct 12 07:55:57 2021 +0530
+
+    Merge pull request #114 from yashikakaushik/main
+    
+    Add Netflix Clone (HTML-CSS) project
+
+commit 343a725e26e4266d7359e7d6c63818a100a328de
+Author: Swapnil Narad <57103911+swapnilnarad2000@users.noreply.github.com>
+Date:   Tue Oct 12 03:13:01 2021 +0530
+
+    Added C++ implementation for diameter of a tree.
+
+commit 34b6a67ea1001ea562b162b6c66fb48829760c33
+Author: Aakarsh Verma <aakarshms2126@gmail.com>
+Date:   Tue Oct 12 00:32:49 2021 +0530
+
+    Create partition_equal_subset_sum.cpp
+
+commit 858e52038ec046348f76ba5e3fc3e1f4bb5e650b
+Author: Yashika Kaushik <yashikakaushik@Yashikas-MacBook-Air.local>
+Date:   Mon Oct 11 23:37:25 2021 +0530
+
+    Add Netflix Clone (HTML-CSS) project
+
+commit 7c5898995f04f379b7a761162019967c0fbfc4de
+Merge: 237f396 f346c81
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Mon Oct 11 23:08:28 2021 +0530
+
+    Merge pull request #107 from khushboo683/main
+    
+    Typewriter effect code snippet
+
+commit 237f3964d7c844c6790ed2f61f7a201731e73ec8
+Merge: e99601b 8f3dc7d
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Mon Oct 11 23:03:31 2021 +0530
+
+    Merge pull request #113 from KevinGandhi9898/Kevin
+    
+    Binary Search Tree Deletion
+
+commit 8f3dc7dd9f0de9bb81377bebffd8589a99a6876b
+Author: Kevin Gandhi <72725226+KevinGandhi9898@users.noreply.github.com>
+Date:   Mon Oct 11 22:25:20 2021 +0530
+
+    Binary Search Tree Deletion
+
+commit b86d526c0515338a8ffcfbef2879c3a8d315f699
+Author: tanishchugh01 <tanishchugh01@gmail.com>
+Date:   Mon Oct 11 16:53:51 2021 +0530
+
+    Changed file format to cpp
+
+commit ff744ac442d3d4d586fc4cd1d65400c9cc32adca
+Author: tanishchugh01 <tanishchugh01@gmail.com>
+Date:   Mon Oct 11 16:39:44 2021 +0530
+
+    Added kth-grammar solution leetcode
+
+commit e99601b43aa032ac1bc76f5782a39302175383bd
+Merge: ad1155e 2c76947
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 11 15:24:12 2021 +0530
+
+    Merge pull request #110 from AFZL210/main
+    
+    Animated Side Bar Using HTM-CSS-JS
+
+commit 2c76947129c61a90334bca1a52a6dc6b40a85c67
+Author: AFZL210 <79896602+AFZL210@users.noreply.github.com>
+Date:   Mon Oct 11 15:22:33 2021 +0530
+
+    Animated Side Bar Using HTM-CSS-JS
+
+commit ad1155ec80e48bcb965ab3f46690a58f16fa5716
+Merge: 513d95a 1d37588
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Mon Oct 11 14:54:53 2021 +0530
+
+    Merge pull request #109 from DebasishPH/main
+    
+    Added finding duplicates in unsorted array
+
+commit 1d375887bf9e165ad704b7d0e2d9354f45361d99
+Author: DebasishPH <68471667+DebasishPH@users.noreply.github.com>
+Date:   Mon Oct 11 14:22:15 2021 +0530
+
+    Added finding duplicates in unsorted array
+    
+    Program to find multiple occurrences of an element in a given unsorted array
+
+commit 1866a06e71227a4889fbabf59ec6a993abe36464
+Author: khushijain3103 <khushijain312003@gmail.com>
+Date:   Mon Oct 11 12:21:14 2021 +0530
+
+    added problem statement as requested by you
+
+commit e791dc22d24c4891b2c0867e39d9b67b17d75637
+Author: ashpreetkaur25 <82947364+ashpreetkaur25@users.noreply.github.com>
+Date:   Mon Oct 11 12:19:25 2021 +0530
+
+    TowerOfHanoi.cpp
+
+commit 513d95a3051424b41ae515d21f55d9c7eea3fa63
+Merge: 3650587 314af66
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Mon Oct 11 10:56:52 2021 +0530
+
+    Merge pull request #104 from KevinGandhi9898/main
+    
+    Josephus Code ( Doubly Linked List)
+
+commit 314af66b16f68fe8f1d7847f0355709e1e7adff0
+Merge: 8d29fa1 3650587
+Author: Kevin Gandhi <72725226+KevinGandhi9898@users.noreply.github.com>
+Date:   Mon Oct 11 10:55:20 2021 +0530
+
+    Merge branch 'Gitit-hacktoberfest:main' into main
+
+commit 8d29fa168db2fe3c8c5332cb025328804edfb7d4
+Author: Kevin Gandhi <72725226+KevinGandhi9898@users.noreply.github.com>
+Date:   Mon Oct 11 10:54:53 2021 +0530
+
+    Update josephus_problem.c
+
+commit f346c81eb17f6697628d4d88425e9131b49a2da5
+Author: khushboo683 <84083006+khushboo683@users.noreply.github.com>
+Date:   Mon Oct 11 09:57:05 2021 +0530
+
+    Typewriter effect code snippet
+    
+    Language used are HTML and JavaScript.
+
+commit 3650587cc8102f4d55b24d1e9e86d7246260f2f4
+Merge: 1815bd0 70c91e6
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Mon Oct 11 09:49:42 2021 +0530
+
+    Merge pull request #106 from Krishks369/main
+    
+    Added a HTML- CSS template
+
+commit 1815bd0225459479a035a4a0499f29ec1c3f7129
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Mon Oct 11 09:42:00 2021 +0530
+
+    Update README.md
+
+commit 70c91e6de4494cedf8d34194f4dd9f3e6f0dfa30
+Author: Krishna Kumar S <71367204+Krishks369@users.noreply.github.com>
+Date:   Mon Oct 11 09:16:22 2021 +0530
+
+    Added a HTML- CSS template
+
+commit 386221cde0fe224b72f658e5566597e89b6eb8c8
+Author: khushijain3103 <khushijain312003@gmail.com>
+Date:   Mon Oct 11 08:56:19 2021 +0530
+
+    added solution of leetcode problem no:51
+
+commit e4ae537b2a7edbd5d9da047eacc1d93a90a44aa9
+Merge: 83e2772 9231425
+Author: Kevin Gandhi <72725226+KevinGandhi9898@users.noreply.github.com>
+Date:   Mon Oct 11 08:24:57 2021 +0530
+
+    Merge branch 'Gitit-hacktoberfest:main' into main
+
+commit 9231425dffd1baf7fa9bafb7d84d3c22882ed425
+Merge: cc8a631 b985116
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Mon Oct 11 08:13:43 2021 +0530
+
+    Merge pull request #103 from DebasishPH/main
+    
+    Added Binary Search in python
+
+commit b985116fa67cda7118928e829d4b071bbdcfc9c6
+Author: DebasishPH <68471667+DebasishPH@users.noreply.github.com>
+Date:   Mon Oct 11 02:36:22 2021 +0530
+
+    Added String Permutations
+    
+    Calculates total possible permutations of a given string
+
+commit d459a59ebd9eb8a9dd9576c1f9f7ee53f5411572
+Author: DebasishPH <68471667+DebasishPH@users.noreply.github.com>
+Date:   Mon Oct 11 02:13:52 2021 +0530
+
+    Added Binary Search in python
+    
+    Binary Search searches element in a sorted array in O(Log N) time
+
+commit cc8a63113e77714aa7f557e8878f29c615ecb4f5
+Merge: 78d516e 155b2e6
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 11 00:41:36 2021 +0530
+
+    Merge pull request #93 from abhayraihal/main
+    
+    binary in form of string to decimal
+
+commit 78d516e4810cbd16b0575cf7fad99ad9c0f3fd48
+Merge: fc02faf 8c855f1
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 11 00:40:18 2021 +0530
+
+    Merge pull request #102 from DebasishPH/main
+    
+    Added Sieve of Eratosthenes
+
+commit fc02fafe00efced0ce60215cdd12b7d3f6c273b2
+Merge: 221c5d1 d2181e1
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 11 00:39:06 2021 +0530
+
+    Merge pull request #101 from Shashwat49/main
+    
+    Please checkout my code...
+
+commit 8c855f1585c05ef02e84e81d01168e0d1d66ad45
+Author: DebasishPH <68471667+DebasishPH@users.noreply.github.com>
+Date:   Sun Oct 10 21:50:59 2021 +0530
+
+    Added Sieve Of Eratosthenes
+    
+    Sieve Of Eratosthenes is used to calculate prime numbers in the range 1....N in O(N*Log(LogN)) time
+
+commit a6a508a33d7deea5eabf56824da60c72fe6a2a43
+Author: DebasishPH <68471667+DebasishPH@users.noreply.github.com>
+Date:   Sun Oct 10 21:46:47 2021 +0530
+
+    Added Sieve of Eratosthenes
+    
+    Sieve of Eratosthenes is used to calculate prime numbers in the range 1...N
+
+commit d2181e1af0ef8b61ba32c230f18f1488c151f7b2
+Author: Your Name <you@example.com>
+Date:   Sun Oct 10 21:43:13 2021 +0530
+
+    Added dark-light mode slider
+
+commit 221c5d1c411e301d703b3cd482345ff33916af94
+Merge: d7d9184 df1c343
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sun Oct 10 21:37:35 2021 +0530
+
+    Merge pull request #100 from YashIngle28/patch-1
+    
+    Create matrix-multiplication.cpp
+
+commit d7d9184094423880021ed10f1d7b2c07037c954e
+Merge: 75fb168 d33d495
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sun Oct 10 21:34:44 2021 +0530
+
+    Merge pull request #94 from abhayraihal/main
+    
+    Decimal to binary conversion
+
+commit df1c343d05ca94f6c4c14141da325e45c13838d0
+Author: YashIngle28 <92264623+YashIngle28@users.noreply.github.com>
+Date:   Sun Oct 10 21:33:57 2021 +0530
+
+    Create matrix-multiplication.cpp
+
+commit 75fb1682f5ec25db94404a78ae15f2e68659d06e
+Merge: d7acd7d 8ea04c7
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 10 21:33:06 2021 +0530
+
+    Merge pull request #95 from abhayraihal/main
+    
+    Heapsort algorithm
+
+commit d7acd7d4cecccc894dd66e9ed9664acaa340b1cc
+Merge: b766333 97b0cb4
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 10 21:32:14 2021 +0530
+
+    Merge pull request #96 from khushijain3103/zomato/HTML-CSS
+    
+    added zomato clone project made using html-css
+
+commit b766333fca3f48e95d305f05f10c756890d5a265
+Merge: 0687cc4 7f84b00
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 10 21:30:35 2021 +0530
+
+    Merge pull request #97 from SHIVANGISINGH1/clone/google
+    
+    Added Google Clone html/css
+
+commit 0687cc478ad1901c4270aee9c5a6f72c74aa864d
+Merge: 79b3b72 eefd179
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 10 21:29:26 2021 +0530
+
+    Merge pull request #98 from Krishks369/main
+    
+    Added a introduction website
+
+commit 79b3b72c22c7532298d6df5511331c50ba2b449c
+Merge: 733f4f1 a5f98d8
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 10 21:28:15 2021 +0530
+
+    Merge pull request #99 from abhayraihal/main
+    
+    Radix sort using strings
+
+commit a5f98d8cb480bde86fb2faead6855d5f3a3ed87d
+Author: abhayraihal <78839827+abhayraihal@users.noreply.github.com>
+Date:   Sun Oct 10 18:27:42 2021 +0530
+
+    Radix sort using strings
+
+commit eefd1799c321a04f97d9a0a735dd761bf0aa5408
+Author: Krishna Kumar S <71367204+Krishks369@users.noreply.github.com>
+Date:   Sun Oct 10 17:30:03 2021 +0530
+
+    Added a iD website clone
+
+commit 9e3743555165ba7378c14f6ae3dcab2acf8d3002
+Author: Krishna Kumar S <71367204+Krishks369@users.noreply.github.com>
+Date:   Sun Oct 10 17:22:24 2021 +0530
+
+    Added a introduction website
+
+commit 83e2772afc7b98bb4667387126652ed2f1dc3006
+Merge: a9a0154 733f4f1
+Author: Kevin Gandhi <72725226+KevinGandhi9898@users.noreply.github.com>
+Date:   Sun Oct 10 15:49:14 2021 +0530
+
+    Merge branch 'Gitit-hacktoberfest:main' into main
+
+commit 7f84b00cf04642798ad580e9df3e32f9ec424fa1
+Author: Shivangi Singh <shivangisinghhappy@gmail.com>
+Date:   Sun Oct 10 14:16:58 2021 +0530
+
+    Added Google Clone html/css
+
+commit 97b0cb4f9d821b155b23d91cfe03b81c5045f2d5
+Author: khushijain3103 <khushijain312003@gmail.com>
+Date:   Sun Oct 10 14:11:39 2021 +0530
+
+    added zomato clone project made using html-css
+
+commit 8ea04c7872f03a9ad86ce488f0fd7f87a5c4ed27
+Author: abhayraihal <78839827+abhayraihal@users.noreply.github.com>
+Date:   Sun Oct 10 14:02:37 2021 +0530
+
+    Heapsort algorithm
+
+commit d33d4958fa20e40faa3b7cff5a8f79e7edfba78f
+Author: abhayraihal <78839827+abhayraihal@users.noreply.github.com>
+Date:   Sun Oct 10 13:47:07 2021 +0530
+
+    Decimal to binary conversion
+
+commit 155b2e6bd57351c3bedcf2edb3f278191b46ce17
+Author: abhayraihal <78839827+abhayraihal@users.noreply.github.com>
+Date:   Sun Oct 10 13:39:54 2021 +0530
+
+    binary in form of string to decimal
+
+commit 733f4f1bb6ed68075b9c42d9354c9927a4d88460
+Merge: a491711 8715c96
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 10 12:03:19 2021 +0530
+
+    Merge pull request #91 from Krishks369/main
+    
+    Updated Readme.md
+
+commit 8715c9661335457adcb569a10e996b211693c679
+Merge: a13238a a491711
+Author: Krishna Kumar S <71367204+Krishks369@users.noreply.github.com>
+Date:   Sun Oct 10 11:49:33 2021 +0530
+
+    Merge branch 'Gitit-hacktoberfest:main' into main
+
+commit a13238a4eca1267f7bc2a876f14d63abd77b67d1
+Author: Krishna Kumar S <71367204+Krishks369@users.noreply.github.com>
+Date:   Sun Oct 10 11:48:54 2021 +0530
+
+    Added Simple login authentication project
+
+commit 4ec61b9ee77170e97ab11410cd6f8672b913fe27
+Author: Krishna Kumar S <71367204+Krishks369@users.noreply.github.com>
+Date:   Sun Oct 10 11:36:56 2021 +0530
+
+    Updated Readme.md
+    
+    Added the event link in the file
+
+commit a491711216ba93db5054e4ce186cf6a1757cb5f1
+Merge: e69ba3e 4d4a820
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 10 09:49:30 2021 +0530
+
+    Merge pull request #88 from Krishks369/main
+    
+    Added my Project website
+
+commit e69ba3ec90e60795bbdbbd355ffb42bceb1b0bd0
+Merge: 7241346 35eb767
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sun Oct 10 09:25:27 2021 +0530
+
+    Merge pull request #90 from komalguptaa/main
+    
+    Add files via upload
+
+commit 7241346c5e3c4062446370fc2c3eb9a08a973d8c
+Merge: 0f50afb 7aa537c
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sun Oct 10 09:23:56 2021 +0530
+
+    Merge pull request #89 from testerslol123/main
+    
+    Added HTML QR Code Generator
+
+commit 35eb767c1b0071094c11c5a0549682d7fd48f77e
+Author: Komal Gupta <63928356+komalguptaa@users.noreply.github.com>
+Date:   Sat Oct 9 23:17:07 2021 +0530
+
+    Add files via upload
+
+commit a9a015467d74a46a9078b96ac285a1e0dea6ade7
+Author: Kevin Gandhi <72725226+KevinGandhi9898@users.noreply.github.com>
+Date:   Sat Oct 9 22:46:25 2021 +0530
+
+    Add files via upload
+
+commit 7aa537c4588d58529d447d113b6064a704ad3cea
+Author: DanzKraken <testerslol123@gmail.com>
+Date:   Sat Oct 9 22:45:08 2021 +0700
+
+    Added HTML QR Code Generator
+    
+    - Add index.html file
+    - Added logic to generate qr using google api
+    - Added Jquery as helper for js
+
+commit 4d4a82015da4f3c897ec03b5b2b042a2e3e9f9d8
+Author: Krishna Kumar S <71367204+Krishks369@users.noreply.github.com>
+Date:   Sat Oct 9 20:27:44 2021 +0530
+
+    Added my Project website
+
+commit 0f50afb4f81d2376f9ff00866b22cdfff869a469
+Merge: 3ac9962 307f44b
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sat Oct 9 20:04:00 2021 +0530
+
+    Merge pull request #87 from deepaberi-code/patch-1
+    
+    Create head_recursion.c
+
+commit 3ac99624def9a65712cc77f4591860e44532d0ec
+Merge: cff39a9 0b3f0ef
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sat Oct 9 20:03:00 2021 +0530
+
+    Merge pull request #86 from deepaberi-code/main
+    
+    Sum of N using Recursion
+
+commit 307f44b3cf578989fddeb5e690d28ea707b9b449
+Author: deepaberi-code <72157779+deepaberi-code@users.noreply.github.com>
+Date:   Sat Oct 9 19:03:59 2021 +0530
+
+    Create head_recursion.c
+
+commit 0b3f0efce4e0b64b9781adf2174e72b601115810
+Author: deepaberi-code <72157779+deepaberi-code@users.noreply.github.com>
+Date:   Sat Oct 9 18:59:22 2021 +0530
+
+    Sum of N using Recursion
+
+commit cff39a9f94bf9b7dfab3124c269f9b57a9d02458
+Merge: 59893e4 3a33e18
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 8 21:08:42 2021 +0530
+
+    Merge pull request #85 from sammkodes96/quotes
+    
+    add random quote generator
+
+commit 59893e422e682ba4085b0d3117519e03c664bcf5
+Merge: 1b85c83 71ee971
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 8 21:07:47 2021 +0530
+
+    Merge pull request #84 from atultechd/main
+    
+    Awesome updation in hover css and added some interesting javascript
+
+commit 3a33e18ab6db23bc2a66b71447e326b2f6f6c70d
+Author: comebackid87 <vieiromeister05@gmail.com>
+Date:   Fri Oct 8 16:30:28 2021 +0100
+
+    add random quote generator
+
+commit 71ee9712e1bebc6cc93398b701991024b88b8138
+Author: Atul Dwivedi <atultechd@gmail.com>
+Date:   Fri Oct 8 19:43:25 2021 +0530
+
+    Awsome updation in hover css and added some interested javascript
+
+commit 1b85c8347ecc063a3bd4f479e606d5cf986e423f
+Merge: 967f336 7401c02
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Fri Oct 8 17:53:10 2021 +0530
+
+    Merge pull request #83 from hariketsheth/main
+    
+    [Algorithm]: BackTracking - Explanation + 8_Queens
+
+commit 7401c02723c4665c51c2244077d86178fb7ae4fa
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 17:30:04 2021 +0530
+
+    Discarded Question Analysis
+
+commit d6f4bd1166fca433789c1788c327dcd0e0209aa9
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 17:29:26 2021 +0530
+
+    Updated 8 Queens
+
+commit ce0a782f6f4ed25006e2167acbd7fff6c2aef0de
+Merge: 293bbf4 967f336
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 17:27:44 2021 +0530
+
+    Merge branch 'Gitit-hacktoberfest:main' into main
+
+commit 967f3363ffc499ffaeb0c52c084321fc10c2d265
+Merge: 9600cb3 58d466a
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 8 17:26:16 2021 +0530
+
+    Merge pull request #82 from adya9/main
+    
+    Motivational quote chrome extension
+
+commit 58d466acdf27bd7fed5e2cb353c4761c00963656
+Author: Adya <72134342+adya9@users.noreply.github.com>
+Date:   Fri Oct 8 17:17:40 2021 +0530
+
+    Motivational quote chrome extension
+
+commit 9600cb3770275e37c1c2e5d2b8d902573c32fa74
+Merge: d4ebfc1 717a020
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Fri Oct 8 15:41:49 2021 +0530
+
+    Merge pull request #80 from subhendudash02/main
+    
+    Colour Converter Using Python
+
+commit 717a020e55a93d35a587fcb50b58ce882f3b378c
+Author: Subhendu Dash <subhendu.dash2020@vitstudent.ac.in>
+Date:   Fri Oct 8 15:36:49 2021 +0530
+
+    Updated the file structure
+
+commit fc277980d55d4c8fea5de47b9d565a3eb47e5d5b
+Merge: d8f0f84 d4ebfc1
+Author: Subhendu Dash <71781104+subhendudash02@users.noreply.github.com>
+Date:   Fri Oct 8 15:35:12 2021 +0530
+
+    Merge branch 'Gitit-hacktoberfest:main' into main
+
+commit 293bbf490f5d3b68750bda63715c92a681d8338e
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 14:18:36 2021 +0530
+
+    Update iii. 8_Queens.md
+
+commit 8a29ea728acedb120f83cd9bc88d49e9b3c8be76
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 14:13:37 2021 +0530
+
+    Create iii. 8_Queens.md
+
+commit fbde8e5f830eb36221e48cd0b764413326e28d1d
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 14:13:03 2021 +0530
+
+    Create ii. Question_Analysis.md
+
+commit 32961f3f247984894730f44d05219ec25643e24d
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 14:11:34 2021 +0530
+
+    Create i. Introduction_to_Backtracking.md
+
+commit d4ebfc1bc1537ed42bb0d775c6c2e21e92f64e2c
+Merge: 4f4b483 423b4d5
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Fri Oct 8 14:04:24 2021 +0530
+
+    Merge pull request #81 from hariketsheth/main
+    
+    [Fix]: Issue (#79)
+
+commit 423b4d52e59d9be48d999ab42351507b1400663f
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:59:44 2021 +0530
+
+    Discard old directory
+
+commit 0dd25f3359d9c1a1cd98840e7b6f3491a5e20a1b
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:59:19 2021 +0530
+
+    Discard old directory
+
+commit 3bace0b3b9109ea5034e93ebf45dd88950623be4
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:59:03 2021 +0530
+
+    Discard old directory
+
+commit 38fb1ce5e68d10f10692d1ffdf9414aae3e5a939
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:58:50 2021 +0530
+
+    Discard old directory
+
+commit d3eb9214ea523f751afd8cfd32e25662a553e95a
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:58:38 2021 +0530
+
+    Discard old directory
+
+commit 110aba545cb592d32a0b9d7a10ccc5c674442c5b
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:58:17 2021 +0530
+
+    Discard old directory
+
+commit 2ff1f9fdaa57c8991aad0688af480e67bba21fc6
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:57:59 2021 +0530
+
+    Discard old directory
+
+commit 96cf9255300dc705e6d42d68ebcd7e7acf39322f
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:57:45 2021 +0530
+
+    Discard old directory
+
+commit 9bce4e4a32ce705580b396cc665bcc3281a6d069
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:57:19 2021 +0530
+
+    Directory for HTML CSS Javascript PHP Python
+
+commit 831495a41c6145a0159e86da1a282482c63b4107
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:53:20 2021 +0530
+
+    Add files via upload
+
+commit 78e81a6f493d94d5957810eba90b2fe60d509034
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:45:43 2021 +0530
+
+    Create README.md
+
+commit 8349f68c135959691730064db554420713b4b133
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:44:40 2021 +0530
+
+    Directory Specified for HTML CSS
+
+commit 5f361fb0cf05df43ff468c273a3c6a9f1b520800
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:41:48 2021 +0530
+
+    Directory specified for JS Projects
+
+commit 39492239884351773e5163ff097eabf73fc0c3cb
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:39:20 2021 +0530
+
+    Discarded Old Directory
+
+commit 84392274ddc481aec7d304c86e259d05f8304742
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:36:15 2021 +0530
+
+    Updated Directory
+
+commit 25f235d8308a9e8353cb7d06fdf7025db8c78811
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:34:11 2021 +0530
+
+    Rename To_find_keywords.txt to DSA/cpp/To_find_keywords.txt
+
+commit f14bfe34f9bdd292677c3ae6a473c5730d2ccd2c
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:33:02 2021 +0530
+
+    Rename To_find_keywords.c to DSA/cpp/To_find_keywords.c
+
+commit a247f5fa0bab9d231f02485aac08af70ac152a80
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:32:39 2021 +0530
+
+    Delete Testing.c
+
+commit 1f25f32af445efe75be308a5ac2d8853dbcb87f9
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:32:22 2021 +0530
+
+    Rename KMPAlgorithm.cpp to DSA/cpp/KMPAlgorithm.cpp
+
+commit eccd181be7cbb5abf1828e609963acb1db3feca5
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:31:58 2021 +0530
+
+    Rename toh.c to DSA/cpp/Tower_of_Hanoi.c
+
+commit d12fb858598a825c734b15cf9f215e46dffe634b
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:31:11 2021 +0530
+
+    Rename DSA/binarytree.cpp to DSA/cpp/binarytree.cpp
+
+commit ae3bf9b7b111757c7bf3f973d78c97008a47029a
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:30:49 2021 +0530
+
+    Rename fibonacci.c to DSA/cpp/fibonacci.c
+
+commit c8d27c87288c9436208e4a9e4765d1c2defdcbd9
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Fri Oct 8 13:29:11 2021 +0530
+
+    Rename Anagram.cpp to DSA/cpp/Anagram.cpp
+
+commit d8f0f84f65b969e5fd52385f5d558f61af84d902
+Author: Subhendu Dash <subhendu.dash2020@vitstudent.ac.in>
+Date:   Fri Oct 8 11:34:35 2021 +0530
+
+    Colour Converter Using Python
+
+commit 4f4b48360ab7c5ad02a0b778f12ba6cc974f7b98
+Merge: dd7b816 f321989
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Thu Oct 7 17:01:57 2021 +0530
+
+    Merge pull request #77 from Into-Y0u/main
+    
+    Create YoutubeDownloader.py
+
+commit dd7b816e9b69d7e853e5aded34af1a3f2ad02600
+Merge: 0ebd49d 26163ee
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Thu Oct 7 17:00:39 2021 +0530
+
+    Merge pull request #78 from gargi-agrawal/main
+    
+    Add Binary Search
+
+commit 26163ee32e0a7cdc6859417a505415b2d731fe61
+Author: Gargi Agrawal <gargiagrawaldelhi@gmail.com>
+Date:   Thu Oct 7 16:54:36 2021 +0530
+
+    Add Binary Search
+
+commit f32198934285459f8844c8c6fa949dc40f6d43d8
+Author: Arghya <68708178+Into-Y0u@users.noreply.github.com>
+Date:   Thu Oct 7 16:37:24 2021 +0530
+
+    Create YoutubeDownloader.py
+
+commit 0ebd49d6417d9af700fc2f54a20163a66ad7292d
+Merge: 3cc6eca a53fd40
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Thu Oct 7 15:49:33 2021 +0530
+
+    Merge pull request #75 from yash37158/ROT13-Algo-python
+    
+    Adding ROT13 Algorithm using cryptography in pyhton
+
+commit a53fd401c18583e405c4558cf52422b87dd4077b
+Author: yash37158 <yash37158@gmail.com>
+Date:   Thu Oct 7 13:55:26 2021 +0530
+
+    Adding ROT13 Algorithm using cryptography in pyhton
+
+commit 3cc6eca609820af7e69a6010f2360118dfa7ae20
+Merge: 25a8b9b 4ac83c9
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Thu Oct 7 09:07:53 2021 +0530
+
+    Merge pull request #68 from Shivaminc/Prime_Factor_with_Sieve
+    
+    Prime Factor of a number using Sieve of Eratosthenes
+
+commit 25a8b9bde93442ac68017060c7b620ff91f56a80
+Merge: d907bb4 11ac0f5
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Thu Oct 7 07:59:09 2021 +0530
+
+    Merge pull request #73 from samriddhiambashta/main
+    
+    Solution of partition equal subset sum dp
+
+commit d907bb4fe49c556b1fdd1237b9acd65810c6bfc8
+Merge: ad94b5d 17d3c0d
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Thu Oct 7 07:57:19 2021 +0530
+
+    Merge pull request #74 from suryamsj/main
+    
+    Added cosine-similarity
+
+commit 17d3c0d90ccaac6f9e44fd6f1172ca1d792ac759
+Author: Muhammad Surya Jayadiprana <50776952+suryamsj@users.noreply.github.com>
+Date:   Thu Oct 7 01:50:11 2021 +0700
+
+    Added cosine-similarity
+    
+    Cosine Similarity is a method to measure the similarity between
+    two documents or text. On Cosine Similarity document or text is considered a vector. In this case, it is to find a match between me and you.
+
+commit 4ac83c9121935524124839f79b5989a74ab3d06f
+Author: Shivaminc <54238581+Shivaminc@users.noreply.github.com>
+Date:   Wed Oct 6 22:50:13 2021 +0530
+
+    Update Prime_Factor_with_sieve.cpp
+
+commit b8a8b1115b134ed80d5914a9a125eee13a6ab088
+Author: Shivaminc <54238581+Shivaminc@users.noreply.github.com>
+Date:   Wed Oct 6 22:47:59 2021 +0530
+
+    Update Prime_Factor_with_sieve.cpp
+
+commit 11ac0f5ab7d1273957cec58d143a62291ce36d61
+Author: samriddhiambashta <55763360+samriddhiambashta@users.noreply.github.com>
+Date:   Wed Oct 6 22:47:54 2021 +0530
+
+    Solution of partition equal subset sum dp
+
+commit ad94b5d3c31c4617df98264b1e54389345fa265f
+Merge: 8b8b08a 7fe8da2
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Wed Oct 6 22:42:36 2021 +0530
+
+    Merge pull request #72 from arvindberi/main
+    
+    Create tail_recursion.c
+
+commit 7fe8da274b1ea0cdf52cdf96cbca9d59c672dc3e
+Author: arvindberi <91769609+arvindberi@users.noreply.github.com>
+Date:   Wed Oct 6 20:28:50 2021 +0530
+
+    Update tail_recursion.c
+
+commit 295f329803a62c290884fdd718fcdf097ae87ef0
+Author: arvindberi <91769609+arvindberi@users.noreply.github.com>
+Date:   Wed Oct 6 19:55:35 2021 +0530
+
+    Create tail_recursion.c
+
+commit 8b8b08a4e24295d8044df38a174b50500b0db910
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Wed Oct 6 19:09:13 2021 +0530
+
+    Update PULL_REQUEST_TEMPLATE.md
+
+commit a3901dec4284ddf297f126cf2ab3b6287cfe2add
+Merge: e6acef4 aaf1573
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Wed Oct 6 18:47:32 2021 +0530
+
+    Merge pull request #71 from Into-Y0u/main
+    
+    Added Min Jumps to Reach end greedy Algo
+
+commit aaf1573f2b736ad8a898c8e2ea545a53743c0ed5
+Author: Arghya <68708178+Into-Y0u@users.noreply.github.com>
+Date:   Wed Oct 6 18:37:26 2021 +0530
+
+    Add files via upload
+
+commit e6acef498fb33548bf8d88aa144f735660995162
+Merge: 1eaec88 f2775b8
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Wed Oct 6 18:04:15 2021 +0530
+
+    Merge pull request #48 from Aishwaryaaa24/main
+    
+    Created prefixEval.cpp
+
+commit 1eaec888a429f61129cad16407050274a058a51f
+Merge: e081e6f 1278025
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Wed Oct 6 15:07:05 2021 +0530
+
+    Merge pull request #66 from Devrajsinh-Jhala/main
+    
+    Added N-Queen Problem
+
+commit e081e6f4a072de19c8d7d1fcfaa86dc8933d2797
+Merge: cc3fe9d 205e7b0
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Wed Oct 6 15:05:53 2021 +0530
+
+    Merge pull request #62 from smit153/newBranch
+    
+    Add quick sort for c++
+
+commit 1278025c4ae237e35314a579756ca6f29a742239
+Author: Devrajsinh Jhala <jhaladevrajsinh11@gmail.com>
+Date:   Wed Oct 6 13:17:48 2021 +0530
+
+    Added Time and Space Complexity
+
+commit cc3fe9d264a96ac92eb283b21ec5d9603bb3ec18
+Merge: f2b313c f7cbcf0
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Wed Oct 6 12:40:41 2021 +0530
+
+    Merge pull request #69 from ShehrozIrfan/main
+    
+    JS folder created and Simple count down timer app using JS added
+
+commit f7cbcf0137d4c2182bd2ab681de61e32e319287b
+Author: shehrozirfan <shehrozirfan89@gmail.com>
+Date:   Wed Oct 6 11:33:02 2021 +0500
+
+    JS folder created and Simple count down timer app using JS added
+
+commit db83ad466fd5584d1dd069140c9b0528390b7989
+Author: Shivam Jaiswal <shivaminc.@Shivams-MacBook-Air.local>
+Date:   Wed Oct 6 11:46:35 2021 +0530
+
+    Prime Factor of a number using Sieveof Eratosthenes
+
+commit 4d290b7167f7cd993077380fd7aea064d7b68071
+Author: Devrajsinh Jhala <jhaladevrajsinh11@gmail.com>
+Date:   Wed Oct 6 09:59:28 2021 +0530
+
+    Added N-Queen Problem
+    
+    Added N-Queen Problem in DSA-> cpp folder
+
+commit 205e7b0ebd7a058db20a2bf55b2f799cf0991e34
+Author: smit153 <smitsojitra332003@gmail.com>
+Date:   Wed Oct 6 09:40:04 2021 +0530
+
+    Add quick sort for c++
+
+commit f2b313c3f904ae28efd12ce145e90294011ec063
+Merge: c386b30 132923f
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Wed Oct 6 09:10:23 2021 +0530
+
+    Merge pull request #65 from TheAnton205/main
+    
+    Create Python folder and add a python file
+
+commit c386b303049beaeeea353447aa7d44c39c63075e
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Wed Oct 6 09:10:09 2021 +0530
+
+    Update README.md
+
+commit 132923f0cf2c31550f937ca31949978743cea78c
+Author: TheAnton205 <33186076+TheAnton205@users.noreply.github.com>
+Date:   Tue Oct 5 23:23:23 2021 -0400
+
+    Create Python folder and add a python file
+    
+    Description of program written as comments at the top of it
+
+commit 814e0e159ea0cbc0805385ed6e8218cd61f8e6e9
+Merge: 143ff5e 416cdc9
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Wed Oct 6 08:17:20 2021 +0530
+
+    Merge pull request #61 from samriddhiambashta/main
+    
+    Solution of longest common subsequence using dp
+
+commit 143ff5ec07620b22a06997cd103ac3c79e5392ca
+Merge: 6ebf781 8bf5756
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Wed Oct 6 08:13:24 2021 +0530
+
+    Merge pull request #64 from hariketsheth/main
+    
+    [Enhancement]: Updated Issues, Pull Requests
+
+commit 8bf57565853372450ca846fd672b81f41fb456d8
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Wed Oct 6 01:18:33 2021 +0530
+
+    Update issue-form.yml
+
+commit 5f0fd1c2763ee3cadd6e9e0021b537a785ea4809
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Wed Oct 6 01:15:11 2021 +0530
+
+    Create PULL_REQUEST_TEMPLATE.md
+
+commit 26864959019bd9848197f659c6a3f8c656e70ec5
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Wed Oct 6 01:09:47 2021 +0530
+
+    Create CODE_OF_CONDUCT.md
+
+commit eb9f9a1a448e73e12188dfaeafc0a4059c2201a4
+Author: Hariket Sukeshkumar Sheth <hariket.sukeshkumar2020@gmail.com>
+Date:   Wed Oct 6 01:06:59 2021 +0530
+
+    Create issue-form.yml
+
+commit cbde71e2b8f1df69af098373d2c78238cff8b35f
+Author: smit153 <smitsojitra332003@gmail.com>
+Date:   Tue Oct 5 23:21:30 2021 +0530
+
+    add quick sort for c++
+
+commit 416cdc98042edc5631cc4f285615c5440b6d598c
+Author: samriddhiambashta <55763360+samriddhiambashta@users.noreply.github.com>
+Date:   Tue Oct 5 23:02:48 2021 +0530
+
+    Solution of longest common subsequence using dp
+
+commit 6ebf7811a5e79be3684496e8bcb7b8edd1162804
+Merge: 967c8de 4bd47b8
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Tue Oct 5 22:26:31 2021 +0530
+
+    Merge pull request #60 from samriddhiambashta/main
+    
+    Maximum rectangular area of histogram cpp
+
+commit 4bd47b883c17a13a5adef1740ab29bd834e4a0aa
+Author: samriddhiambashta <55763360+samriddhiambashta@users.noreply.github.com>
+Date:   Tue Oct 5 22:05:20 2021 +0530
+
+    Update MaxRectangularAreaHistogram-stack.cpp
+
+commit 967c8de1d8fa49e4597088d116824bca1ec54fc1
+Merge: 5d3cd55 61270d6
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Tue Oct 5 21:38:03 2021 +0530
+
+    Merge pull request #55 from addisonhardley/main
+    
+    Added numberOfIslands file (graph application)
+
+commit 5d3cd5585b152e424e6197006374c4ff0a95ad7c
+Merge: 26543e0 9b79fbe
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Tue Oct 5 21:37:04 2021 +0530
+
+    Merge pull request #58 from SldinkarGECA/new-branch
+    
+    New branch
+
+commit 26543e09e6cfae33cf3caf829b8b1a2c145ffc25
+Merge: d009d9c 4dd3822
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Tue Oct 5 21:35:31 2021 +0530
+
+    Merge pull request #54 from dinagon/main
+    
+    Added comments
+
+commit 9b79fbe357d29e717f044d6bb24b39828db717da
+Author: SldinkarGECA <sldinkar@gmail.com>
+Date:   Tue Oct 5 21:27:12 2021 +0530
+
+    added power(x,n) function in dsa
+
+commit f2775b8a4a40172c94ef626f27ff023b00d6f745
+Author: Aishwaryaaa24 <84702371+Aishwaryaaa24@users.noreply.github.com>
+Date:   Tue Oct 5 21:25:55 2021 +0530
+
+    Update prefixEval.cpp
+
+commit 1ee8d917bc9d4b582b193f1723dcddc144fbfa1f
+Author: samriddhiambashta <55763360+samriddhiambashta@users.noreply.github.com>
+Date:   Tue Oct 5 21:20:52 2021 +0530
+
+    Solution of Maximum Rectangular Area in a Histogram using stack
+
+commit 61270d6096b5539f76d583afe69af3b93f4612da
+Author: addisonhardley <91746869+addisonhardley@users.noreply.github.com>
+Date:   Tue Oct 5 20:41:34 2021 +0530
+
+    Added time and space complexity
+
+commit 787579c7ec52131bb43ee9b2751b457bfd947870
+Author: addisonhardley <91746869+addisonhardley@users.noreply.github.com>
+Date:   Tue Oct 5 20:37:41 2021 +0530
+
+    Added numberOfIslands file (graph application)
+
+commit 4dd38229e918306e64026948faf3b3a194fd678d
+Author: RISHABH SIDANA <65805267+dinagon@users.noreply.github.com>
+Date:   Tue Oct 5 20:24:26 2021 +0530
+
+    Added comments
+    
+    Added comments for explaining the problem statement and time and space complexeity.
+
+commit d009d9c3b412e4d5a466996fcdef6393d52b7958
+Merge: fe15688 6daa0c1
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Tue Oct 5 20:21:10 2021 +0530
+
+    Merge pull request #53 from dinagon/main
+    
+    Printing Items in 0/1 Knapsack
+
+commit 6daa0c11ffba5e47fc1d1828e438b3cd81a82fc5
+Author: RISHABH SIDANA <65805267+dinagon@users.noreply.github.com>
+Date:   Tue Oct 5 20:15:03 2021 +0530
+
+    Update print elements in knapsack.cpp
+
+commit befeeba8b2df45326ca8613bd67f22d95f0a5d7e
+Author: RISHABH SIDANA <65805267+dinagon@users.noreply.github.com>
+Date:   Tue Oct 5 19:11:24 2021 +0530
+
+    Printing Items in 0/1 Knapsack
+    
+    This is an extended version of the 0/1 top-down approach for the knapsack problem. Here we need to find the elements we take for the maximum profit.
+
+commit 0b23b23448fd0926f29974a81130073d316bc3af
+Author: RISHABH SIDANA <65805267+dinagon@users.noreply.github.com>
+Date:   Tue Oct 5 19:08:26 2021 +0530
+
+    Delete print elements in knapsack.cpp
+
+commit 65f46281a107408a8955b25787140a90520551bf
+Author: RISHABH SIDANA <65805267+dinagon@users.noreply.github.com>
+Date:   Tue Oct 5 19:07:19 2021 +0530
+
+    print elements in knapsack
+    
+    Print the elements included in knapsack
+
+commit fe156888e2aed2bb101dfd038776f2e260ea29ee
+Merge: baf15d6 aef8780
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Tue Oct 5 13:38:50 2021 +0530
+
+    Merge pull request #51 from Krishnapal-rajput/main
+    
+    Create pyramid.c
+
+commit aef87800908009c1614881ad5b5b64285e95ae22
+Author: Krishnapal-rajput <72176093+Krishnapal-rajput@users.noreply.github.com>
+Date:   Tue Oct 5 13:35:48 2021 +0530
+
+    Update pyramid.c
+    
+    Added time and space complexity for the program.
+
+commit 2ffd9801af94086483abf1c3475fc5bbe35a110f
+Author: Krishnapal-rajput <72176093+Krishnapal-rajput@users.noreply.github.com>
+Date:   Tue Oct 5 13:09:19 2021 +0530
+
+    Create pyramid.c
+    
+    A pyramid generator in c
+
+commit 971ef366021a527f22c3cb71f76269c4698333a6
+Author: SldinkarGECA <sldinkar@gmail.com>
+Date:   Tue Oct 5 12:29:11 2021 +0530
+
+    added Power function code using recursion
+
+commit baf15d6f34d9d62e62e92dfae56fd8321b18627a
+Merge: 93d81f4 eccbd48
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Tue Oct 5 11:03:07 2021 +0530
+
+    Merge pull request #49 from Yuvraj25-30G/main
+    
+    Create insertionSort.java
+
+commit eccbd48ee551f12c05b852159580db1ab0c44258
+Author: Yuvraj Saxena <78539230+Yuvraj25-30G@users.noreply.github.com>
+Date:   Tue Oct 5 10:53:34 2021 +0530
+
+    Create insertionSort.java
+    
+    Added the insertion sort algorithm in java
+
+commit 93d81f4a90c22db5e788776e8be4e8cc8a8a93e4
+Merge: 0bafd42 a7aca60
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Tue Oct 5 09:32:15 2021 +0530
+
+    Merge pull request #47 from Madhavman/website
+    
+    my website
+
+commit d164dbab8b6edd98c581f450e10410c11709036e
+Author: Aishwaryaaa24 <84702371+Aishwaryaaa24@users.noreply.github.com>
+Date:   Tue Oct 5 09:25:14 2021 +0530
+
+    Created prefixEval.cpp
+    
+    Program to evaluate a prefix expression using stack data structsures
+
+commit a7aca60eeb7e941ce32e645909aeab510813061d
+Author: Madhavman <91618945+Madhavman@users.noreply.github.com>
+Date:   Tue Oct 5 09:00:36 2021 +0530
+
+    my website
+    
+    this is my website you can change according to you please don't mark spam i am a student of class 6 if any problem plesae tell me
+
+commit 0bafd4290fa911b92ac81347898968a1cbd820ca
+Merge: 284b166 8439b1d
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Tue Oct 5 08:24:24 2021 +0530
+
+    Merge pull request #45 from ShubhamManna/smanna2
+    
+    Added a pdf reader python program
+
+commit 284b166acc4c6d26e49472d6e8d2df163f9965f0
+Merge: cab2b85 b8e42da
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Tue Oct 5 08:20:35 2021 +0530
+
+    Merge pull request #46 from alishaac/main
+    
+    added dice game project
+
+commit b8e42da00bc6eb5f0ec19897040ec5c23a0fd352
+Author: Alisha <achauhan2_be20@thapar.edu>
+Date:   Tue Oct 5 08:11:42 2021 +0530
+
+    added dice game project
+
+commit 8439b1dd6ab701939c56bf7e10927a8ad865aed6
+Author: ShubhamManna <manna.shubhm@gmail.com>
+Date:   Tue Oct 5 02:15:54 2021 +0530
+
+    Added a pdf reader python program
+
+commit cab2b85698556da2f4d833af137eb7705cf52336
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Mon Oct 4 10:35:02 2021 +0530
+
+    Update README.md
+
+commit 3ecce253b85da56470f22fd73032923c2ada6b20
+Merge: 2becb6e 9246b4b
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Mon Oct 4 08:18:14 2021 +0530
+
+    Merge pull request #41 from ayush7801/main
+    
+    Hey, Added stack, queue, circular queue in c++, Hope you will like it & merge it
+
+commit 2becb6ea108c04ca68eba538e8e208b3b41afc3b
+Merge: 1d574c0 63b05a6
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Mon Oct 4 08:16:47 2021 +0530
+
+    Merge pull request #40 from sarcasvik/main
+    
+    added some sorting algorithms
+
+commit 9246b4b464526b46544b036ace37d276d240c51e
+Author: Ayush Tiwari <ayushtiwari820@gmail.com>
+Date:   Mon Oct 4 08:04:51 2021 +0530
+
+    Added stack, queue, circular queue in c++
+
+commit 1d574c06fe40a412eb314fefaecd87932dd60f8e
+Merge: 993285a 4d652f3
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Mon Oct 4 07:44:24 2021 +0530
+
+    Merge pull request #39 from NightFury-Dracarys/main
+    
+    Added fibonacci series to the recursions folder
+
+commit 993285a5effb294edede03f09bf6dbedbcdd1d16
+Merge: 78a86f4 74791ca
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Mon Oct 4 07:43:02 2021 +0530
+
+    Merge pull request #38 from rexsphere/main
+    
+    added pascal triangle.cpp code
+
+commit 63b05a6e0fb14bfd83aaac21f91a15f1879cd34d
+Author: Satvik Maheshwari <smaheshwari_be20@thapar.edu>
+Date:   Mon Oct 4 02:33:39 2021 +0530
+
+    added some sorting algorithms
+
+commit 4d652f3eda68ae8664a8c32d185fc6301c025efb
+Merge: c92bdfc 78a86f4
+Author: Sagnik Chatterjee <84010443+NightFury-Dracarys@users.noreply.github.com>
+Date:   Mon Oct 4 01:08:22 2021 +0530
+
+    Merge branch 'Gitit-hacktoberfest:main' into main
+
+commit c92bdfc6cc857ed3867f9f7954d40276a6c633ab
+Author: Sagnik Chatterjee <chatterjeesagnik99@gmail.com>
+Date:   Mon Oct 4 01:06:34 2021 +0530
+
+    Create fibonacci.cpp
+
+commit 78a86f4ab682b32b4caef22b132783b6918fe032
+Merge: 13db1bf 0d7599b
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Mon Oct 4 00:22:23 2021 +0530
+
+    Merge pull request #37 from UndefeatedSunny/main
+    
+    Anagram cpp code
+
+commit 74791cab0229635ef3248573e1d94d2db03c0a34
+Merge: a10e42e 13db1bf
+Author: Pruthviraj Jadhav <72819150+rexsphere@users.noreply.github.com>
+Date:   Sun Oct 3 23:16:37 2021 +0530
+
+    Merge branch 'Gitit-hacktoberfest:main' into main
+
+commit a10e42e9faa6b55fb6cf3678391ee05d5ebbfc62
+Author: Pruthviraj Jadhav <72819150+rexsphere@users.noreply.github.com>
+Date:   Sun Oct 3 23:15:01 2021 +0530
+
+    added pascal triangle.cpp code
+
+commit 0d7599b70e84d6844a19ba5bf990055a655f2614
+Author: Sunny Chaudhary <51516961+UndefeatedSunny@users.noreply.github.com>
+Date:   Sun Oct 3 22:23:15 2021 +0530
+
+    KMP Algorithm
+
+commit 7214d9f3452a8627633ab8dc5088a35a7138f551
+Author: Sunny Chaudhary <51516961+UndefeatedSunny@users.noreply.github.com>
+Date:   Sun Oct 3 22:21:31 2021 +0530
+
+    Anagram cpp code
+
+commit 13db1bf562cb5097d083ebf6592b09948cc342e8
+Merge: 1c2ecfd 0252642
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sun Oct 3 22:20:23 2021 +0530
+
+    Merge pull request #36 from Aishwaryaaa24/main
+    
+    Created binarytree.cpp
+
+commit 02526423e4f3fee9c17f5e7cc503f506d29e4620
+Author: Aishwaryaaa24 <84702371+Aishwaryaaa24@users.noreply.github.com>
+Date:   Sun Oct 3 22:14:13 2021 +0530
+
+    Created zigzag.cpp
+    
+    Program to print a zigzag pattern with user defined length , and number of characters.
+
+commit db91449f5bda78463aaaafdaccb1bd8b3f1f467a
+Author: Aishwaryaaa24 <84702371+Aishwaryaaa24@users.noreply.github.com>
+Date:   Sun Oct 3 21:32:27 2021 +0530
+
+    Created binarytree.cpp
+    
+    Created a binary tree using struct and printed inorder, preorder & postorder traversal.
+
+commit 1c2ecfd75a292de28778a923b3a48212526504c8
+Merge: a94777e 6e2e672
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sun Oct 3 20:44:44 2021 +0530
+
+    Merge pull request #35 from VarunK1505/main
+    
+    Added the algorithm for minimum hamming distance.
+
+commit 6e2e672a2daba45e32fcf48f47d32b5f69f43503
+Author: VarunK1505 <82692363+VarunK1505@users.noreply.github.com>
+Date:   Sun Oct 3 20:32:46 2021 +0530
+
+    Add files via upload
+
+commit a94777ea5de09326ee95551ba5fff9cd4ed59d04
+Merge: 2b524b7 4e25081
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 19:13:47 2021 +0530
+
+    Merge pull request #34 from crystal-kishore/Crystal
+    
+    Crystal added New Cyclic Sort Java Program with explanation and complexity.
+
+commit 4e25081d0d1ecba7c02824be6302df583236dd2f
+Author: Kishore <crystalkishore7@gmail.com>
+Date:   Sun Oct 3 19:07:56 2021 +0530
+
+    Cyclic Sort Java Program with Explanation and time complexity  is added in Java Folder and updated Successfully
+
+commit 7975a7a62dfda122a69cda1b25c3a568be65b490
+Author: Kishore <crystalkishore7@gmail.com>
+Date:   Sun Oct 3 19:02:10 2021 +0530
+
+    Cyclic Sort Java Program with Explanation and time complexity  is added in Java Folder Successfully
+
+commit 80ca38a75ec2bd15c0d7308d6cc0ba554f2703be
+Author: Kishore <crystalkishore7@gmail.com>
+Date:   Sun Oct 3 18:58:37 2021 +0530
+
+    Cyclic Sort Java Program with Explanation and time complexity  is added in Java Folder
+
+commit 72c75bd6681fe57b8846b5e996ee3b9bb80f69dd
+Author: Kishore <crystalkishore7@gmail.com>
+Date:   Sun Oct 3 18:29:02 2021 +0530
+
+    Cyclic Sort Java Program is added in Java Folder
+
+commit 2b524b7723799145ed5d3fdeb58e7442b6b042ae
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 17:11:48 2021 +0530
+
+    Update README.md
+
+commit c8902175ce85d4d22d08da1ed856167618ccad40
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 16:30:07 2021 +0530
+
+    Update README.md
+
+commit 239970610dd6e4367f8fbb6729cf388936a5202b
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 16:29:32 2021 +0530
+
+    Update contribution.md
+
+commit 1c97aa35ea459fcaa16421f1d6a34fa7028c8b2d
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 16:27:39 2021 +0530
+
+    Update README.md
+
+commit e45bee9fd92fc17235720411641d3aa12fc78908
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 16:27:02 2021 +0530
+
+    Create contribution.md
+
+commit 9d8d1606ad64763d9190999850b3fe82ca16edba
+Merge: 49895c5 64a9bae
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 16:20:30 2021 +0530
+
+    Merge pull request #24 from astroidworld/main
+    
+    insertion-sort.cpp added
+
+commit 49895c5d5c122f56cf4fa259cfd1d13c0bc7940a
+Merge: 0569ed1 7268ff0
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 3 16:20:16 2021 +0530
+
+    Merge pull request #32 from NightFury-Dracarys/main
+    
+    Recursions Folder with some programs added
+
+commit 0569ed1e14001e8f9f6ae478e306d5a316a7a352
+Merge: 049dc60 5dd27e2
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 16:17:41 2021 +0530
+
+    Merge pull request #33 from hey-ritikgupta/main
+    
+    Coming-Soon HTML-CSS template
+
+commit 5dd27e244ff4cca3589ef376243c028ebca583c7
+Author: ritik gupta <ritikgupta691@gmail.com>
+Date:   Sun Oct 3 15:48:54 2021 +0530
+
+    Coming-Soon template
+
+commit 7268ff0e95775fef62aa902415d9d55b3b43589f
+Author: Sagnik Chatterjee <chatterjeesagnik99@gmail.com>
+Date:   Sun Oct 3 15:42:24 2021 +0530
+
+    Recursions Folder with some programs added
+    
+    I added a recursions section with some programs in it.
+
+commit 049dc60c01914c52627d58e9055d5d7dfedb3e5d
+Merge: b362cfd f9a85ae
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sun Oct 3 15:35:38 2021 +0530
+
+    Merge pull request #31 from Nihal-Srivastava05/main
+    
+    Added more data structures
+
+commit f9a85aedc1b894e3b04edb52f340fce70127b972
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sun Oct 3 15:34:24 2021 +0530
+
+    Added more data structures
+    
+    Added the files for Circular Linked List and Double Linked List
+
+commit 64a9baea6910c018dd38ec45b53ea56cc61e9718
+Author: Akash Das <75432008+astroidworld@users.noreply.github.com>
+Date:   Sun Oct 3 15:08:45 2021 +0530
+
+    Time and space complexity added
+    
+    I have added the time and space complexity of the insertion sort program.
+
+commit b362cfd1bd2cc573cb522792cb4f22b9a0b44b54
+Merge: 6d83299 a9839e5
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 14:38:20 2021 +0530
+
+    Merge pull request #28 from PranavNair01/main
+    
+    Added a Bootstrap enabled CSS Website
+
+commit 6d83299368c1b08ea177fd8963344d619cd77194
+Merge: cb854c7 e5cbab5
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 14:05:45 2021 +0530
+
+    Merge pull request #29 from ShubhamManna/smanna
+    
+    Added common questions folder and a code
+
+commit a9839e50a245d67c78a00dcaa6f03c78e122e736
+Author: PranavNair01 <n.pranav@iitg.ac.in>
+Date:   Sun Oct 3 14:02:10 2021 +0530
+
+    Added a Bootstrap enabled CSS Website
+
+commit e5cbab5feba8c27210f0549d5588690cfacf8ee4
+Author: ShubhamManna <manna.shubhm@gmail.com>
+Date:   Sun Oct 3 14:01:01 2021 +0530
+
+    Added common questions folder and a code
+
+commit cb854c7fd9db92693c3f34e267ced5d095429231
+Merge: b93eb97 b1a722b
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 13:53:54 2021 +0530
+
+    Merge pull request #23 from debajyoti22/main
+    
+    BubbleSorting in Linked List
+
+commit b93eb976d46a7517ce403d8d29a75fd496c1986d
+Merge: 5c5c44a 568526b
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 3 13:40:57 2021 +0530
+
+    Merge pull request #27 from Sonukumarkeshri4/main
+    
+    Added login / Registration Page in Html css templates folder
+
+commit 5c5c44a2ec5ef1342ce5d66f1b13c8cb143a87c8
+Merge: a3aed31 d177f86
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sun Oct 3 13:39:28 2021 +0530
+
+    Merge pull request #26 from ShubhamManna/shubham-manna
+    
+    Added coctail sort in cpp
+
+commit 568526bca18c1389e3d3d662b74d9c89087c3733
+Author: Sonu Kumar Keshri <75078531+Sonukumarkeshri4@users.noreply.github.com>
+Date:   Sun Oct 3 13:30:10 2021 +0530
+
+    Added login / Registration Page
+
+commit b1a722b2379eca80bc861cc5d6c560a3ef0d534e
+Author: debajyoti22 <91139741+debajyoti22@users.noreply.github.com>
+Date:   Sun Oct 3 13:21:24 2021 +0530
+
+    Update BubbleSort_inLinkedList.c
+
+commit d177f86a863f835beb2bff50a0308e268aab5d49
+Author: ShubhamManna <manna.shubhm@gmail.com>
+Date:   Sun Oct 3 13:12:45 2021 +0530
+
+    Added coctail sort in cpp
+
+commit 56f2099278919655b14fa1bdd1489732852d68df
+Author: debajyoti22 <91139741+debajyoti22@users.noreply.github.com>
+Date:   Sun Oct 3 13:11:39 2021 +0530
+
+    Update BubbleSort_inLinkedList.c
+
+commit a3aed317123f2b555e682e4691fa3eb7ac4fd497
+Merge: 6bb49ce 8d18cb7
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 12:16:42 2021 +0530
+
+    Merge pull request #22 from Hrishabh5/Hrishabh
+    
+    Add Binary Search Algorithm
+
+commit 6bb49ce0546c6d8551337183ef41a7686985940f
+Merge: 4d4a0e3 c28ddbe
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 12:15:11 2021 +0530
+
+    Merge pull request #20 from Gaurika-Gupta/main
+    
+    Created bubbleSort.java
+
+commit 5fdb0f55d20dfd29063ad2b6acf86320849445ee
+Author: Akash Das <75432008+astroidworld@users.noreply.github.com>
+Date:   Sun Oct 3 11:55:02 2021 +0530
+
+    insertion-sort.cpp added
+
+commit c28ddbe16d24de5945ef4acf80f892779c510310
+Author: Gaurika Gupta <84630728+Gaurika-Gupta@users.noreply.github.com>
+Date:   Sun Oct 3 11:51:51 2021 +0530
+
+    Update bubbleSort.java
+
+commit d9b5a085e7b18bd2d0e489598217f473f4a06d9b
+Author: debajyoti22 <91139741+debajyoti22@users.noreply.github.com>
+Date:   Sun Oct 3 11:46:31 2021 +0530
+
+    Create BubbleSort_inLinkedList.c
+
+commit 8d18cb751948685ff5ccf2c5421685b91129e218
+Author: Hrishabh Jain <hrishabh507@gmail.com>
+Date:   Sun Oct 3 11:45:32 2021 +0530
+
+    Add Binary Search Algorithm
+
+commit 4d4a0e3d98e33a10cc0a6aba24643be72ccd4596
+Merge: 074c93d c39ada3
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 11:31:09 2021 +0530
+
+    Merge pull request #21 from Mishra-Shubh/main
+    
+    added Bounce Loading animation
+
+commit 074c93de9568b1dcf44d55398ed890cdcf2b8dac
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 11:25:24 2021 +0530
+
+    Update README.md
+
+commit 83546e03f64151b4c02b42d217e8846e2fa5f48a
+Author: Gaurika Gupta <84630728+Gaurika-Gupta@users.noreply.github.com>
+Date:   Sun Oct 3 11:10:39 2021 +0530
+
+    Created bubbleSort.java
+    
+    Bubble Sort algorithm with time complexity O(n squared)
+
+commit de807be888ecc1da4edc8d6744f8a5a128e13d2c
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 11:10:37 2021 +0530
+
+    Update README.md
+    
+    added pull request guidelines and then added how to open pull requests
+
+commit c39ada3dbb264af94f0b33c7ac21f2af19e88ee7
+Author: Mishra-Shubh <shubh.mishra_cs19@gla.ac.in>
+Date:   Sun Oct 3 11:09:54 2021 +0530
+
+    /html-loading-templete readme.md edited
+
+commit d48488bf10c1a0b636844b2c04a8bb7c587c6b6a
+Author: Mishra-Shubh <shubh.mishra_cs19@gla.ac.in>
+Date:   Sun Oct 3 11:05:58 2021 +0530
+
+    added loading animation templete
+
+commit 79f5c55d6db253eb171bcc5ce5c49422ff94225d
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 11:03:09 2021 +0530
+
+    Update README.md
+
+commit 033ba9904977c0265a7c9333ebb2f1e656cdfa0d
+Merge: e90dd38 bf47819
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 10:56:03 2021 +0530
+
+    Merge pull request #19 from PranavViswanathan/main
+    
+    added new template
+
+commit bf47819b9e4c057566de2c7a7db008b7bfff80db
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 10:53:43 2021 +0530
+
+    Add files via upload
+
+commit 83f912e58ba47bebba09030e909b443a6320d76a
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 10:52:12 2021 +0530
+
+    Create about.md
+    
+    added description file
+
+commit 2a5c187461de454f82b969e2495ed824b46e616f
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 10:51:19 2021 +0530
+
+    Delete about.md
+
+commit 5659e15ed3abd2615f51bd7cf794318454531e78
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 10:50:53 2021 +0530
+
+    Create about.md
+
+commit 4a129a7b22235fb0d16cb559f013e38ef516b030
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sun Oct 3 10:46:42 2021 +0530
+
+    Create intro.md
+
+commit e90dd380661c46537510a767776f250efb314b8e
+Merge: 7fcd830 527f7cf
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sat Oct 2 23:24:59 2021 +0530
+
+    Merge pull request #16 from arvindberi/main
+    
+    Tower of hanoi
+
+commit 7fcd830f4d7386bc7eca78e7cf85c8090eeb66ea
+Merge: 7f04907 a0160eb
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sat Oct 2 23:24:19 2021 +0530
+
+    Merge pull request #17 from saurabh-bot/main
+    
+    added KMP.java for pattern searching
+
+commit 7f049076e404699b7eed8ccce55cbe87959dce64
+Merge: b8f723f 496b12c
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sat Oct 2 23:22:16 2021 +0530
+
+    Merge pull request #18 from Nihal-Srivastava05/main
+    
+    Added Circular Queue and Circular DL
+
+commit 496b12c561e4e22557b519c46d3d5617575d085f
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sat Oct 2 23:21:00 2021 +0530
+
+    Added Circular Queue and Circular DL
+    
+    Added the cpp code for Circular Queue and Circular Double linked list.
+
+commit a0160ebae74c2e2b2e0f68b1f1061ed0f07855d6
+Author: Saurabh Kumar Kaushal <56887943+saurabh-bot@users.noreply.github.com>
+Date:   Sat Oct 2 23:11:37 2021 +0530
+
+    added KMP.java for pattern searching
+
+commit 527f7cf9eacc5c9eb03d6b3381770839a8fb964f
+Author: arvindberi <91769609+arvindberi@users.noreply.github.com>
+Date:   Sat Oct 2 23:11:20 2021 +0530
+
+    Create toh.c
+
+commit b8f723fe945d290a2452cfb15fd1f97094eed2f3
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sat Oct 2 23:07:23 2021 +0530
+
+    Update README.md
+
+commit 1723d9050b9b913748371e8decf088f292207c27
+Merge: 60b7b2a 978efee
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Sat Oct 2 23:05:49 2021 +0530
+
+    Merge pull request #15 from shobhit-bhatt-14/main
+    
+    Create Fibonacci_DP.js
+
+commit 978efeef1d080fed1ca641bcf60bd87e4f228749
+Author: SHOBHIT BHATT <shobhit.bhatt.14@gmail.com>
+Date:   Sat Oct 2 23:04:36 2021 +0530
+
+    Create Fibonacci_DP.js
+    
+    Fibonacci with the concept of DP, optimized space-time complexity.
+
+commit 60b7b2ae91608a3d9ae2a0d846af5c34aefa90a6
+Merge: 370d822 b3625cc
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sat Oct 2 23:03:24 2021 +0530
+
+    Merge pull request #12 from MAYANK25402/main
+    
+    Program in C language to find the Keywords in a Text file!
+
+commit 370d8223482d043d507cb02cdb933c67c8a23b48
+Merge: 79f2c49 92ba12a
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sat Oct 2 23:02:48 2021 +0530
+
+    Merge pull request #13 from arvindberi/main
+    
+    Create fibonacci.c (using recursion)
+
+commit 79f2c494838b1ad691c5d148570f668c368b8d84
+Merge: 7f82ca1 9c0f43d
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sat Oct 2 22:59:52 2021 +0530
+
+    Merge pull request #14 from Nihal-Srivastava05/main
+    
+    Update README.md
+
+commit 9c0f43d818681021a395fc3d4715c25dcf32b36c
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sat Oct 2 22:58:58 2021 +0530
+
+    Update README.md
+    
+    Added the rules and event details.
+
+commit 92ba12a12c5049f9304570d62d4d36c7f70dba4f
+Author: arvindberi <91769609+arvindberi@users.noreply.github.com>
+Date:   Sat Oct 2 22:40:48 2021 +0530
+
+    Create fibonacci.c
+
+commit b3625cc1094758f60f2c3b90496dbf770e915c20
+Author: MAYANK25402 <70213883+MAYANK25402@users.noreply.github.com>
+Date:   Sat Oct 2 22:38:56 2021 +0530
+
+    Create To_find_keywords.txt
+
+commit 08b9e2f589a07e31d91622fbcd680e5b24fade71
+Author: MAYANK25402 <70213883+MAYANK25402@users.noreply.github.com>
+Date:   Sat Oct 2 22:37:52 2021 +0530
+
+    Create To_find_keywords.c
+
+commit 7f82ca11099f5cc317e6858358cf5addb0c005ed
+Merge: 153be9f 5285a97
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sat Oct 2 22:36:02 2021 +0530
+
+    Merge pull request #10 from vnmrsharma/main
+    
+    Create Invert_A_Tree.cpp
+
+commit 153be9f3142ed64654c3aec9799dbef24f7c2ca6
+Merge: 2f0cc5e ae31d66
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sat Oct 2 22:34:09 2021 +0530
+
+    Merge pull request #11 from Nihal-Srivastava05/main
+    
+    Added Queue
+
+commit ae31d660a51f7fbac23e6a8d8362a18e3369fed6
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sat Oct 2 22:32:24 2021 +0530
+
+    Added Queue
+    
+    Added the code for queue in C.
+
+commit 5285a974102fcbb30ea312ef6d2ba1a28abc5941
+Author: vinamra sharma <vinamrasharma5@gmail.com>
+Date:   Sat Oct 2 22:12:26 2021 +0530
+
+    Create Invert_A_Tree.cpp
+
+commit 2f0cc5e96363dd64de8eed7123365008a6442aeb
+Merge: deebd1c 76a91c4
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Sat Oct 2 22:05:35 2021 +0530
+
+    Merge pull request #7 from shashwat-nayak/main
+    
+    added stack implementation programs
+
+commit deebd1c0103d8cd0a42debbc01c88b5e3c69d16f
+Merge: 6b39756 10e3b9a
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sat Oct 2 22:04:01 2021 +0530
+
+    Merge pull request #9 from Nihal-Srivastava05/main
+    
+    Added Stack
+
+commit 10e3b9a1ba79689d2cd0c83e08ad9729f3934e8d
+Author: Nihal Srivastava <82692408+Nihal-Srivastava05@users.noreply.github.com>
+Date:   Sat Oct 2 22:02:31 2021 +0530
+
+    Added Stack
+    
+    Added the files for stack with array and linked list
+
+commit 76a91c45ed4fa7055094b15d365a7100a71ca7cb
+Author: shashwat-nayak <75883118+shashwat-nayak@users.noreply.github.com>
+Date:   Fri Oct 1 23:31:45 2021 +0530
+
+    added stack implementation programs
+    
+    1.infix to prefix conversion
+    2.bracket validity checking
+    3.postfix to infix
+    4.evaluation of postfix expression(only works for single digit integers)
+    all are done through stack in c
+
+commit 6b3975647254928769e2bc7700ec0f76f01bacc6
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 1 21:19:14 2021 +0530
+
+    Linked List Menu Driven Program
+
+commit e0221a57391a719addbb191d628355e78607be33
+Merge: ce679da c04b7c7
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 1 19:52:34 2021 +0530
+
+    Merge pull request #5 from Preyash-tryin-to-code/main
+    
+    Create Testing.c
+
+commit c04b7c70a862325121b78a3bae410a5e668cfbb0
+Author: Preyash <73031725+Preyash-tryin-to-code@users.noreply.github.com>
+Date:   Fri Oct 1 19:51:00 2021 +0530
+
+    Create Testing.c
+
+commit ce679da82673fae98d60910208ee8e15a9717f50
+Merge: 2ac4d46 c780d75
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Fri Oct 1 14:42:54 2021 +0530
+
+    Merge pull request #4 from PranavViswanathan/main
+    
+    Create bubblesort.cpp
+
+commit c780d7532d7826185c4f366268cab7a2ca3c0ad3
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Fri Oct 1 14:41:53 2021 +0530
+
+    Create bubblesort.cpp
+
+commit 2ac4d4630b87f40283d4fc0e9dbbee2e92155a94
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Fri Oct 1 14:41:08 2021 +0530
+
+    Delete bubblesort.cpp
+
+commit b03cefff750e788974e4d5861416f223be243b0d
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Fri Oct 1 14:40:53 2021 +0530
+
+    Create bubblesort.cpp
+
+commit d7720dbe30019bbe783a00127c5d4ba76c35967b
+Merge: 822f556 6e86749
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Fri Oct 1 09:19:20 2021 +0530
+
+    Merge pull request #3 from PranavViswanathan/main
+    
+    Create selectionsort.cpp
+
+commit 6e867491817334c1b6af3c08b2c0c970b77b43ce
+Merge: d46134c 822f556
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Fri Oct 1 09:19:13 2021 +0530
+
+    Merge branch 'main' into main
+
+commit d46134c643b0f475a58b6c732590398c9412f7b7
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Fri Oct 1 09:17:05 2021 +0530
+
+    Create selectionsort.cpp
+
+commit 822f556c0b5f4932e520ea7763c90c68821bd187
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Fri Oct 1 09:16:23 2021 +0530
+
+    Delete bubblesort.cpp
+
+commit ec52d2a5adca5c0d25c3699c82aac10311e72762
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Fri Oct 1 09:16:04 2021 +0530
+
+    Create selectionsort.cpp
+
+commit db469e8338f8d955d127a432d0060e7df68c1e19
+Merge: ffe757a bc90c39
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Fri Oct 1 08:48:01 2021 +0530
+
+    Merge pull request #2 from PranavViswanathan/main
+    
+    Create bubblesort.cpp
+
+commit bc90c393e1c1894dd6b5dcab0077628ef826008c
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Fri Oct 1 08:46:53 2021 +0530
+
+    Create bubblesort.cpp
+
+commit ffe757ab492d1dac7d94857699ac767b8f7125bb
+Merge: 450ed15 49f4c2b
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Fri Oct 1 08:35:27 2021 +0530
+
+    Merge pull request #1 from PranavViswanathan/main
+    
+    Create new folder structure for CPP data structures and algos
+
+commit 49f4c2b8e183f4349d39d9da89e29a9143f2d3b9
+Merge: 450ed15 31a7723
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Fri Oct 1 08:34:24 2021 +0530
+
+    Merge pull request #1 from PranavViswanathan/PranavViswanathan-patch-1
+    
+    Create intro.md
+
+commit 31a7723627e52b58bf728c09f736ff009b657770
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Fri Oct 1 08:33:34 2021 +0530
+
+    Create intro.md
+
+commit 450ed151b424e28707500ac3f8a6c62c11457ce9
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Wed Sep 29 20:41:31 2021 +0530
+
+    Update README.md
+
+commit 380f82784182ce857bc5a89c388ffbc1ee5f1593
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Wed Sep 29 20:39:43 2021 +0530
+
+    added banner08BLlogo.png
+
+commit 70f3ba597ab090d6531bfd1ee0858e8dda2806a6
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Wed Sep 29 20:38:54 2021 +0530
+
+    Create about.md
+
+commit 47c5dec9bd7ff431b28bbc145d76d5ec2253d499
+Author: Pranav Viswanathan <72350161+PranavViswanathan@users.noreply.github.com>
+Date:   Wed Sep 29 20:35:32 2021 +0530
+
+    Initial commit
